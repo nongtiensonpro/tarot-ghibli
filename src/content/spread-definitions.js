@@ -1,25 +1,25 @@
 export const spreadDefinitions = [
   {
     id: 'single',
-    positions: ['Thong diep']
+    positions: ['Thông điệp']
   },
   {
     id: 'three',
-    positions: ['Qua khu', 'Hien tai', 'Tuong lai']
+    positions: ['Quá khứ', 'Hiện tại', 'Tương lai']
   },
   {
     id: 'celtic',
     positions: [
-      'Tinh huong hien tai',
-      'Thach thuc',
-      'Nen tang',
-      'Qua khu gan',
-      'Tiem nang',
-      'Tuong lai gan',
-      'Ban than',
-      'Moi truong',
-      'Hy vong va noi so',
-      'Ket qua'
+      'Tình huống hiện tại',
+      'Thách thức',
+      'Nền tảng',
+      'Quá khứ gần',
+      'Tiềm năng',
+      'Tương lai gần',
+      'Bản thân',
+      'Môi trường',
+      'Hy vọng và nỗi sợ',
+      'Kết quả'
     ]
   }
 ];

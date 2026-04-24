@@ -34,15 +34,15 @@ const detailTabs = document.querySelectorAll('[data-detail-tab]');
 
 function getFilterLabel(filter) {
   const labels = {
-    all: 'Tat ca',
-    major: 'Major Arcana',
-    wands: 'Wands',
-    cups: 'Cups',
-    swords: 'Swords',
-    pentacles: 'Pentacles'
+    all: 'Tất cả',
+    major: 'Bộ Ẩn Chính',
+    wands: 'Gậy',
+    cups: 'Chén',
+    swords: 'Kiếm',
+    pentacles: 'Tiền'
   };
 
-  return labels[filter] ?? 'Tat ca';
+  return labels[filter] ?? 'Tất cả';
 }
 
 function getCardGlyph(card) {
@@ -72,8 +72,8 @@ function updateSummary() {
 
   if (searchState) {
     searchState.textContent = state.query
-      ? `Tim: "${state.query}"`
-      : 'San sang tra cuu';
+      ? `Tìm: "${state.query}"`
+      : 'Sẵn sàng tra cứu';
   }
 
   document.title = state.query
@@ -87,11 +87,11 @@ function renderDetail(card) {
   }
 
   if (!card) {
-    detailArcana.textContent = 'Khong co ket qua';
-    detailName.textContent = 'Khong tim thay la bai phu hop';
-    detailMeta.textContent = 'Thu doi bo loc hoac tu khoa tim kiem khac.';
-    detailHeading.textContent = 'Khong co du lieu';
-    detailMeaning.textContent = 'Danh sach hien tai khong co la bai nao khop voi bo loc dang chon.';
+    detailArcana.textContent = 'Không có kết quả';
+    detailName.textContent = 'Không tìm thấy lá bài phù hợp';
+    detailMeta.textContent = 'Thử đổi bộ lọc hoặc từ khóa tìm kiếm khác.';
+    detailHeading.textContent = 'Không có dữ liệu';
+    detailMeaning.textContent = 'Danh sách hiện tại không có lá bài nào khớp với bộ lọc đang chọn.';
     detailKeywords.replaceChildren();
     return;
   }
@@ -107,7 +107,7 @@ function renderDetail(card) {
       : `${card.suit_vi} • ${card.rank}`;
   detailName.textContent = card.name;
   detailMeta.textContent = `${card.name_vi} • ${card.element} • ${getFilterLabel(card.suit ?? 'major')}`;
-  detailHeading.textContent = state.detailMode === 'reversed' ? 'Nghia nguoc' : 'Nghia xuoi';
+  detailHeading.textContent = state.detailMode === 'reversed' ? 'Nghĩa ngược' : 'Nghĩa xuôi';
   detailMeaning.textContent = meaning;
   detailKeywords.replaceChildren(
     ...keywords.map((keyword) => {
@@ -173,7 +173,7 @@ function renderCatalog() {
   if (!state.filteredCards.length) {
     const empty = document.createElement('li');
     empty.className = 'catalog-empty';
-    empty.textContent = 'Khong co la bai nao khop voi bo loc va tu khoa hien tai.';
+    empty.textContent = 'Không có lá bài nào khớp với bộ lọc và từ khóa hiện tại.';
     catalog.replaceChildren(empty);
     renderDetail(null);
     updateSummary();
@@ -211,13 +211,13 @@ async function initializeExplorePage() {
     applyFilters();
   } catch (error) {
     if (searchState) {
-      searchState.textContent = 'Khong tai duoc du lieu';
+      searchState.textContent = 'Không tải được dữ liệu';
     }
     if (catalog) {
       catalog.setAttribute('aria-busy', 'false');
       const empty = document.createElement('li');
       empty.className = 'catalog-empty';
-      empty.textContent = 'Khong the tai tarot.json. Kiem tra duong dan va build output.';
+      empty.textContent = 'Không thể tải tarot.json. Kiểm tra đường dẫn và build output.';
       catalog.replaceChildren(empty);
     }
     console.error(error);

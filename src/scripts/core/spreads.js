@@ -1,20 +1,20 @@
 export const spreads = {
   single: {
     id: 'single',
-    label: '1 la',
-    title: 'Thong diep trong ngay',
+    label: '1 lá',
+    title: 'Thông điệp trong ngày',
     count: 1
   },
   three: {
     id: 'three',
-    label: '3 la',
-    title: 'Qua khu, hien tai, tuong lai',
+    label: '3 lá',
+    title: 'Quá khứ, hiện tại, tương lai',
     count: 3
   },
   celtic: {
     id: 'celtic',
     label: 'Celtic Cross',
-    title: 'Doc boi canh voi 10 la',
+    title: 'Đọc bối cảnh với 10 lá',
     count: 10
   }
 };

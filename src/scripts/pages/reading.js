@@ -23,7 +23,7 @@ const detailKeywords = document.querySelector('[data-detail-keywords]');
 const detailMeaning = document.querySelector('[data-detail-meaning]');
 
 function getOrientationLabel(entry) {
-  return entry.is_reversed ? 'Nguoc' : 'Xuoi';
+  return entry.is_reversed ? 'Ngược' : 'Xuôi';
 }
 
 function getMeaning(entry) {
@@ -107,9 +107,9 @@ function renderEmptyState() {
   }
 
   eyebrow.textContent = 'Reading Guard';
-  title.textContent = 'Chua co trai bai nao trong session hien tai.';
+  title.textContent = 'Chưa có trải bài nào trong session hiện tại.';
   copy.textContent =
-    'Ban can quay lai trang chu de rut bai truoc. Phase 3 da bat guard cho truong hop vao truc tiep reading page ma khong co du lieu.';
+    'Bạn cần quay lại trang chủ để rút bài trước. Phase 3 đã bật guard cho trường hợp vào trực tiếp reading page mà không có dữ liệu.';
   summary.hidden = true;
   document.title = 'Reading Guard | Tarot Ghibli Inspired';
 }
@@ -131,9 +131,9 @@ function renderReading(reading) {
   eyebrow.textContent = reading.spread.label;
   title.textContent = reading.spread.title;
   copy.textContent =
-    'Moi la bai duoc dat vao vi tri cua spread da chon. Nhan vao tung la de xem y nghia chi tiet va tu khoa theo trang thai xuoi hoac nguoc.';
+    'Mỗi lá bài được đặt vào vị trí của spread đã chọn. Nhấn vào từng lá để xem ý nghĩa chi tiết và từ khóa theo trạng thái xuôi hoặc ngược.';
   summarySpread.textContent = reading.spread.label;
-  summaryReversed.textContent = reading.reversed_enabled ? 'Bat' : 'Tat';
+  summaryReversed.textContent = reading.reversed_enabled ? 'Bật' : 'Tắt';
   summaryCount.textContent = String(reading.cards.length);
   document.title = `${reading.spread.label} | Tarot Ghibli Inspired`;
   spreadList.dataset.spread = reading.spread.id;

@@ -14,13 +14,19 @@
     <meta property="og:title" content="Explore | Tarot Ghibli Inspired" />
     <meta
       property="og:description"
-      content="Tra cuu 78 la bai Tarot, loc theo suit va doc nghia xuoi nguoc trong detail panel."
+      content="Tra cứu 78 lá bài Tarot, lọc theo suit và đọc nghĩa xuôi ngược trong detail panel."
     />
     <meta property="og:image" content="/tarot-ghibli/assets/ui/og-cover.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Noto+Serif:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
     <script type="module" src="/src/scripts/pages/explore.js"></script>
   </head>
   <body data-page="explore">
-    <a class="skip-link" href="#main-content">Bo qua dieu huong va den noi dung chinh</a>
+    <a class="skip-link" href="#main-content">Bỏ qua điều hướng và đến nội dung chính</a>
     <div class="site-shell">
       <header class="site-header">
         <a class="brand-mark" href="./index.html">Tarot Ghibli</a>
@@ -33,24 +39,24 @@
 
       <main class="page-hero explore-shell" id="main-content">
         <p class="eyebrow">Tarot Encyclopedia</p>
-        <h1>Tra cuu toan bo 78 la bai trong mot khung doc de loc, tim va so sanh.</h1>
+        <h1>Tra cứu toàn bộ 78 lá bài trong một khung đọc để lọc, tìm và so sánh.</h1>
         <p class="page-copy">
-          Explore page nay dung chung `tarot.json` voi reading flow. Ban co the loc theo arcana
-          hoac suit, tim theo ten va tu khoa, roi doc nghia tung la o panel ben canh.
+          Explore page này dùng chung `tarot.json` với reading flow. Bạn có thể lọc theo arcana
+          hoặc suit, tìm theo tên và từ khóa, rồi đọc nghĩa từng lá ở panel bên cạnh.
         </p>
 
-        <section class="explore-toolbar" aria-label="Cong cu tra cuu">
+        <section class="explore-toolbar" aria-label="Công cụ tra cứu">
           <label class="search-field">
-            <span class="visually-hidden">Tim theo ten hoac tu khoa</span>
+            <span class="visually-hidden">Tìm theo tên hoặc từ khóa</span>
             <input
               type="search"
-              placeholder="Tim theo ten, ten viet hoac tu khoa..."
+              placeholder="Tìm theo tên, tên Việt hoặc từ khóa..."
               data-search-input
             />
           </label>
 
-          <div class="filter-group" role="group" aria-label="Loc theo nhom">
-            <button class="filter-chip is-active" type="button" data-filter="all">Tat ca</button>
+          <div class="filter-group" role="group" aria-label="Lọc theo nhóm">
+            <button class="filter-chip is-active" type="button" data-filter="all">Tất cả</button>
             <button class="filter-chip" type="button" data-filter="major">Major Arcana</button>
             <button class="filter-chip" type="button" data-filter="wands">Wands</button>
             <button class="filter-chip" type="button" data-filter="cups">Cups</button>
@@ -61,29 +67,29 @@
 
         <section class="explore-summary" data-explore-summary aria-live="polite">
           <div>
-            <span class="summary-label">Ket qua</span>
+            <span class="summary-label">Kết quả</span>
             <strong data-result-count>0</strong>
           </div>
           <div>
-            <span class="summary-label">Bo loc</span>
-            <strong data-active-filter>Tat ca</strong>
+            <span class="summary-label">Bộ lọc</span>
+            <strong data-active-filter>Tất cả</strong>
           </div>
           <div>
-            <span class="summary-label">Trang thai</span>
-            <strong data-search-state>Dang tai du lieu</strong>
+            <span class="summary-label">Trạng thái</span>
+            <strong data-search-state>Đang tải dữ liệu</strong>
           </div>
         </section>
 
         <section class="explore-layout">
-          <section class="explore-board" aria-label="Danh sach la bai">
+          <section class="explore-board" aria-label="Danh sách lá bài">
             <ol class="card-catalog" data-card-catalog aria-busy="true"></ol>
           </section>
 
           <aside class="explore-detail" data-detail-panel>
             <p class="explore-detail__eyebrow" data-detail-arcana>Tarot Detail</p>
-            <h2 class="explore-detail__title" data-detail-name>Chon mot la bai</h2>
+            <h2 class="explore-detail__title" data-detail-name>Chọn một lá bài</h2>
             <p class="explore-detail__meta" data-detail-meta>
-              Panel nay se hien thong tin cua la bai duoc chon trong grid.
+              Panel này sẽ hiện thông tin của lá bài được chọn trong grid.
             </p>
 
             <div class="explore-detail__keywords" data-detail-keywords></div>
@@ -98,17 +104,17 @@
             </div>
 
             <div class="explore-detail__meaning">
-              <h3 data-detail-heading>Nghia xuoi</h3>
+              <h3 data-detail-heading>Nghĩa xuôi</h3>
               <p data-detail-meaning>
-                Chon mot la trong danh sach de doc nghia chi tiet va xem tu khoa.
+                Chọn một lá trong danh sách để đọc nghĩa chi tiết và xem từ khóa.
               </p>
             </div>
           </aside>
         </section>
 
         <div class="hero-actions">
-          <a class="button-primary" href="./index.html">Quay lai trang chu</a>
-          <a class="button-secondary" href="./reading.html">Den reading page</a>
+          <a class="button-primary" href="./index.html">Quay lại trang chủ</a>
+          <a class="button-secondary" href="./reading.html">Đến reading page</a>
         </div>
       </main>
     </div>

@@ -12,16 +12,16 @@ import { saveReading } from '../core/storage.js';
 
 const spreadMeta = {
   single: {
-    label: '1 la',
-    detail: 'Thong diep trong ngay'
+    label: '1 lá',
+    detail: 'Thông điệp trong ngày'
   },
   three: {
-    label: '3 la',
-    detail: 'Qua khu, hien tai, tuong lai'
+    label: '3 lá',
+    detail: 'Quá khứ, hiện tại, tương lai'
   },
   celtic: {
     label: 'Celtic Cross',
-    detail: 'Doc boi canh voi 10 la'
+    detail: 'Đọc bối cảnh với 10 lá'
   }
 };
 
@@ -47,8 +47,8 @@ function updateSpreadState() {
   spreadLabel.textContent = optionMeta.label;
   spreadDetail.textContent = optionMeta.detail;
   readingCta.textContent = tarotCards.length
-    ? `Bat dau trai ${optionMeta.label}`
-    : 'Dang nap bo bai...';
+    ? `Bắt đầu trải ${optionMeta.label}`
+    : 'Đang nạp bộ bài...';
   readingCta.disabled = tarotCards.length === 0;
   readingCta.dataset.spread = spread;
   readingCta.dataset.reversed = String(reversed);
@@ -64,16 +64,16 @@ async function initializeHomePage() {
     const payload = await loadTarotData();
     tarotCards = payload.cards;
     if (homeStatus) {
-      homeStatus.textContent = `Bo bai da san sang: ${payload.meta.card_count} la.`;
+      homeStatus.textContent = `Bộ bài đã sẵn sàng: ${payload.meta.card_count} lá.`;
     }
     updateSpreadState();
   } catch (error) {
     if (readingCta) {
-      readingCta.textContent = 'Khong tai duoc du lieu';
+      readingCta.textContent = 'Không tải được dữ liệu';
       readingCta.disabled = true;
     }
     if (homeStatus) {
-      homeStatus.textContent = 'Khong tai duoc tarot.json. Vui long thu lai.';
+      homeStatus.textContent = 'Không tải được tarot.json. Vui lòng thử lại.';
     }
     console.error(error);
   }

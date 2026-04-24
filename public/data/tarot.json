@@ -16,25 +16,25 @@
     {
       "id": "major_00",
       "name": "The Fool",
-      "name_vi": "Ke Kho",
+      "name_vi": "Kẻ Khờ",
       "number": 0,
       "rank": "0",
       "element": "Air",
       "accent": "#f0c060",
       "keywords_upright": [
-        "khoi dau",
-        "tu do",
-        "niem tin",
-        "phieu luu"
+        "khởi đầu",
+        "tự do",
+        "niềm tin",
+        "phiêu lưu"
       ],
       "keywords_reversed": [
-        "lieu linh",
-        "thieu chuan bi",
-        "do du",
-        "mat huong"
+        "liều lĩnh",
+        "thiếu chuẩn bị",
+        "do dự",
+        "mất hướng"
       ],
-      "meaning_upright": "La bai nay noi ve mot nguong cua hanh trinh moi, khi ban chua biet het moi thu nhung van co dong luc buoc toi. No khuyen ban giu su trong treo, tin vao truc giac va de minh duoc hoc hoi qua trai nghiem.",
-      "meaning_reversed": "Khi dao nguoc, The Fool canh bao ve su hap tap hoac nhay vao mot huong di khi chua co nen tang ro rang. Ban van co the bat dau, nhung nen cham lai mot nhip de kiem tra ky vong, rui ro va muc do san sang cua minh.",
+      "meaning_upright": "Lá bài này nói về một ngưỡng của hành trình mới, khi bạn chưa biết hết mọi thứ nhưng vẫn có động lực bước tới. Nó khuyên bạn giữ sự trong trẻo, tin vào trực giác và để mình được học hỏi qua trải nghiệm.",
+      "meaning_reversed": "Khi đảo ngược, The Fool cảnh báo về sự hấp tấp hoặc nhảy vào một hướng đi khi chưa có nền tảng rõ ràng. Bạn vẫn có thể bắt đầu, nhưng nên chậm lại một nhịp để kiểm tra kỳ vọng, rủi ro và mức độ sẵn sàng của mình.",
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
@@ -43,25 +43,25 @@
     {
       "id": "major_01",
       "name": "The Magician",
-      "name_vi": "Phap Su",
+      "name_vi": "Pháp Sư",
       "number": 1,
       "rank": "I",
       "element": "Air",
       "accent": "#f0c060",
       "keywords_upright": [
-        "chu dong",
-        "kien tao",
-        "tap trung",
-        "hien thuc hoa"
+        "chủ động",
+        "kiến tạo",
+        "tập trung",
+        "hiện thực hóa"
       ],
       "keywords_reversed": [
-        "phan tan",
-        "thao tung",
-        "thieu ky nang",
-        "dung sai nang luong"
+        "phân tán",
+        "thao túng",
+        "thiếu kỹ năng",
+        "dùng sai năng lượng"
       ],
-      "meaning_upright": "The Magician cho thay ban da co du cong cu de bien mot y tuong thanh hanh dong cu the. La bai nhan manh suc manh cua y chi, su tu tin va kha nang ket noi tai nguyen dung luc.",
-      "meaning_reversed": "O chieu nguoc, nang luong nay de bi tan man hoac bi dung theo cach khong trung thuc. Ban can quay lai voi muc dich that su, tranh hieu ung lam nhieu nhung khong dung trong tam.",
+      "meaning_upright": "The Magician cho thấy bạn đã có đủ công cụ để biến một ý tưởng thành hành động cụ thể. Lá bài nhấn mạnh sức mạnh của ý chí, sự tự tin và khả năng kết nối tài nguyên đúng lúc.",
+      "meaning_reversed": "Ở chiều ngược, năng lượng này dễ bị tản mạn hoặc bị dùng theo cách không trung thực. Bạn cần quay lại với mục đích thật sự, tránh hiệu ứng làm nhiều nhưng không đúng trọng tâm.",
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
@@ -70,25 +70,25 @@
     {
       "id": "major_02",
       "name": "The High Priestess",
-      "name_vi": "Nu Tu Si",
+      "name_vi": "Nữ Tu Sĩ",
       "number": 2,
       "rank": "II",
       "element": "Water",
       "accent": "#7fb3c9",
       "keywords_upright": [
-        "truc giac",
-        "bi an",
-        "lang nghe",
-        "noi tam"
+        "trực giác",
+        "bí ẩn",
+        "lắng nghe",
+        "nội tâm"
       ],
       "keywords_reversed": [
-        "bo qua tin hieu",
-        "roi tri",
-        "giau kin",
-        "mat can bang"
+        "bỏ qua tín hiệu",
+        "rối trí",
+        "giấu kín",
+        "mất cân bằng"
       ],
-      "meaning_upright": "La bai nay moi ban lang lai de nghe dieu minh da biet tu ben trong nhung chua goi ten duoc. The High Priestess thuong xuat hien khi cau tra loi khong nam o hanh dong manh ma, ma nam o su tinh lang va quan sat tinh te.",
-      "meaning_reversed": "Khi dao nguoc, ban co the dang bo qua truc giac cua chinh minh hoac bi nhieu thong tin be ngoai lam roi. Day la luc nen giam toc, bo bot tieng on va xac dinh xem dieu gi dang bi an di.",
+      "meaning_upright": "Lá bài này mời bạn lắng lại để nghe điều mình đã biết từ bên trong nhưng chưa gọi tên được. The High Priestess thường xuất hiện khi câu trả lời không nằm ở hành động mạnh mẽ, mà nằm ở sự tĩnh lặng và quan sát tinh tế.",
+      "meaning_reversed": "Khi đảo ngược, bạn có thể đang bỏ qua trực giác của chính mình hoặc bị nhiều thông tin bề ngoài làm rối. Đây là lúc nên giảm tốc, bớt tiếng ồn và xác định xem điều gì đang bị ẩn đi.",
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
@@ -97,25 +97,25 @@
     {
       "id": "major_03",
       "name": "The Empress",
-      "name_vi": "Nu Hoang",
+      "name_vi": "Nữ Hoàng",
       "number": 3,
       "rank": "III",
       "element": "Earth",
       "accent": "#d99cb6",
       "keywords_upright": [
-        "phong phu",
-        "nuoi duong",
-        "sang tao",
-        "am ap"
+        "phong phú",
+        "nuôi dưỡng",
+        "sáng tạo",
+        "ấm áp"
       ],
       "keywords_reversed": [
-        "can kiet",
-        "phu thuoc",
-        "lang quen ban than",
-        "tri tre"
+        "cạn kiệt",
+        "phụ thuộc",
+        "lãng quên bản thân",
+        "trì trệ"
       ],
-      "meaning_upright": "The Empress goi den su sinh soi, do day va kha nang cham soc de mot dieu gi do lon len dung nhiep. La bai nay rat hop voi y tuong sang tao, tinh than nuoi duong va moi quan he biet quan tam dung muc.",
-      "meaning_reversed": "O the nguoc, nang luong nuoi duong co the dang bi mat can bang, khi ban cho di qua nhieu hoac bo mac nhu cau cua minh. Can tro lai voi nhip do lanh manh, cham soc than tam va nguon luc thuc te.",
+      "meaning_upright": "The Empress gợi đến sự sinh sôi, đủ đầy và khả năng chăm sóc để một điều gì đó lớn lên đúng nhịp. Lá bài này rất hợp với ý tưởng sáng tạo, tinh thần nuôi dưỡng và mối quan hệ biết quan tâm đúng mức.",
+      "meaning_reversed": "Ở thế ngược, năng lượng nuôi dưỡng có thể đang bị mất cân bằng, khi bạn cho đi quá nhiều hoặc bỏ mặc nhu cầu của mình. Cần trở lại với nhịp độ lành mạnh, chăm sóc thân tâm và nguồn lực thực tế.",
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
@@ -124,25 +124,25 @@
     {
       "id": "major_04",
       "name": "The Emperor",
-      "name_vi": "Hoang De",
+      "name_vi": "Hoàng Đế",
       "number": 4,
       "rank": "IV",
       "element": "Fire",
       "accent": "#c9874a",
       "keywords_upright": [
-        "cau truc",
-        "ky luat",
-        "bao ve",
-        "tham quyen"
+        "cấu trúc",
+        "kỷ luật",
+        "bảo vệ",
+        "thẩm quyền"
       ],
       "keywords_reversed": [
-        "cung nhac",
-        "kiem soat qua muc",
-        "bao thu",
-        "mat on dinh"
+        "cứng nhắc",
+        "kiểm soát quá mức",
+        "bảo thủ",
+        "mất ổn định"
       ],
-      "meaning_upright": "The Emperor dai dien cho viec dung khung, dat gioi han va quan ly mot cach ro rang de moi thu van hanh ben vung. No nhac ban rang su tu do lau dai can duoc nang do boi cau truc va trach nhiem.",
-      "meaning_reversed": "Khi dao nguoc, la bai nay thuong chi ra su cung ep, qua kiem soat hoac nhung nguyen tac da khong con phu hop. Dieu can lam la sua lai he thong, khong phai bo tat ca ky luat.",
+      "meaning_upright": "The Emperor đại diện cho việc dựng khung, đặt giới hạn và quản lý một cách rõ ràng để mọi thứ vận hành bền vững. Nó nhắc bạn rằng sự tự do lâu dài cần được nâng đỡ bởi cấu trúc và trách nhiệm.",
+      "meaning_reversed": "Khi đảo ngược, lá bài này thường chỉ ra sự cưỡng ép, quá kiểm soát hoặc những nguyên tắc đã không còn phù hợp. Điều cần làm là sửa lại hệ thống, không phải bỏ tất cả kỷ luật.",
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
@@ -151,25 +151,25 @@
     {
       "id": "major_05",
       "name": "The Hierophant",
-      "name_vi": "Giao Hoang",
+      "name_vi": "Giáo Hoàng",
       "number": 5,
       "rank": "V",
       "element": "Earth",
       "accent": "#8baa6a",
       "keywords_upright": [
-        "truyen thong",
-        "hoc hoi",
-        "gia tri",
-        "nghi le"
+        "truyền thống",
+        "học hỏi",
+        "giá trị",
+        "nghi lễ"
       ],
       "keywords_reversed": [
-        "giong khuan",
-        "giong cu",
-        "phu dinh he thong",
-        "cung nhac"
+        "rập khuôn",
+        "giọng cũ",
+        "phủ định hệ thống",
+        "cứng nhắc"
       ],
-      "meaning_upright": "The Hierophant noi den kien thuc duoc truyen lai, khuon mau, dao duc va cac gia tri chung giup ban dinh vi minh. No phu hop khi ban can hoc bai ban, tim nguoi huong dan hoac xac dinh mot nen tang niem tin.",
-      "meaning_reversed": "O chieu nguoc, la bai nay dat cau hoi xem quy tac hien tai con phuc vu ban hay khong. Ban co the can mot cach hoc hoac mot niem tin mang tinh ca nhan hon, thay vi chi lam theo so dong.",
+      "meaning_upright": "The Hierophant nói đến kiến thức được truyền lại, khuôn mẫu, đạo đức và các giá trị chung giúp bạn định vị mình. Nó phù hợp khi bạn cần học bài bản, tìm người hướng dẫn hoặc xác định một nền tảng niềm tin.",
+      "meaning_reversed": "Ở chiều ngược, lá bài này đặt câu hỏi xem quy tắc hiện tại còn phục vụ bạn hay không. Bạn có thể cần một cách học hoặc một niềm tin mang tính cá nhân hơn, thay vì chỉ làm theo số đông.",
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
@@ -178,25 +178,25 @@
     {
       "id": "major_06",
       "name": "The Lovers",
-      "name_vi": "Nguoi Yeu",
+      "name_vi": "Người Yêu",
       "number": 6,
       "rank": "VI",
       "element": "Air",
       "accent": "#d99cb6",
       "keywords_upright": [
-        "ket noi",
-        "lua chon",
-        "hoa hop",
-        "chan thanh"
+        "kết nối",
+        "lựa chọn",
+        "hòa hợp",
+        "chân thành"
       ],
       "keywords_reversed": [
-        "lech gia tri",
-        "do vo",
-        "phan van",
-        "xa cach"
+        "lệch giá trị",
+        "đổ vỡ",
+        "phân vân",
+        "xa cách"
       ],
-      "meaning_upright": "The Lovers khong chi noi ve tinh yeu ma con la la bai cua su dong dieu trong gia tri va lua chon. No moi ban xet xem dieu gi that su phu hop voi tim minh, roi hanh dong bang su thanh that.",
-      "meaning_reversed": "Khi dao nguoc, co the dang ton tai su chia tach giua dieu ban muon va dieu ban dang lam. Ban can lam ro cac gia tri cot loi de tranh nhung quyet dinh lam sau them lech huong.",
+      "meaning_upright": "The Lovers không chỉ nói về tình yêu mà còn là lá bài của sự đồng điệu trong giá trị và lựa chọn. Nó mời bạn xét xem điều gì thật sự phù hợp với tim mình, rồi hành động bằng sự chân thành.",
+      "meaning_reversed": "Khi đảo ngược, có thể đang tồn tại sự chia tách giữa điều bạn muốn và điều bạn đang làm. Bạn cần làm rõ các giá trị cốt lõi để tránh những quyết định làm sâu thêm lệch hướng.",
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
@@ -205,25 +205,25 @@
     {
       "id": "major_07",
       "name": "The Chariot",
-      "name_vi": "Chien Xa",
+      "name_vi": "Chiến Xa",
       "number": 7,
       "rank": "VII",
       "element": "Water",
       "accent": "#7fb3c9",
       "keywords_upright": [
-        "y chi",
-        "tien len",
-        "kiem soat",
-        "chien thang"
+        "ý chí",
+        "tiến lên",
+        "kiểm soát",
+        "chiến thắng"
       ],
       "keywords_reversed": [
-        "mat huong",
-        "qua suc",
-        "xung dot noi tam",
-        "chan lai"
+        "mất hướng",
+        "quá sức",
+        "xung đột nội tâm",
+        "chặn lại"
       ],
-      "meaning_upright": "The Chariot cho thay ban co the tien len neu biet hoi tu y chi va giu tay lai voi huong di cua minh. La bai nhan manh dong luc, kha nang tu chu va su quyet tam vuot qua luc keo trai nguoc.",
-      "meaning_reversed": "O the nguoc, ban de roi vao tinh trang bi keo ve nhieu phia va di rat nhieu nhung khong den dau. Dieu can uu tien la xac dinh mot muc tieu ro, sau do thu hep nang luong lai.",
+      "meaning_upright": "The Chariot cho thấy bạn có thể tiến lên nếu biết hội tụ ý chí và giữ tay lái với hướng đi của mình. Lá bài nhấn mạnh động lực, khả năng tự chủ và sự quyết tâm vượt qua lực kéo trái ngược.",
+      "meaning_reversed": "Ở thế ngược, bạn dễ rơi vào tình trạng bị kéo về nhiều phía và đi rất nhiều nhưng không đến đâu. Điều cần ưu tiên là xác định một mục tiêu rõ, sau đó thu hẹp năng lượng lại.",
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
@@ -232,25 +232,25 @@
     {
       "id": "major_08",
       "name": "Strength",
-      "name_vi": "Suc Manh",
+      "name_vi": "Sức Mạnh",
       "number": 8,
       "rank": "VIII",
       "element": "Fire",
       "accent": "#f0c060",
       "keywords_upright": [
-        "binh tinh",
-        "kien nhan",
-        "noi luc",
-        "cam hoa"
+        "bình tĩnh",
+        "kiên nhẫn",
+        "nội lực",
+        "cảm hóa"
       ],
       "keywords_reversed": [
-        "tu nghi ngo",
-        "can suc",
-        "boc phat",
-        "mat tu chu"
+        "tự nghi ngờ",
+        "cạn sức",
+        "bộc phát",
+        "mất tự chủ"
       ],
-      "meaning_upright": "Strength la suc manh mem, noi ban khong can ep buoc moi viec ma van co the huong dan nang luong theo cach on dinh. No khuyen ban dung su dieu dang, kien nhan va long tu te de lam chu tinh huong.",
-      "meaning_reversed": "Khi dao nguoc, ban co the dang met vi vua co gang qua muc vua nghi ngo kha nang cua minh. Hay quay lai voi nhip tho, su tu ton va cach hanh dong ben bi hon thay vi gan suc ngan han.",
+      "meaning_upright": "Strength là sức mạnh mềm, nơi bạn không cần ép buộc mọi việc mà vẫn có thể hướng dẫn năng lượng theo cách ổn định. Nó khuyên bạn dùng sự dịu dàng, kiên nhẫn và lòng tử tế để làm chủ tình huống.",
+      "meaning_reversed": "Khi đảo ngược, bạn có thể đang mệt vì vừa cố gắng quá mức vừa nghi ngờ khả năng của mình. Hãy quay lại với nhịp thở, sự tự tôn và cách hành động bền bỉ hơn thay vì gắng sức ngắn hạn.",
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
@@ -259,25 +259,25 @@
     {
       "id": "major_09",
       "name": "The Hermit",
-      "name_vi": "An Si",
+      "name_vi": "Ẩn Sĩ",
       "number": 9,
       "rank": "IX",
       "element": "Earth",
       "accent": "#cbbf95",
       "keywords_upright": [
-        "chiem nghiem",
-        "dan duong",
-        "noi tam",
-        "tri tue"
+        "chiêm nghiệm",
+        "dẫn đường",
+        "nội tâm",
+        "trí tuệ"
       ],
       "keywords_reversed": [
-        "co lap",
-        "lang tranh",
-        "mat ket noi",
-        "dong kin"
+        "cô lập",
+        "lảng tránh",
+        "mất kết nối",
+        "đóng kín"
       ],
-      "meaning_upright": "The Hermit khuyen ban tam lui mot buoc de thay ro hon, thay vi tiep tuc lao vao nhung am thanh be ngoai. Day la giai doan tot de tong ket, tu hoc, va tim cau tra loi ben trong minh.",
-      "meaning_reversed": "O chieu nguoc, su rut lui co the da chuyen thanh co lap va lam ban kho nghe duoc phan hoi can thiet. Hay giu khong gian rieng, nhung dung cat dut ket noi voi nhung dieu nuoi duong ban.",
+      "meaning_upright": "The Hermit khuyên bạn tạm lùi một bước để thấy rõ hơn, thay vì tiếp tục lao vào những âm thanh bên ngoài. Đây là giai đoạn tốt để tổng kết, tự học và tìm câu trả lời bên trong mình.",
+      "meaning_reversed": "Ở chiều ngược, sự rút lui có thể đã chuyển thành cô lập và làm bạn khó nghe được phản hồi cần thiết. Hãy giữ không gian riêng, nhưng đừng cắt đứt kết nối với những điều nuôi dưỡng bạn.",
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
@@ -286,25 +286,25 @@
     {
       "id": "major_10",
       "name": "Wheel of Fortune",
-      "name_vi": "Banh Xe So Phan",
+      "name_vi": "Bánh Xe Số Phận",
       "number": 10,
       "rank": "X",
       "element": "Fire",
       "accent": "#f0c060",
       "keywords_upright": [
-        "chu ky",
-        "bien chuyen",
-        "co hoi",
-        "van dong"
+        "chu kỳ",
+        "biến chuyển",
+        "cơ hội",
+        "vận động"
       ],
       "keywords_reversed": [
-        "tri tre",
-        "lap lai",
-        "ngoan co",
-        "cam giac mat kiem soat"
+        "trì trệ",
+        "lặp lại",
+        "ngoan cố",
+        "cảm giác mất kiểm soát"
       ],
-      "meaning_upright": "La bai nay nhac rang cuoc song luon di theo chu ky, va mot vong quay moi dang mo ra. Ban khong kiem soat tat ca bien so, nhung co the don co hoi bang su linh hoat va tam the san sang.",
-      "meaning_reversed": "Khi dao nguoc, ban co the dang cam thay van may khong dung ve phia minh hoac mot khuon mau cu dang lap lai. Dieu quan trong la nhan ra bai hoc cua vong quay nay de khong bi cuon di vo thuc.",
+      "meaning_upright": "Lá bài này nhắc rằng cuộc sống luôn đi theo chu kỳ, và một vòng quay mới đang mở ra. Bạn không kiểm soát tất cả biến số, nhưng có thể đón cơ hội bằng sự linh hoạt và tâm thế sẵn sàng.",
+      "meaning_reversed": "Khi đảo ngược, bạn có thể đang cảm thấy vận may không đứng về phía mình hoặc một khuôn mẫu cũ đang lặp lại. Điều quan trọng là nhận ra bài học của vòng quay này để không bị cuốn đi vô thức.",
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
@@ -313,25 +313,25 @@
     {
       "id": "major_11",
       "name": "Justice",
-      "name_vi": "Cong Ly",
+      "name_vi": "Công Lý",
       "number": 11,
       "rank": "XI",
       "element": "Air",
       "accent": "#7fb3c9",
       "keywords_upright": [
-        "su that",
-        "can bang",
-        "trach nhiem",
-        "nhan qua"
+        "sự thật",
+        "cân bằng",
+        "trách nhiệm",
+        "nhân quả"
       ],
       "keywords_reversed": [
-        "lech can",
-        "bien minh",
-        "thieu ro rang",
-        "phu nhan hau qua"
+        "lệch cán cân",
+        "biện minh",
+        "thiếu rõ ràng",
+        "phủ nhận hậu quả"
       ],
-      "meaning_upright": "Justice moi ban nhin vao su that mot cach tinh tao va chap nhan trach nhiem cua minh trong tinh huong hien tai. La bai nay phu hop voi cac quyet dinh can cong tam, chuan muc va su ro rang trong ly le.",
-      "meaning_reversed": "O the nguoc, co the ban dang ne tranh mot ket luan kho nghe hoac de cam xuc lam meo can can. Hay quay ve voi du kien, gioi han va dieu minh co the chiu trach nhiem.",
+      "meaning_upright": "Justice mời bạn nhìn vào sự thật một cách tỉnh táo và chấp nhận trách nhiệm của mình trong tình huống hiện tại. Lá bài này phù hợp với các quyết định cần công tâm, chuẩn mực và sự rõ ràng trong lý lẽ.",
+      "meaning_reversed": "Ở thế ngược, có thể bạn đang né tránh một kết luận khó nghe hoặc để cảm xúc làm méo cán cân. Hãy quay về với dữ kiện, giới hạn và điều mình có thể chịu trách nhiệm.",
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
@@ -340,25 +340,25 @@
     {
       "id": "major_12",
       "name": "The Hanged Man",
-      "name_vi": "Nguoi Treo Nguoc",
+      "name_vi": "Người Treo Ngược",
       "number": 12,
       "rank": "XII",
       "element": "Water",
       "accent": "#7fb3c9",
       "keywords_upright": [
-        "tam dung",
-        "goc nhin moi",
-        "buong ra",
+        "tạm dừng",
+        "góc nhìn mới",
+        "buông ra",
         "hy sinh"
       ],
       "keywords_reversed": [
-        "tri hoan",
-        "mac ket",
-        "chong cu",
-        "khong chiu doi goc nhin"
+        "trì hoãn",
+        "mắc kẹt",
+        "chống cự",
+        "không chịu đổi góc nhìn"
       ],
-      "meaning_upright": "La bai nay khong yeu cau ban lao toi, ma moi ban dung lai de thay mot su that tu goc nhin khac. Doi khi tien trien that su den tu viec buong mot cach chap vao, khong phai tu viec co them no.",
-      "meaning_reversed": "Khi dao nguoc, su tam dung co the da tro thanh dinh tre keo dai vi ban chua san sang thay doi cach nhin. Ban can xac dinh dieu gi dang giu chan minh trong mot vong lap khong can thiet.",
+      "meaning_upright": "Lá bài này không yêu cầu bạn lao tới, mà mời bạn dừng lại để thấy một sự thật từ góc nhìn khác. Đôi khi tiến triển thật sự đến từ việc buông một cách chấp nhận, không phải từ việc cố thêm nữa.",
+      "meaning_reversed": "Khi đảo ngược, sự tạm dừng có thể đã trở thành đình trệ kéo dài vì bạn chưa sẵn sàng thay đổi cách nhìn. Bạn cần xác định điều gì đang giữ chân mình trong một vòng lặp không cần thiết.",
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
@@ -367,25 +367,25 @@
     {
       "id": "major_13",
       "name": "Death",
-      "name_vi": "Tu Than",
+      "name_vi": "Tử Thần",
       "number": 13,
       "rank": "XIII",
       "element": "Water",
       "accent": "#c9874a",
       "keywords_upright": [
-        "ket thuc",
-        "chuyen hoa",
-        "buoc sang chu ky moi",
-        "cat bo"
+        "kết thúc",
+        "chuyển hóa",
+        "bước sang chu kỳ mới",
+        "cắt bỏ"
       ],
       "keywords_reversed": [
-        "bam viu",
-        "ngai doi thay",
-        "keo dai",
-        "chua buong"
+        "bám víu",
+        "ngại đổi thay",
+        "kéo dài",
+        "chưa buông"
       ],
-      "meaning_upright": "Death hiem khi noi ve mot mat mat theo nghia den, ma chu yeu noi ve su ket thuc can thiet de mo ra mot hinh thai moi. No nhac ban rang viec buon bo co the dau, nhung cung giai phong nang luong song.",
-      "meaning_reversed": "O chieu nguoc, ban co the dang co neo vao dieu da het vong doi cua no. Viec doi thay van se den, nhung ban se nhe hon neu chu dong dong mot canh cua cu.",
+      "meaning_upright": "Death hiếm khi nói về một mất mát theo nghĩa đen, mà chủ yếu nói về sự kết thúc cần thiết để mở ra một hình thái mới. Nó nhắc bạn rằng việc buông bỏ có thể đau, nhưng cũng giải phóng năng lượng sống.",
+      "meaning_reversed": "Ở chiều ngược, bạn có thể đang cố neo vào điều đã hết vòng đời của nó. Việc đổi thay vẫn sẽ đến, nhưng bạn sẽ nhẹ hơn nếu chủ động đóng một cánh cửa cũ.",
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
@@ -394,25 +394,25 @@
     {
       "id": "major_14",
       "name": "Temperance",
-      "name_vi": "Dieu Do",
+      "name_vi": "Điều Độ",
       "number": 14,
       "rank": "XIV",
       "element": "Fire",
       "accent": "#8baa6a",
       "keywords_upright": [
-        "dung hoa",
-        "tiet che",
-        "can bang",
-        "phoi hop"
+        "dung hòa",
+        "tiết chế",
+        "cân bằng",
+        "phối hợp"
       ],
       "keywords_reversed": [
-        "qua tay",
-        "lech nhip",
-        "mat can doi",
-        "kho hoa hop"
+        "quá tay",
+        "lệch nhịp",
+        "mất cân đối",
+        "khó hòa hợp"
       ],
-      "meaning_upright": "Temperance la nghe thuat pha tron dung ty le de tao ra su on hoa lau dai. No khuyen ban dieu chinh nhip do, ket noi cac mat doi lap va tim cach di ben vung thay vi cuc doan.",
-      "meaning_reversed": "Khi dao nguoc, cuoc song co the dang lech nhip vi mot mat nao do bi day qua xa. Hay tro lai voi su vua du, sap xep uu tien va nhin xem cho nao can duoc can lai.",
+      "meaning_upright": "Temperance là nghệ thuật pha trộn đúng tỷ lệ để tạo ra sự ôn hòa lâu dài. Nó khuyên bạn điều chỉnh nhịp độ, kết nối các mặt đối lập và tìm cách đi bền vững thay vì cực đoan.",
+      "meaning_reversed": "Khi đảo ngược, cuộc sống có thể đang lệch nhịp vì một mặt nào đó bị đẩy quá xa. Hãy trở lại với sự vừa đủ, sắp xếp ưu tiên và nhìn xem chỗ nào cần được cân lại.",
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
@@ -421,25 +421,25 @@
     {
       "id": "major_15",
       "name": "The Devil",
-      "name_vi": "Ac Quy",
+      "name_vi": "Ác Quỷ",
       "number": 15,
       "rank": "XV",
       "element": "Earth",
       "accent": "#c9874a",
       "keywords_upright": [
-        "rang buoc",
-        "cam do",
-        "chap niem",
-        "vat chat"
+        "ràng buộc",
+        "cám dỗ",
+        "chấp niệm",
+        "vật chất"
       ],
       "keywords_reversed": [
-        "go bo xieng xich",
-        "nhan dien bong toi",
-        "giai phong",
-        "thu hoi quyen luc"
+        "gỡ bỏ xiềng xích",
+        "nhận diện bóng tối",
+        "giải phóng",
+        "thu hồi quyền lực"
       ],
-      "meaning_upright": "The Devil cho thay mot lien ket dang tro nen qua chat, co the la thoi quen, ham muon, noi so hay kieu suy nghi lam ban mat tu do. La bai nay khong nham de doa, ma de chi ra noi ban dang trao quyen luc cua minh cho mot dieu khac.",
-      "meaning_reversed": "O the nguoc, ban bat dau nhin ra ban chat cua rang buoc va co co hoi cat no long dan. Qua trinh nay doi hoi su that long va ky luat nho, nhung no mo ra duong lui ro rang hon.",
+      "meaning_upright": "The Devil cho thấy một liên kết đang trở nên quá chặt, có thể là thói quen, ham muốn, nỗi sợ hay kiểu suy nghĩ làm bạn mất tự do. Lá bài này không nhằm đe dọa, mà để chỉ ra nơi bạn đang trao quyền lực của mình cho một điều khác.",
+      "meaning_reversed": "Ở thế ngược, bạn bắt đầu nhìn ra bản chất của ràng buộc và có cơ hội cắt nó lỏng dần. Quá trình này đòi hỏi sự thật lòng và kỷ luật nhỏ, nhưng nó mở ra đường lui rõ ràng hơn.",
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
@@ -448,25 +448,25 @@
     {
       "id": "major_16",
       "name": "The Tower",
-      "name_vi": "Toa Thap",
+      "name_vi": "Tòa Tháp",
       "number": 16,
       "rank": "XVI",
       "element": "Fire",
       "accent": "#c9874a",
       "keywords_upright": [
-        "pha vo",
-        "thuc tinh",
-        "bien co",
-        "giai phong"
+        "phá vỡ",
+        "thức tỉnh",
+        "biến cố",
+        "giải phóng"
       ],
       "keywords_reversed": [
-        "cang giu cang vo",
-        "chan dong am i",
-        "tri hoan su that",
-        "ha canh kho"
+        "càng giữ càng vỡ",
+        "chấn động âm ỉ",
+        "trì hoãn sự thật",
+        "hạ cánh khó"
       ],
-      "meaning_upright": "Toa Thap la su sup do cua cau truc khong con vung, de su that co cho xuat hien. Dung la no gay soc, nhung no cung cat dut ao tuong va buoc ban dung tren nen tang that hon.",
-      "meaning_reversed": "Khi dao nguoc, su bien chuyen van dang dien ra nhung co the theo cach am i hoac bi tri hoan vi ban dang co thu giu nguyen hien trang. Cang som chap nhan dieu can thay, qua trinh cang bot ton hao.",
+      "meaning_upright": "Tòa Tháp là sự sụp đổ của cấu trúc không còn vững, để sự thật có chỗ xuất hiện. Đúng là nó gây sốc, nhưng nó cũng cắt đứt ảo tưởng và buộc bạn đứng trên nền tảng thật hơn.",
+      "meaning_reversed": "Khi đảo ngược, sự biến chuyển vẫn đang diễn ra nhưng có thể theo cách âm ỉ hoặc bị trì hoãn vì bạn đang cố thủ giữ nguyên hiện trạng. Càng sớm chấp nhận điều cần thay, quá trình càng bớt tổn hao.",
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
@@ -475,25 +475,25 @@
     {
       "id": "major_17",
       "name": "The Star",
-      "name_vi": "Ngoi Sao",
+      "name_vi": "Ngôi Sao",
       "number": 17,
       "rank": "XVII",
       "element": "Air",
       "accent": "#7fb3c9",
       "keywords_upright": [
-        "hy vong",
-        "chua lanh",
-        "truyen cam hung",
-        "tin tuong"
+        "hy vọng",
+        "chữa lành",
+        "truyền cảm hứng",
+        "tin tưởng"
       ],
       "keywords_reversed": [
-        "mat niem tin",
-        "kiet que",
-        "nghi ngo",
-        "thieu ket noi"
+        "mất niềm tin",
+        "kiệt quệ",
+        "nghi ngờ",
+        "thiếu kết nối"
       ],
-      "meaning_upright": "The Star dem lai mot luong khi trong, nhac ban rang sau bien dong van co cho cho niem tin va su phuc hoi. No khuyen ban mo long, noi that va tiep tuc di theo anh sang nho ma ben bi.",
-      "meaning_reversed": "O chieu nguoc, ngon den hy vong co the dang mo di do met moi hoac that vong. Ban khong can ep minh lac quan ngay, nhung can tim lai mot nguon nuoi duong nho va deu.",
+      "meaning_upright": "The Star đem lại một luồng khí trong, nhắc bạn rằng sau biến động vẫn có chỗ cho niềm tin và sự phục hồi. Nó khuyên bạn mở lòng, nói thật và tiếp tục đi theo ánh sáng nhỏ mà bền bỉ.",
+      "meaning_reversed": "Ở chiều ngược, ngọn đèn hy vọng có thể đang mờ đi do mệt mỏi hoặc thất vọng. Bạn không cần ép mình lạc quan ngay, nhưng cần tìm lại một nguồn nuôi dưỡng nhỏ và đều.",
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
@@ -502,25 +502,25 @@
     {
       "id": "major_18",
       "name": "The Moon",
-      "name_vi": "Mat Trang",
+      "name_vi": "Mặt Trăng",
       "number": 18,
       "rank": "XVIII",
       "element": "Water",
       "accent": "#7fb3c9",
       "keywords_upright": [
-        "mo ho",
-        "tiem thuc",
-        "noi so",
-        "truc giac"
+        "mơ hồ",
+        "tiềm thức",
+        "nỗi sợ",
+        "trực giác"
       ],
       "keywords_reversed": [
-        "lo dien",
-        "ro hon",
-        "thoat ao anh",
-        "giam roi"
+        "lộ diện",
+        "rõ hơn",
+        "thoát ảo ảnh",
+        "giảm rối"
       ],
-      "meaning_upright": "The Moon xuat hien khi con duong truoc mat chua ro, cam xuc len xuong va tiep can bang ly tri don thuan la chua du. La bai nay moi ban di cham, de y giac mo, linh cam va nhung kieu so hai dang thao tung hanh vi.",
-      "meaning_reversed": "Khi dao nguoc, su mo ho dan tan va mot vai dieu an duoi mat nuoc bat dau lo ra. Day la luc de tach cam giac kho chiu thanh thong tin cu the, tu do lay lai su ro rang.",
+      "meaning_upright": "The Moon xuất hiện khi con đường trước mắt chưa rõ, cảm xúc lên xuống và tiếp cận bằng lý trí đơn thuần là chưa đủ. Lá bài này mời bạn đi chậm, để ý giấc mơ, linh cảm và những kiểu sợ hãi đang thao túng hành vi.",
+      "meaning_reversed": "Khi đảo ngược, sự mơ hồ dần tan và một vài điều ẩn dưới mặt nước bắt đầu lộ ra. Đây là lúc để tách cảm giác khó chịu thành thông tin cụ thể, từ đó lấy lại sự rõ ràng.",
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
@@ -529,25 +529,25 @@
     {
       "id": "major_19",
       "name": "The Sun",
-      "name_vi": "Mat Troi",
+      "name_vi": "Mặt Trời",
       "number": 19,
       "rank": "XIX",
       "element": "Fire",
       "accent": "#f0c060",
       "keywords_upright": [
-        "ro rang",
-        "niem vui",
-        "thanh cong",
-        "suc song"
+        "rõ ràng",
+        "niềm vui",
+        "thành công",
+        "sức sống"
       ],
       "keywords_reversed": [
-        "tre nhip",
-        "qua tu tin",
-        "bi che mo",
-        "mat nang luong"
+        "trễ nhịp",
+        "quá tự tin",
+        "bị che mờ",
+        "mất năng lượng"
       ],
-      "meaning_upright": "The Sun la su am ap, minh bach va niem vui duoc phoi sang ro rang. No cho thay mot giai doan tot de noi ra, toan tam song voi dieu tot dep va de nhung ket qua ro rang xuat hien.",
-      "meaning_reversed": "O the nguoc, anh sang van con do nhung co the bi mot lop may tam thoi che bot. Ban can bo nhung ky vong qua cao hoac su met moi dang ngan minh tan huong thanh qua hien co.",
+      "meaning_upright": "The Sun là sự ấm áp, minh bạch và niềm vui được phơi sáng rõ ràng. Nó cho thấy một giai đoạn tốt để nói ra, toàn tâm sống với điều tốt đẹp và để những kết quả rõ ràng xuất hiện.",
+      "meaning_reversed": "Ở thế ngược, ánh sáng vẫn còn đó nhưng có thể bị một lớp mây tạm thời che bớt. Bạn cần bỏ những kỳ vọng quá cao hoặc sự mệt mỏi đang ngăn mình tận hưởng thành quả hiện có.",
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
@@ -556,25 +556,25 @@
     {
       "id": "major_20",
       "name": "Judgement",
-      "name_vi": "Phan Xet",
+      "name_vi": "Phán Xét",
       "number": 20,
       "rank": "XX",
       "element": "Fire",
       "accent": "#cbbf95",
       "keywords_upright": [
-        "thuc tinh",
-        "tong ket",
-        "tha thu",
-        "tai sinh"
+        "thức tỉnh",
+        "tổng kết",
+        "tha thứ",
+        "tái sinh"
       ],
       "keywords_reversed": [
-        "tri hoan thuc tinh",
-        "tu phan xet",
-        "chua khop bai hoc",
-        "bo lo tieng goi"
+        "trì hoãn thức tỉnh",
+        "tự phán xét",
+        "chưa khớp bài học",
+        "bỏ lỡ tiếng gọi"
       ],
-      "meaning_upright": "Judgement la tieng kenh goi ban nhin lai mot chu ky lon va dung day voi phien ban truong thanh hon cua minh. No phu hop voi cac quyet dinh mang tinh tong ket, giai phong va buoc sang giai doan moi.",
-      "meaning_reversed": "Khi dao nguoc, ban co the dang kha nang tu phan xet qua tay hoac tri hoan mot quyet dinh da ro. Hay dung su that va long bao dung de dong lai dieu can khap lai.",
+      "meaning_upright": "Judgement là tiếng kèn gọi bạn nhìn lại một chu kỳ lớn và đứng dậy với phiên bản trưởng thành hơn của mình. Nó phù hợp với các quyết định mang tính tổng kết, giải phóng và bước sang giai đoạn mới.",
+      "meaning_reversed": "Khi đảo ngược, bạn có thể đang tự phán xét quá tay hoặc trì hoãn một quyết định đã rõ. Hãy dùng sự thật và lòng bao dung để đóng lại điều cần khép lại.",
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
@@ -583,25 +583,25 @@
     {
       "id": "major_21",
       "name": "The World",
-      "name_vi": "The Gioi",
+      "name_vi": "Thế Giới",
       "number": 21,
       "rank": "XXI",
       "element": "Earth",
       "accent": "#8baa6a",
       "keywords_upright": [
-        "hoan tat",
-        "vien man",
-        "ket noi",
-        "truong thanh"
+        "hoàn tất",
+        "viên mãn",
+        "kết nối",
+        "trưởng thành"
       ],
       "keywords_reversed": [
-        "chua tron ven",
-        "tri hoan dich den",
-        "bo do dang do",
-        "thieu khop noi"
+        "chưa trọn vẹn",
+        "trì hoãn đích đến",
+        "bỏ dở dang dở",
+        "thiếu khớp nối"
       ],
-      "meaning_upright": "The World danh dau mot chu ky da duoc hoan thanh va mot tam nhin tong the da ket noi thanh hinh. No mang cam giac day du, khop noi va san sang cho vong moi tu mot vi tri vung vang hon.",
-      "meaning_reversed": "O chieu nguoc, ban co the dang rat gan dich nhung con mot vai nut chua that lai. Hay hoan thanh not dieu dang dang do, thay vi bo qua giai doan ket lai quan trong.",
+      "meaning_upright": "The World đánh dấu một chu kỳ đã được hoàn thành và một tầm nhìn tổng thể đã kết nối thành hình. Nó mang cảm giác đầy đủ, khớp nối và sẵn sàng cho vòng mới từ một vị trí vững vàng hơn.",
+      "meaning_reversed": "Ở chiều ngược, bạn có thể đang rất gần đích nhưng còn một vài nút chưa thắt lại. Hãy hoàn thành nốt điều đang dang dở, thay vì bỏ qua giai đoạn kết lại quan trọng.",
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
@@ -610,1513 +610,1513 @@
     {
       "id": "wands_01",
       "name": "Ace of Wands",
-      "name_vi": "At Gay",
+      "name_vi": "Át Gậy",
       "arcana": "minor",
       "suit": "wands",
-      "suit_vi": "Gay",
+      "suit_vi": "Gậy",
       "number": 1,
       "rank": "Ace",
       "element": "Fire",
       "accent": "#d07a43",
       "keywords_upright": [
-        "co hoi",
-        "khoi dau",
-        "hat giong",
-        "tien nang"
+        "cơ hội",
+        "khởi đầu",
+        "hạt giống",
+        "tiềm năng"
       ],
       "keywords_reversed": [
-        "bo lo",
-        "cham nhip",
-        "nghi ngo",
-        "dong lai"
+        "bỏ lỡ",
+        "chậm nhịp",
+        "nghi ngờ",
+        "đóng lại"
       ],
-      "meaning_upright": "La nay mang nang luong cua lua, thuc day ban hanh dong, thu nghiem va day duoc dong luc ben trong. Mo ra mot co hoi moi va mot nguon nang luong nguyen so de bat dau. Trong bo gay, la nay thuong lien quan den dam me, sang tao va hanh dong va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, nang luong lua nay de tro nen nong voi, mat dinh huong hoac kiet suc vi phan tan qua nhieu huong. Co hoi van co nhung de bi bo lo, cham nhip hoac chua duoc don nhan dung luc. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này mang năng lượng của lửa, thúc đẩy bạn hành động, thử nghiệm và khơi dậy động lực bên trong. Mở ra một cơ hội mới và một nguồn năng lượng nguyên sơ để bắt đầu. Trong bộ gậy, lá này thường liên quan đến đam mê, sáng tạo và hành động và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, năng lượng lửa này dễ trở nên nóng vội, mất định hướng hoặc kiệt sức vì phân tán quá nhiều hướng. Cơ hội vẫn có nhưng dễ bị bỏ lỡ, chậm nhịp hoặc chưa được đón nhận đúng lúc. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/wands_01.webp"
     },
     {
       "id": "wands_02",
       "name": "Two of Wands",
-      "name_vi": "Hai Gay",
+      "name_vi": "Hai Gậy",
       "arcana": "minor",
       "suit": "wands",
-      "suit_vi": "Gay",
+      "suit_vi": "Gậy",
       "number": 2,
       "rank": "Two",
       "element": "Fire",
       "accent": "#d07a43",
       "keywords_upright": [
-        "can bang",
-        "lua chon",
-        "doi thoai",
-        "can doi"
+        "cân bằng",
+        "lựa chọn",
+        "đối thoại",
+        "cân đối"
       ],
       "keywords_reversed": [
-        "be tac",
-        "do du",
-        "lech can",
-        "kho chon"
+        "bế tắc",
+        "do dự",
+        "lệch cân",
+        "khó chọn"
       ],
-      "meaning_upright": "La nay mang nang luong cua lua, thuc day ban hanh dong, thu nghiem va day duoc dong luc ben trong. Tap trung vao can doi, lua chon va cach hai luc keo dang doi thoai voi nhau. Trong bo gay, la nay thuong lien quan den dam me, sang tao va hanh dong va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, nang luong lua nay de tro nen nong voi, mat dinh huong hoac kiet suc vi phan tan qua nhieu huong. Can canh bao su lung tung, treo quyet dinh hoac lech mat can bang giua hai huong. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này mang năng lượng của lửa, thúc đẩy bạn hành động, thử nghiệm và khơi dậy động lực bên trong. Tập trung vào cân đối, lựa chọn và cách hai lực kéo đang đối thoại với nhau. Trong bộ gậy, lá này thường liên quan đến đam mê, sáng tạo và hành động và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, năng lượng lửa này dễ trở nên nóng vội, mất định hướng hoặc kiệt sức vì phân tán quá nhiều hướng. Cần cảnh báo sự lúng túng, treo quyết định hoặc lệch mất cân bằng giữa hai hướng. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/wands_02.webp"
     },
     {
       "id": "wands_03",
       "name": "Three of Wands",
-      "name_vi": "Ba Gay",
+      "name_vi": "Ba Gậy",
       "arcana": "minor",
       "suit": "wands",
-      "suit_vi": "Gay",
+      "suit_vi": "Gậy",
       "number": 3,
       "rank": "Three",
       "element": "Fire",
       "accent": "#d07a43",
       "keywords_upright": [
-        "mo rong",
-        "phoi hop",
-        "tam nhin",
-        "bat dau co ket qua"
+        "mở rộng",
+        "phối hợp",
+        "tầm nhìn",
+        "bắt đầu có kết quả"
       ],
       "keywords_reversed": [
-        "tro ngai",
-        "roi rac",
-        "cham tien",
-        "lech huong"
+        "trở ngại",
+        "rời rạc",
+        "chậm tiến",
+        "lệch hướng"
       ],
-      "meaning_upright": "La nay mang nang luong cua lua, thuc day ban hanh dong, thu nghiem va day duoc dong luc ben trong. Nang luong ba thuong lien quan den mo rong, phoi hop va thay ket qua dau tien dang hinh thanh. Trong bo gay, la nay thuong lien quan den dam me, sang tao va hanh dong va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, nang luong lua nay de tro nen nong voi, mat dinh huong hoac kiet suc vi phan tan qua nhieu huong. Ban co the dang gap tro ngai trong phoi hop hoac du an mo ra nhung chua di den dau. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này mang năng lượng của lửa, thúc đẩy bạn hành động, thử nghiệm và khơi dậy động lực bên trong. Năng lượng ba thường liên quan đến mở rộng, phối hợp và thấy kết quả đầu tiên đang hình thành. Trong bộ gậy, lá này thường liên quan đến đam mê, sáng tạo và hành động và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, năng lượng lửa này dễ trở nên nóng vội, mất định hướng hoặc kiệt sức vì phân tán quá nhiều hướng. Bạn có thể đang gặp trở ngại trong phối hợp hoặc dự án mở ra nhưng chưa đi đến đâu. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/wands_03.webp"
     },
     {
       "id": "wands_04",
       "name": "Four of Wands",
-      "name_vi": "Bon Gay",
+      "name_vi": "Bốn Gậy",
       "arcana": "minor",
       "suit": "wands",
-      "suit_vi": "Gay",
+      "suit_vi": "Gậy",
       "number": 4,
       "rank": "Four",
       "element": "Fire",
       "accent": "#d07a43",
       "keywords_upright": [
-        "on dinh",
-        "nen tang",
-        "giu nhip",
-        "ne nep"
+        "ổn định",
+        "nền tảng",
+        "giữ nhịp",
+        "nề nếp"
       ],
       "keywords_reversed": [
         "lung lay",
-        "dong cung",
-        "thieu linh hoat",
-        "bat an"
+        "đóng cứng",
+        "thiếu linh hoạt",
+        "bất an"
       ],
-      "meaning_upright": "La nay mang nang luong cua lua, thuc day ban hanh dong, thu nghiem va day duoc dong luc ben trong. La bai dua nang luong ve on dinh, ne nep va mot nen tang de ban dung chan lau hon. Trong bo gay, la nay thuong lien quan den dam me, sang tao va hanh dong va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, nang luong lua nay de tro nen nong voi, mat dinh huong hoac kiet suc vi phan tan qua nhieu huong. Khi dao nguoc, su on dinh nay co the bi lung lay hoac tro thanh qua dong khien nang luong khong luan chuyen. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này mang năng lượng của lửa, thúc đẩy bạn hành động, thử nghiệm và khơi dậy động lực bên trong. Lá bài đưa năng lượng về ổn định, nề nếp và một nền tảng để bạn đứng chân lâu hơn. Trong bộ gậy, lá này thường liên quan đến đam mê, sáng tạo và hành động và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, năng lượng lửa này dễ trở nên nóng vội, mất định hướng hoặc kiệt sức vì phân tán quá nhiều hướng. Khi đảo ngược, sự ổn định này có thể bị lung lay hoặc trở thành quá đóng khiến năng lượng không luân chuyển. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/wands_04.webp"
     },
     {
       "id": "wands_05",
       "name": "Five of Wands",
-      "name_vi": "Nam Gay",
+      "name_vi": "Năm Gậy",
       "arcana": "minor",
       "suit": "wands",
-      "suit_vi": "Gay",
+      "suit_vi": "Gậy",
       "number": 5,
       "rank": "Five",
       "element": "Fire",
       "accent": "#d07a43",
       "keywords_upright": [
-        "thay doi",
-        "xung dot",
-        "cang co",
-        "thich nghi"
+        "thay đổi",
+        "xung đột",
+        "căng co",
+        "thích nghi"
       ],
       "keywords_reversed": [
-        "ne tranh",
-        "giam cang",
-        "am i",
-        "sua lai"
+        "né tránh",
+        "giảm căng",
+        "âm ỉ",
+        "sửa lại"
       ],
-      "meaning_upright": "La nay mang nang luong cua lua, thuc day ban hanh dong, thu nghiem va day duoc dong luc ben trong. Nam la pha dao dong, xung dot nho hoac su thay doi buoc ban phai dieu chinh nhanh. Trong bo gay, la nay thuong lien quan den dam me, sang tao va hanh dong va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, nang luong lua nay de tro nen nong voi, mat dinh huong hoac kiet suc vi phan tan qua nhieu huong. O chieu nguoc, xung dot co the dang diu lai, bi ne tranh hoac chuyen thanh cang thang ngam. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này mang năng lượng của lửa, thúc đẩy bạn hành động, thử nghiệm và khơi dậy động lực bên trong. Năm là pha dao động, xung đột nhỏ hoặc sự thay đổi buộc bạn phải điều chỉnh nhanh. Trong bộ gậy, lá này thường liên quan đến đam mê, sáng tạo và hành động và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, năng lượng lửa này dễ trở nên nóng vội, mất định hướng hoặc kiệt sức vì phân tán quá nhiều hướng. Ở chiều ngược, xung đột có thể đang dịu lại, bị né tránh hoặc chuyển thành căng thẳng ngầm. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/wands_05.webp"
     },
     {
       "id": "wands_06",
       "name": "Six of Wands",
-      "name_vi": "Sau Gay",
+      "name_vi": "Sáu Gậy",
       "arcana": "minor",
       "suit": "wands",
-      "suit_vi": "Gay",
+      "suit_vi": "Gậy",
       "number": 6,
       "rank": "Six",
       "element": "Fire",
       "accent": "#d07a43",
       "keywords_upright": [
-        "hai hoa",
-        "nang do",
-        "chuyen tiep",
-        "de tho hon"
+        "hài hòa",
+        "nâng đỡ",
+        "chuyển tiếp",
+        "dễ thở hơn"
       ],
       "keywords_reversed": [
-        "mat can",
-        "keo lai",
-        "khong deu",
-        "lech doi"
+        "mất cân",
+        "kéo lại",
+        "không đều",
+        "lệch đôi"
       ],
-      "meaning_upright": "La nay mang nang luong cua lua, thuc day ban hanh dong, thu nghiem va day duoc dong luc ben trong. Sau thuong dem den su hai hoa hon, mot nhịp chuyen tiep de dang hoac cam giac duoc nang do. Trong bo gay, la nay thuong lien quan den dam me, sang tao va hanh dong va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, nang luong lua nay de tro nen nong voi, mat dinh huong hoac kiet suc vi phan tan qua nhieu huong. Khi dao nguoc, dong chay de bi cham lai, mat can doi hoac co su lech giua cho va nhan. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này mang năng lượng của lửa, thúc đẩy bạn hành động, thử nghiệm và khơi dậy động lực bên trong. Sáu thường đem đến sự hài hòa hơn, một nhịp chuyển tiếp dễ dàng hoặc cảm giác được nâng đỡ. Trong bộ gậy, lá này thường liên quan đến đam mê, sáng tạo và hành động và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, năng lượng lửa này dễ trở nên nóng vội, mất định hướng hoặc kiệt sức vì phân tán quá nhiều hướng. Khi đảo ngược, dòng chảy dễ bị chậm lại, mất cân đối hoặc có sự lệch giữa cho và nhận. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/wands_06.webp"
     },
     {
       "id": "wands_07",
       "name": "Seven of Wands",
-      "name_vi": "Bay Gay",
+      "name_vi": "Bảy Gậy",
       "arcana": "minor",
       "suit": "wands",
-      "suit_vi": "Gay",
+      "suit_vi": "Gậy",
       "number": 7,
       "rank": "Seven",
       "element": "Fire",
       "accent": "#d07a43",
       "keywords_upright": [
-        "thu thach",
-        "giu huong",
-        "chien luoc",
-        "niem tin"
+        "thử thách",
+        "giữ hướng",
+        "chiến lược",
+        "niềm tin"
       ],
       "keywords_reversed": [
-        "met moi",
+        "mệt mỏi",
         "lung lay",
-        "do du",
-        "mat the"
+        "do dự",
+        "mất thế"
       ],
-      "meaning_upright": "La nay mang nang luong cua lua, thuc day ban hanh dong, thu nghiem va day duoc dong luc ben trong. Bay goi den bai kiem tra ve niem tin, chien luoc va kha nang giu huong khi ap luc tang len. Trong bo gay, la nay thuong lien quan den dam me, sang tao va hanh dong va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, nang luong lua nay de tro nen nong voi, mat dinh huong hoac kiet suc vi phan tan qua nhieu huong. O the nguoc, ban co the met moi, phan van hoac dung sai cach de bao ve dieu quan trong. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này mang năng lượng của lửa, thúc đẩy bạn hành động, thử nghiệm và khơi dậy động lực bên trong. Bảy gợi đến bài kiểm tra về niềm tin, chiến lược và khả năng giữ hướng khi áp lực tăng lên. Trong bộ gậy, lá này thường liên quan đến đam mê, sáng tạo và hành động và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, năng lượng lửa này dễ trở nên nóng vội, mất định hướng hoặc kiệt sức vì phân tán quá nhiều hướng. Ở thế ngược, bạn có thể mệt mỏi, phân vân hoặc dùng sai cách để bảo vệ điều quan trọng. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/wands_07.webp"
     },
     {
       "id": "wands_08",
       "name": "Eight of Wands",
-      "name_vi": "Tam Gay",
+      "name_vi": "Tám Gậy",
       "arcana": "minor",
       "suit": "wands",
-      "suit_vi": "Gay",
+      "suit_vi": "Gậy",
       "number": 8,
       "rank": "Eight",
       "element": "Fire",
       "accent": "#d07a43",
       "keywords_upright": [
-        "tien trien",
-        "nhip do",
-        "dong luc",
-        "lap lai co y thuc"
+        "tiến triển",
+        "nhịp độ",
+        "động lực",
+        "lặp lại có ý thức"
       ],
       "keywords_reversed": [
-        "tri tre",
-        "mat nhip",
-        "lap lai vo thuc",
-        "tre"
+        "trì trệ",
+        "mất nhịp",
+        "lặp lại vô thức",
+        "trễ"
       ],
-      "meaning_upright": "La nay mang nang luong cua lua, thuc day ban hanh dong, thu nghiem va day duoc dong luc ben trong. Tam la nang luong cua dong chay ro hon, toc do cao hon hoac su lap lai giup tao thanh ky nang. Trong bo gay, la nay thuong lien quan den dam me, sang tao va hanh dong va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, nang luong lua nay de tro nen nong voi, mat dinh huong hoac kiet suc vi phan tan qua nhieu huong. Khi dao nguoc, nhip do de bi dut, tre hoac lap lai mot cach vo thuc ma khong tao tien bo. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này mang năng lượng của lửa, thúc đẩy bạn hành động, thử nghiệm và khơi dậy động lực bên trong. Tám là năng lượng của dòng chảy rõ hơn, tốc độ cao hơn hoặc sự lặp lại giúp tạo thành kỹ năng. Trong bộ gậy, lá này thường liên quan đến đam mê, sáng tạo và hành động và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, năng lượng lửa này dễ trở nên nóng vội, mất định hướng hoặc kiệt sức vì phân tán quá nhiều hướng. Khi đảo ngược, nhịp độ dễ bị đứt, trễ hoặc lặp lại một cách vô thức mà không tạo tiến bộ. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/wands_08.webp"
     },
     {
       "id": "wands_09",
       "name": "Nine of Wands",
-      "name_vi": "Chin Gay",
+      "name_vi": "Chín Gậy",
       "arcana": "minor",
       "suit": "wands",
-      "suit_vi": "Gay",
+      "suit_vi": "Gậy",
       "number": 9,
       "rank": "Nine",
       "element": "Fire",
       "accent": "#d07a43",
       "keywords_upright": [
-        "gan dich",
-        "kinh nghiem",
-        "ben bi",
-        "can dich"
+        "gần đích",
+        "kinh nghiệm",
+        "bền bỉ",
+        "cán đích"
       ],
       "keywords_reversed": [
-        "can suc",
-        "lo au",
-        "phong thu",
-        "kho buong"
+        "cạn sức",
+        "lo âu",
+        "phòng thủ",
+        "khó buông"
       ],
-      "meaning_upright": "La nay mang nang luong cua lua, thuc day ban hanh dong, thu nghiem va day duoc dong luc ben trong. Chin la muc sat dich, noi ban co kinh nghiem va can them su ben bi de ket chu ky hien tai. Trong bo gay, la nay thuong lien quan den dam me, sang tao va hanh dong va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, nang luong lua nay de tro nen nong voi, mat dinh huong hoac kiet suc vi phan tan qua nhieu huong. O chieu nguoc, cam giac gan dich co the di kem can suc, lo au hoac kho buong su phong thu. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này mang năng lượng của lửa, thúc đẩy bạn hành động, thử nghiệm và khơi dậy động lực bên trong. Chín là mức sát đích, nơi bạn có kinh nghiệm và cần thêm sự bền bỉ để kết chu kỳ hiện tại. Trong bộ gậy, lá này thường liên quan đến đam mê, sáng tạo và hành động và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, năng lượng lửa này dễ trở nên nóng vội, mất định hướng hoặc kiệt sức vì phân tán quá nhiều hướng. Ở chiều ngược, cảm giác gần đích có thể đi kèm cạn sức, lo âu hoặc khó buông sự phòng thủ. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/wands_09.webp"
     },
     {
       "id": "wands_10",
       "name": "Ten of Wands",
-      "name_vi": "Muoi Gay",
+      "name_vi": "Mười Gậy",
       "arcana": "minor",
       "suit": "wands",
-      "suit_vi": "Gay",
+      "suit_vi": "Gậy",
       "number": 10,
       "rank": "Ten",
       "element": "Fire",
       "accent": "#d07a43",
       "keywords_upright": [
-        "day chu ky",
-        "ket qua",
-        "hoan tat",
-        "gan nang ro hon"
+        "đầy chu kỳ",
+        "kết quả",
+        "hoàn tất",
+        "gánh nặng rõ hơn"
       ],
       "keywords_reversed": [
-        "giai tai",
-        "sap xep lai",
-        "buong bot",
-        "hau qua"
+        "giải tải",
+        "sắp xếp lại",
+        "buông bớt",
+        "hệ quả"
       ],
-      "meaning_upright": "La nay mang nang luong cua lua, thuc day ban hanh dong, thu nghiem va day duoc dong luc ben trong. Muoi danh dau diem day cua chu ky, noi ket qua ro hon nhung cung cho thay gan nang hoac he qua cua no. Trong bo gay, la nay thuong lien quan den dam me, sang tao va hanh dong va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, nang luong lua nay de tro nen nong voi, mat dinh huong hoac kiet suc vi phan tan qua nhieu huong. Khi dao nguoc, chu ky nay dang doi duoc giai tai, dong lai hoac sap xep lai cho ben vung hon. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này mang năng lượng của lửa, thúc đẩy bạn hành động, thử nghiệm và khơi dậy động lực bên trong. Mười đánh dấu điểm đầy của chu kỳ, nơi kết quả rõ hơn nhưng cũng cho thấy gánh nặng hoặc hệ quả của nó. Trong bộ gậy, lá này thường liên quan đến đam mê, sáng tạo và hành động và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, năng lượng lửa này dễ trở nên nóng vội, mất định hướng hoặc kiệt sức vì phân tán quá nhiều hướng. Khi đảo ngược, chu kỳ này đang đòi được giải tải, đóng lại hoặc sắp xếp lại cho bền vững hơn. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/wands_10.webp"
     },
     {
       "id": "wands_11",
       "name": "Page of Wands",
-      "name_vi": "Tieu Dong Gay",
+      "name_vi": "Tiểu Đồng Gậy",
       "arcana": "minor",
       "suit": "wands",
-      "suit_vi": "Gay",
+      "suit_vi": "Gậy",
       "number": 11,
       "rank": "Page",
       "element": "Fire",
       "accent": "#d07a43",
       "keywords_upright": [
-        "hoc hoi",
-        "tin hieu moi",
-        "to mo",
-        "mo cua"
+        "học hỏi",
+        "tín hiệu mới",
+        "tò mò",
+        "mở cửa"
       ],
       "keywords_reversed": [
-        "non tre",
-        "phan tam",
-        "do cho",
-        "thieu dinh huong"
+        "non trẻ",
+        "phân tâm",
+        "dở chừng",
+        "thiếu định hướng"
       ],
-      "meaning_upright": "La nay mang nang luong cua lua, thuc day ban hanh dong, thu nghiem va day duoc dong luc ben trong. Page dem den tam the hoc hoi, thong diep moi va su mo cua nguoi dang buoc vao mot linh vuc bang tri to mo. Trong bo gay, la nay thuong lien quan den dam me, sang tao va hanh dong va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, nang luong lua nay de tro nen nong voi, mat dinh huong hoac kiet suc vi phan tan qua nhieu huong. O the nguoc, su non tre hoac phan tam co the khien thong diep dep tro nen meo hoac kho giu dinh huong. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này mang năng lượng của lửa, thúc đẩy bạn hành động, thử nghiệm và khơi dậy động lực bên trong. Page đem đến tâm thế học hỏi, tín hiệu mới và sự mở của người đang bước vào một lĩnh vực bằng trí tò mò. Trong bộ gậy, lá này thường liên quan đến đam mê, sáng tạo và hành động và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, năng lượng lửa này dễ trở nên nóng vội, mất định hướng hoặc kiệt sức vì phân tán quá nhiều hướng. Ở thế ngược, sự non trẻ hoặc phân tâm có thể khiến thông điệp đẹp trở nên méo hoặc khó giữ định hướng. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/wands_11.webp"
     },
     {
       "id": "wands_12",
       "name": "Knight of Wands",
-      "name_vi": "Ky Si Gay",
+      "name_vi": "Kỵ Sĩ Gậy",
       "arcana": "minor",
       "suit": "wands",
-      "suit_vi": "Gay",
+      "suit_vi": "Gậy",
       "number": 12,
       "rank": "Knight",
       "element": "Fire",
       "accent": "#d07a43",
       "keywords_upright": [
-        "hanh dong",
-        "dong luc",
-        "the tien",
-        "xong len"
+        "hành động",
+        "động lực",
+        "thế tiến",
+        "xông lên"
       ],
       "keywords_reversed": [
-        "hap tap",
-        "qua da",
-        "mat huong",
-        "thieu dieu tiet"
+        "hấp tấp",
+        "quá đà",
+        "mất hướng",
+        "thiếu điều tiết"
       ],
-      "meaning_upright": "La nay mang nang luong cua lua, thuc day ban hanh dong, thu nghiem va day duoc dong luc ben trong. Knight day cau chuyen di nhanh hon, nhieu dong luc hon va doi hoi ban dua nang luong vao hanh dong co huong. Trong bo gay, la nay thuong lien quan den dam me, sang tao va hanh dong va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, nang luong lua nay de tro nen nong voi, mat dinh huong hoac kiet suc vi phan tan qua nhieu huong. Khi dao nguoc, dong luc nay de tro nen hap tap, mat kiem soat hoac chay qua da trong khi muc tieu chua ro. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này mang năng lượng của lửa, thúc đẩy bạn hành động, thử nghiệm và khơi dậy động lực bên trong. Knight đẩy câu chuyện đi nhanh hơn, nhiều động lực hơn và đòi hỏi bạn đưa năng lượng vào hành động có hướng. Trong bộ gậy, lá này thường liên quan đến đam mê, sáng tạo và hành động và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, năng lượng lửa này dễ trở nên nóng vội, mất định hướng hoặc kiệt sức vì phân tán quá nhiều hướng. Khi đảo ngược, động lực này dễ trở nên hấp tấp, mất kiểm soát hoặc chạy quá đà trong khi mục tiêu chưa rõ. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/wands_12.webp"
     },
     {
       "id": "wands_13",
       "name": "Queen of Wands",
-      "name_vi": "Nu Hoang Gay",
+      "name_vi": "Nữ Hoàng Gậy",
       "arcana": "minor",
       "suit": "wands",
-      "suit_vi": "Gay",
+      "suit_vi": "Gậy",
       "number": 13,
       "rank": "Queen",
       "element": "Fire",
       "accent": "#d07a43",
       "keywords_upright": [
-        "truong thanh",
-        "noi luc",
-        "tinh te",
-        "dieu huong"
+        "trưởng thành",
+        "nội lực",
+        "tinh tế",
+        "điều hướng"
       ],
       "keywords_reversed": [
-        "qua nhay",
-        "kiem soat ngam",
-        "lech can",
-        "tu dong"
+        "quá nhạy",
+        "kiểm soát ngầm",
+        "lệch cân",
+        "tự đóng"
       ],
-      "meaning_upright": "La nay mang nang luong cua lua, thuc day ban hanh dong, thu nghiem va day duoc dong luc ben trong. Queen la nang luong truong thanh, biet quan sat va dieu huong linh vuc nay bang su tinh te va noi luc on dinh. Trong bo gay, la nay thuong lien quan den dam me, sang tao va hanh dong va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, nang luong lua nay de tro nen nong voi, mat dinh huong hoac kiet suc vi phan tan qua nhieu huong. O the nguoc, nang luong nay co the bi lech thanh nhay cam qua muc, kiem soat ngam hoac mat can doi noi tam. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này mang năng lượng của lửa, thúc đẩy bạn hành động, thử nghiệm và khơi dậy động lực bên trong. Queen là năng lượng trưởng thành, biết quan sát và điều hướng lĩnh vực này bằng sự tinh tế và nội lực ổn định. Trong bộ gậy, lá này thường liên quan đến đam mê, sáng tạo và hành động và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, năng lượng lửa này dễ trở nên nóng vội, mất định hướng hoặc kiệt sức vì phân tán quá nhiều hướng. Ở thế ngược, năng lượng này có thể bị lệch thành nhạy cảm quá mức, kiểm soát ngầm hoặc mất cân đối nội tâm. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/wands_13.webp"
     },
     {
       "id": "wands_14",
       "name": "King of Wands",
-      "name_vi": "Quoc Vuong Gay",
+      "name_vi": "Quốc Vương Gậy",
       "arcana": "minor",
       "suit": "wands",
-      "suit_vi": "Gay",
+      "suit_vi": "Gậy",
       "number": 14,
       "rank": "King",
       "element": "Fire",
       "accent": "#d07a43",
       "keywords_upright": [
-        "lam chu",
-        "tham quyen",
-        "kinh nghiem",
-        "trach nhiem"
+        "làm chủ",
+        "thẩm quyền",
+        "kinh nghiệm",
+        "trách nhiệm"
       ],
       "keywords_reversed": [
-        "cung nhac",
-        "qua uu the",
-        "lech dung quyen",
-        "thieu lang nghe"
+        "cứng nhắc",
+        "quá ưu thế",
+        "lệch dùng quyền",
+        "thiếu lắng nghe"
       ],
-      "meaning_upright": "La nay mang nang luong cua lua, thuc day ban hanh dong, thu nghiem va day duoc dong luc ben trong. King the hien muc do lam chu cao nhat cua linh vuc nay, noi kinh nghiem va tham quyen di kem trach nhiem ro rang. Trong bo gay, la nay thuong lien quan den dam me, sang tao va hanh dong va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, nang luong lua nay de tro nen nong voi, mat dinh huong hoac kiet suc vi phan tan qua nhieu huong. Khi dao nguoc, cach lam chu de chuyen thanh cung nhac, qua uu the hoac mat su dienh dam can thiet. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này mang năng lượng của lửa, thúc đẩy bạn hành động, thử nghiệm và khơi dậy động lực bên trong. King thể hiện mức độ làm chủ cao nhất của lĩnh vực này, nơi kinh nghiệm và thẩm quyền đi kèm trách nhiệm rõ ràng. Trong bộ gậy, lá này thường liên quan đến đam mê, sáng tạo và hành động và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, năng lượng lửa này dễ trở nên nóng vội, mất định hướng hoặc kiệt sức vì phân tán quá nhiều hướng. Khi đảo ngược, cách làm chủ dễ chuyển thành cứng nhắc, quá ưu thế hoặc mất sự điềm đạm cần thiết. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/wands_14.webp"
     },
     {
       "id": "cups_01",
       "name": "Ace of Cups",
-      "name_vi": "At Chen",
+      "name_vi": "Át Chén",
       "arcana": "minor",
       "suit": "cups",
-      "suit_vi": "Chen",
+      "suit_vi": "Chén",
       "number": 1,
       "rank": "Ace",
       "element": "Water",
       "accent": "#5f93c9",
       "keywords_upright": [
-        "co hoi",
-        "khoi dau",
-        "hat giong",
-        "tien nang"
+        "cơ hội",
+        "khởi đầu",
+        "hạt giống",
+        "tiềm năng"
       ],
       "keywords_reversed": [
-        "bo lo",
-        "cham nhip",
-        "nghi ngo",
-        "dong lai"
+        "bỏ lỡ",
+        "chậm nhịp",
+        "nghi ngờ",
+        "đóng lại"
       ],
-      "meaning_upright": "La nay noi ve dong chay cam xuc, su lien ket va cach ban tiep nhan the gioi bang trai tim va truc giac. Mo ra mot co hoi moi va mot nguon nang luong nguyen so de bat dau. Trong bo chen, la nay thuong lien quan den cam xuc, ket noi va truc giac va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, dong nuoc cam xuc nay co the dang bi un tac, tran bo hoac kho duoc goi ten mot cach ro rang. Co hoi van co nhung de bi bo lo, cham nhip hoac chua duoc don nhan dung luc. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này nói về dòng chảy cảm xúc, sự liên kết và cách bạn tiếp nhận thế giới bằng trái tim và trực giác. Mở ra một cơ hội mới và một nguồn năng lượng nguyên sơ để bắt đầu. Trong bộ chén, lá này thường liên quan đến cảm xúc, kết nối và trực giác và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, dòng nước cảm xúc này có thể đang bị ùn tắc, tràn bờ hoặc khó được gọi tên một cách rõ ràng. Cơ hội vẫn có nhưng dễ bị bỏ lỡ, chậm nhịp hoặc chưa được đón nhận đúng lúc. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/cups_01.webp"
     },
     {
       "id": "cups_02",
       "name": "Two of Cups",
-      "name_vi": "Hai Chen",
+      "name_vi": "Hai Chén",
       "arcana": "minor",
       "suit": "cups",
-      "suit_vi": "Chen",
+      "suit_vi": "Chén",
       "number": 2,
       "rank": "Two",
       "element": "Water",
       "accent": "#5f93c9",
       "keywords_upright": [
-        "can bang",
-        "lua chon",
-        "doi thoai",
-        "can doi"
+        "cân bằng",
+        "lựa chọn",
+        "đối thoại",
+        "cân đối"
       ],
       "keywords_reversed": [
-        "be tac",
-        "do du",
-        "lech can",
-        "kho chon"
+        "bế tắc",
+        "do dự",
+        "lệch cân",
+        "khó chọn"
       ],
-      "meaning_upright": "La nay noi ve dong chay cam xuc, su lien ket va cach ban tiep nhan the gioi bang trai tim va truc giac. Tap trung vao can doi, lua chon va cach hai luc keo dang doi thoai voi nhau. Trong bo chen, la nay thuong lien quan den cam xuc, ket noi va truc giac va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, dong nuoc cam xuc nay co the dang bi un tac, tran bo hoac kho duoc goi ten mot cach ro rang. Can canh bao su lung tung, treo quyet dinh hoac lech mat can bang giua hai huong. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này nói về dòng chảy cảm xúc, sự liên kết và cách bạn tiếp nhận thế giới bằng trái tim và trực giác. Tập trung vào cân đối, lựa chọn và cách hai lực kéo đang đối thoại với nhau. Trong bộ chén, lá này thường liên quan đến cảm xúc, kết nối và trực giác và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, dòng nước cảm xúc này có thể đang bị ùn tắc, tràn bờ hoặc khó được gọi tên một cách rõ ràng. Cần cảnh báo sự lúng túng, treo quyết định hoặc lệch mất cân bằng giữa hai hướng. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/cups_02.webp"
     },
     {
       "id": "cups_03",
       "name": "Three of Cups",
-      "name_vi": "Ba Chen",
+      "name_vi": "Ba Chén",
       "arcana": "minor",
       "suit": "cups",
-      "suit_vi": "Chen",
+      "suit_vi": "Chén",
       "number": 3,
       "rank": "Three",
       "element": "Water",
       "accent": "#5f93c9",
       "keywords_upright": [
-        "mo rong",
-        "phoi hop",
-        "tam nhin",
-        "bat dau co ket qua"
+        "mở rộng",
+        "phối hợp",
+        "tầm nhìn",
+        "bắt đầu có kết quả"
       ],
       "keywords_reversed": [
-        "tro ngai",
-        "roi rac",
-        "cham tien",
-        "lech huong"
+        "trở ngại",
+        "rời rạc",
+        "chậm tiến",
+        "lệch hướng"
       ],
-      "meaning_upright": "La nay noi ve dong chay cam xuc, su lien ket va cach ban tiep nhan the gioi bang trai tim va truc giac. Nang luong ba thuong lien quan den mo rong, phoi hop va thay ket qua dau tien dang hinh thanh. Trong bo chen, la nay thuong lien quan den cam xuc, ket noi va truc giac va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, dong nuoc cam xuc nay co the dang bi un tac, tran bo hoac kho duoc goi ten mot cach ro rang. Ban co the dang gap tro ngai trong phoi hop hoac du an mo ra nhung chua di den dau. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này nói về dòng chảy cảm xúc, sự liên kết và cách bạn tiếp nhận thế giới bằng trái tim và trực giác. Năng lượng ba thường liên quan đến mở rộng, phối hợp và thấy kết quả đầu tiên đang hình thành. Trong bộ chén, lá này thường liên quan đến cảm xúc, kết nối và trực giác và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, dòng nước cảm xúc này có thể đang bị ùn tắc, tràn bờ hoặc khó được gọi tên một cách rõ ràng. Bạn có thể đang gặp trở ngại trong phối hợp hoặc dự án mở ra nhưng chưa đi đến đâu. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/cups_03.webp"
     },
     {
       "id": "cups_04",
       "name": "Four of Cups",
-      "name_vi": "Bon Chen",
+      "name_vi": "Bốn Chén",
       "arcana": "minor",
       "suit": "cups",
-      "suit_vi": "Chen",
+      "suit_vi": "Chén",
       "number": 4,
       "rank": "Four",
       "element": "Water",
       "accent": "#5f93c9",
       "keywords_upright": [
-        "on dinh",
-        "nen tang",
-        "giu nhip",
-        "ne nep"
+        "ổn định",
+        "nền tảng",
+        "giữ nhịp",
+        "nề nếp"
       ],
       "keywords_reversed": [
         "lung lay",
-        "dong cung",
-        "thieu linh hoat",
-        "bat an"
+        "đóng cứng",
+        "thiếu linh hoạt",
+        "bất an"
       ],
-      "meaning_upright": "La nay noi ve dong chay cam xuc, su lien ket va cach ban tiep nhan the gioi bang trai tim va truc giac. La bai dua nang luong ve on dinh, ne nep va mot nen tang de ban dung chan lau hon. Trong bo chen, la nay thuong lien quan den cam xuc, ket noi va truc giac va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, dong nuoc cam xuc nay co the dang bi un tac, tran bo hoac kho duoc goi ten mot cach ro rang. Khi dao nguoc, su on dinh nay co the bi lung lay hoac tro thanh qua dong khien nang luong khong luan chuyen. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này nói về dòng chảy cảm xúc, sự liên kết và cách bạn tiếp nhận thế giới bằng trái tim và trực giác. Lá bài đưa năng lượng về ổn định, nề nếp và một nền tảng để bạn đứng chân lâu hơn. Trong bộ chén, lá này thường liên quan đến cảm xúc, kết nối và trực giác và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, dòng nước cảm xúc này có thể đang bị ùn tắc, tràn bờ hoặc khó được gọi tên một cách rõ ràng. Khi đảo ngược, sự ổn định này có thể bị lung lay hoặc trở thành quá đóng khiến năng lượng không luân chuyển. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/cups_04.webp"
     },
     {
       "id": "cups_05",
       "name": "Five of Cups",
-      "name_vi": "Nam Chen",
+      "name_vi": "Năm Chén",
       "arcana": "minor",
       "suit": "cups",
-      "suit_vi": "Chen",
+      "suit_vi": "Chén",
       "number": 5,
       "rank": "Five",
       "element": "Water",
       "accent": "#5f93c9",
       "keywords_upright": [
-        "thay doi",
-        "xung dot",
-        "cang co",
-        "thich nghi"
+        "thay đổi",
+        "xung đột",
+        "căng co",
+        "thích nghi"
       ],
       "keywords_reversed": [
-        "ne tranh",
-        "giam cang",
-        "am i",
-        "sua lai"
+        "né tránh",
+        "giảm căng",
+        "âm ỉ",
+        "sửa lại"
       ],
-      "meaning_upright": "La nay noi ve dong chay cam xuc, su lien ket va cach ban tiep nhan the gioi bang trai tim va truc giac. Nam la pha dao dong, xung dot nho hoac su thay doi buoc ban phai dieu chinh nhanh. Trong bo chen, la nay thuong lien quan den cam xuc, ket noi va truc giac va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, dong nuoc cam xuc nay co the dang bi un tac, tran bo hoac kho duoc goi ten mot cach ro rang. O chieu nguoc, xung dot co the dang diu lai, bi ne tranh hoac chuyen thanh cang thang ngam. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này nói về dòng chảy cảm xúc, sự liên kết và cách bạn tiếp nhận thế giới bằng trái tim và trực giác. Năm là pha dao động, xung đột nhỏ hoặc sự thay đổi buộc bạn phải điều chỉnh nhanh. Trong bộ chén, lá này thường liên quan đến cảm xúc, kết nối và trực giác và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, dòng nước cảm xúc này có thể đang bị ùn tắc, tràn bờ hoặc khó được gọi tên một cách rõ ràng. Ở chiều ngược, xung đột có thể đang dịu lại, bị né tránh hoặc chuyển thành căng thẳng ngầm. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/cups_05.webp"
     },
     {
       "id": "cups_06",
       "name": "Six of Cups",
-      "name_vi": "Sau Chen",
+      "name_vi": "Sáu Chén",
       "arcana": "minor",
       "suit": "cups",
-      "suit_vi": "Chen",
+      "suit_vi": "Chén",
       "number": 6,
       "rank": "Six",
       "element": "Water",
       "accent": "#5f93c9",
       "keywords_upright": [
-        "hai hoa",
-        "nang do",
-        "chuyen tiep",
-        "de tho hon"
+        "hài hòa",
+        "nâng đỡ",
+        "chuyển tiếp",
+        "dễ thở hơn"
       ],
       "keywords_reversed": [
-        "mat can",
-        "keo lai",
-        "khong deu",
-        "lech doi"
+        "mất cân",
+        "kéo lại",
+        "không đều",
+        "lệch đôi"
       ],
-      "meaning_upright": "La nay noi ve dong chay cam xuc, su lien ket va cach ban tiep nhan the gioi bang trai tim va truc giac. Sau thuong dem den su hai hoa hon, mot nhịp chuyen tiep de dang hoac cam giac duoc nang do. Trong bo chen, la nay thuong lien quan den cam xuc, ket noi va truc giac va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, dong nuoc cam xuc nay co the dang bi un tac, tran bo hoac kho duoc goi ten mot cach ro rang. Khi dao nguoc, dong chay de bi cham lai, mat can doi hoac co su lech giua cho va nhan. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này nói về dòng chảy cảm xúc, sự liên kết và cách bạn tiếp nhận thế giới bằng trái tim và trực giác. Sáu thường đem đến sự hài hòa hơn, một nhịp chuyển tiếp dễ dàng hoặc cảm giác được nâng đỡ. Trong bộ chén, lá này thường liên quan đến cảm xúc, kết nối và trực giác và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, dòng nước cảm xúc này có thể đang bị ùn tắc, tràn bờ hoặc khó được gọi tên một cách rõ ràng. Khi đảo ngược, dòng chảy dễ bị chậm lại, mất cân đối hoặc có sự lệch giữa cho và nhận. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/cups_06.webp"
     },
     {
       "id": "cups_07",
       "name": "Seven of Cups",
-      "name_vi": "Bay Chen",
+      "name_vi": "Bảy Chén",
       "arcana": "minor",
       "suit": "cups",
-      "suit_vi": "Chen",
+      "suit_vi": "Chén",
       "number": 7,
       "rank": "Seven",
       "element": "Water",
       "accent": "#5f93c9",
       "keywords_upright": [
-        "thu thach",
-        "giu huong",
-        "chien luoc",
-        "niem tin"
+        "thử thách",
+        "giữ hướng",
+        "chiến lược",
+        "niềm tin"
       ],
       "keywords_reversed": [
-        "met moi",
+        "mệt mỏi",
         "lung lay",
-        "do du",
-        "mat the"
+        "do dự",
+        "mất thế"
       ],
-      "meaning_upright": "La nay noi ve dong chay cam xuc, su lien ket va cach ban tiep nhan the gioi bang trai tim va truc giac. Bay goi den bai kiem tra ve niem tin, chien luoc va kha nang giu huong khi ap luc tang len. Trong bo chen, la nay thuong lien quan den cam xuc, ket noi va truc giac va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, dong nuoc cam xuc nay co the dang bi un tac, tran bo hoac kho duoc goi ten mot cach ro rang. O the nguoc, ban co the met moi, phan van hoac dung sai cach de bao ve dieu quan trong. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này nói về dòng chảy cảm xúc, sự liên kết và cách bạn tiếp nhận thế giới bằng trái tim và trực giác. Bảy gợi đến bài kiểm tra về niềm tin, chiến lược và khả năng giữ hướng khi áp lực tăng lên. Trong bộ chén, lá này thường liên quan đến cảm xúc, kết nối và trực giác và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, dòng nước cảm xúc này có thể đang bị ùn tắc, tràn bờ hoặc khó được gọi tên một cách rõ ràng. Ở thế ngược, bạn có thể mệt mỏi, phân vân hoặc dùng sai cách để bảo vệ điều quan trọng. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/cups_07.webp"
     },
     {
       "id": "cups_08",
       "name": "Eight of Cups",
-      "name_vi": "Tam Chen",
+      "name_vi": "Tám Chén",
       "arcana": "minor",
       "suit": "cups",
-      "suit_vi": "Chen",
+      "suit_vi": "Chén",
       "number": 8,
       "rank": "Eight",
       "element": "Water",
       "accent": "#5f93c9",
       "keywords_upright": [
-        "tien trien",
-        "nhip do",
-        "dong luc",
-        "lap lai co y thuc"
+        "tiến triển",
+        "nhịp độ",
+        "động lực",
+        "lặp lại có ý thức"
       ],
       "keywords_reversed": [
-        "tri tre",
-        "mat nhip",
-        "lap lai vo thuc",
-        "tre"
+        "trì trệ",
+        "mất nhịp",
+        "lặp lại vô thức",
+        "trễ"
       ],
-      "meaning_upright": "La nay noi ve dong chay cam xuc, su lien ket va cach ban tiep nhan the gioi bang trai tim va truc giac. Tam la nang luong cua dong chay ro hon, toc do cao hon hoac su lap lai giup tao thanh ky nang. Trong bo chen, la nay thuong lien quan den cam xuc, ket noi va truc giac va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, dong nuoc cam xuc nay co the dang bi un tac, tran bo hoac kho duoc goi ten mot cach ro rang. Khi dao nguoc, nhip do de bi dut, tre hoac lap lai mot cach vo thuc ma khong tao tien bo. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này nói về dòng chảy cảm xúc, sự liên kết và cách bạn tiếp nhận thế giới bằng trái tim và trực giác. Tám là năng lượng của dòng chảy rõ hơn, tốc độ cao hơn hoặc sự lặp lại giúp tạo thành kỹ năng. Trong bộ chén, lá này thường liên quan đến cảm xúc, kết nối và trực giác và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, dòng nước cảm xúc này có thể đang bị ùn tắc, tràn bờ hoặc khó được gọi tên một cách rõ ràng. Khi đảo ngược, nhịp độ dễ bị đứt, trễ hoặc lặp lại một cách vô thức mà không tạo tiến bộ. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/cups_08.webp"
     },
     {
       "id": "cups_09",
       "name": "Nine of Cups",
-      "name_vi": "Chin Chen",
+      "name_vi": "Chín Chén",
       "arcana": "minor",
       "suit": "cups",
-      "suit_vi": "Chen",
+      "suit_vi": "Chén",
       "number": 9,
       "rank": "Nine",
       "element": "Water",
       "accent": "#5f93c9",
       "keywords_upright": [
-        "gan dich",
-        "kinh nghiem",
-        "ben bi",
-        "can dich"
+        "gần đích",
+        "kinh nghiệm",
+        "bền bỉ",
+        "cán đích"
       ],
       "keywords_reversed": [
-        "can suc",
-        "lo au",
-        "phong thu",
-        "kho buong"
+        "cạn sức",
+        "lo âu",
+        "phòng thủ",
+        "khó buông"
       ],
-      "meaning_upright": "La nay noi ve dong chay cam xuc, su lien ket va cach ban tiep nhan the gioi bang trai tim va truc giac. Chin la muc sat dich, noi ban co kinh nghiem va can them su ben bi de ket chu ky hien tai. Trong bo chen, la nay thuong lien quan den cam xuc, ket noi va truc giac va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, dong nuoc cam xuc nay co the dang bi un tac, tran bo hoac kho duoc goi ten mot cach ro rang. O chieu nguoc, cam giac gan dich co the di kem can suc, lo au hoac kho buong su phong thu. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này nói về dòng chảy cảm xúc, sự liên kết và cách bạn tiếp nhận thế giới bằng trái tim và trực giác. Chín là mức sát đích, nơi bạn có kinh nghiệm và cần thêm sự bền bỉ để kết chu kỳ hiện tại. Trong bộ chén, lá này thường liên quan đến cảm xúc, kết nối và trực giác và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, dòng nước cảm xúc này có thể đang bị ùn tắc, tràn bờ hoặc khó được gọi tên một cách rõ ràng. Ở chiều ngược, cảm giác gần đích có thể đi kèm cạn sức, lo âu hoặc khó buông sự phòng thủ. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/cups_09.webp"
     },
     {
       "id": "cups_10",
       "name": "Ten of Cups",
-      "name_vi": "Muoi Chen",
+      "name_vi": "Mười Chén",
       "arcana": "minor",
       "suit": "cups",
-      "suit_vi": "Chen",
+      "suit_vi": "Chén",
       "number": 10,
       "rank": "Ten",
       "element": "Water",
       "accent": "#5f93c9",
       "keywords_upright": [
-        "day chu ky",
-        "ket qua",
-        "hoan tat",
-        "gan nang ro hon"
+        "đầy chu kỳ",
+        "kết quả",
+        "hoàn tất",
+        "gánh nặng rõ hơn"
       ],
       "keywords_reversed": [
-        "giai tai",
-        "sap xep lai",
-        "buong bot",
-        "hau qua"
+        "giải tải",
+        "sắp xếp lại",
+        "buông bớt",
+        "hệ quả"
       ],
-      "meaning_upright": "La nay noi ve dong chay cam xuc, su lien ket va cach ban tiep nhan the gioi bang trai tim va truc giac. Muoi danh dau diem day cua chu ky, noi ket qua ro hon nhung cung cho thay gan nang hoac he qua cua no. Trong bo chen, la nay thuong lien quan den cam xuc, ket noi va truc giac va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, dong nuoc cam xuc nay co the dang bi un tac, tran bo hoac kho duoc goi ten mot cach ro rang. Khi dao nguoc, chu ky nay dang doi duoc giai tai, dong lai hoac sap xep lai cho ben vung hon. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này nói về dòng chảy cảm xúc, sự liên kết và cách bạn tiếp nhận thế giới bằng trái tim và trực giác. Mười đánh dấu điểm đầy của chu kỳ, nơi kết quả rõ hơn nhưng cũng cho thấy gánh nặng hoặc hệ quả của nó. Trong bộ chén, lá này thường liên quan đến cảm xúc, kết nối và trực giác và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, dòng nước cảm xúc này có thể đang bị ùn tắc, tràn bờ hoặc khó được gọi tên một cách rõ ràng. Khi đảo ngược, chu kỳ này đang đòi được giải tải, đóng lại hoặc sắp xếp lại cho bền vững hơn. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/cups_10.webp"
     },
     {
       "id": "cups_11",
       "name": "Page of Cups",
-      "name_vi": "Tieu Dong Chen",
+      "name_vi": "Tiểu Đồng Chén",
       "arcana": "minor",
       "suit": "cups",
-      "suit_vi": "Chen",
+      "suit_vi": "Chén",
       "number": 11,
       "rank": "Page",
       "element": "Water",
       "accent": "#5f93c9",
       "keywords_upright": [
-        "hoc hoi",
-        "tin hieu moi",
-        "to mo",
-        "mo cua"
+        "học hỏi",
+        "tín hiệu mới",
+        "tò mò",
+        "mở cửa"
       ],
       "keywords_reversed": [
-        "non tre",
-        "phan tam",
-        "do cho",
-        "thieu dinh huong"
+        "non trẻ",
+        "phân tâm",
+        "dở chừng",
+        "thiếu định hướng"
       ],
-      "meaning_upright": "La nay noi ve dong chay cam xuc, su lien ket va cach ban tiep nhan the gioi bang trai tim va truc giac. Page dem den tam the hoc hoi, thong diep moi va su mo cua nguoi dang buoc vao mot linh vuc bang tri to mo. Trong bo chen, la nay thuong lien quan den cam xuc, ket noi va truc giac va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, dong nuoc cam xuc nay co the dang bi un tac, tran bo hoac kho duoc goi ten mot cach ro rang. O the nguoc, su non tre hoac phan tam co the khien thong diep dep tro nen meo hoac kho giu dinh huong. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này nói về dòng chảy cảm xúc, sự liên kết và cách bạn tiếp nhận thế giới bằng trái tim và trực giác. Page đem đến tâm thế học hỏi, tín hiệu mới và sự mở của người đang bước vào một lĩnh vực bằng trí tò mò. Trong bộ chén, lá này thường liên quan đến cảm xúc, kết nối và trực giác và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, dòng nước cảm xúc này có thể đang bị ùn tắc, tràn bờ hoặc khó được gọi tên một cách rõ ràng. Ở thế ngược, sự non trẻ hoặc phân tâm có thể khiến thông điệp đẹp trở nên méo hoặc khó giữ định hướng. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/cups_11.webp"
     },
     {
       "id": "cups_12",
       "name": "Knight of Cups",
-      "name_vi": "Ky Si Chen",
+      "name_vi": "Kỵ Sĩ Chén",
       "arcana": "minor",
       "suit": "cups",
-      "suit_vi": "Chen",
+      "suit_vi": "Chén",
       "number": 12,
       "rank": "Knight",
       "element": "Water",
       "accent": "#5f93c9",
       "keywords_upright": [
-        "hanh dong",
-        "dong luc",
-        "the tien",
-        "xong len"
+        "hành động",
+        "động lực",
+        "thế tiến",
+        "xông lên"
       ],
       "keywords_reversed": [
-        "hap tap",
-        "qua da",
-        "mat huong",
-        "thieu dieu tiet"
+        "hấp tấp",
+        "quá đà",
+        "mất hướng",
+        "thiếu điều tiết"
       ],
-      "meaning_upright": "La nay noi ve dong chay cam xuc, su lien ket va cach ban tiep nhan the gioi bang trai tim va truc giac. Knight day cau chuyen di nhanh hon, nhieu dong luc hon va doi hoi ban dua nang luong vao hanh dong co huong. Trong bo chen, la nay thuong lien quan den cam xuc, ket noi va truc giac va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, dong nuoc cam xuc nay co the dang bi un tac, tran bo hoac kho duoc goi ten mot cach ro rang. Khi dao nguoc, dong luc nay de tro nen hap tap, mat kiem soat hoac chay qua da trong khi muc tieu chua ro. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này nói về dòng chảy cảm xúc, sự liên kết và cách bạn tiếp nhận thế giới bằng trái tim và trực giác. Knight đẩy câu chuyện đi nhanh hơn, nhiều động lực hơn và đòi hỏi bạn đưa năng lượng vào hành động có hướng. Trong bộ chén, lá này thường liên quan đến cảm xúc, kết nối và trực giác và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, dòng nước cảm xúc này có thể đang bị ùn tắc, tràn bờ hoặc khó được gọi tên một cách rõ ràng. Khi đảo ngược, động lực này dễ trở nên hấp tấp, mất kiểm soát hoặc chạy quá đà trong khi mục tiêu chưa rõ. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/cups_12.webp"
     },
     {
       "id": "cups_13",
       "name": "Queen of Cups",
-      "name_vi": "Nu Hoang Chen",
+      "name_vi": "Nữ Hoàng Chén",
       "arcana": "minor",
       "suit": "cups",
-      "suit_vi": "Chen",
+      "suit_vi": "Chén",
       "number": 13,
       "rank": "Queen",
       "element": "Water",
       "accent": "#5f93c9",
       "keywords_upright": [
-        "truong thanh",
-        "noi luc",
-        "tinh te",
-        "dieu huong"
+        "trưởng thành",
+        "nội lực",
+        "tinh tế",
+        "điều hướng"
       ],
       "keywords_reversed": [
-        "qua nhay",
-        "kiem soat ngam",
-        "lech can",
-        "tu dong"
+        "quá nhạy",
+        "kiểm soát ngầm",
+        "lệch cân",
+        "tự đóng"
       ],
-      "meaning_upright": "La nay noi ve dong chay cam xuc, su lien ket va cach ban tiep nhan the gioi bang trai tim va truc giac. Queen la nang luong truong thanh, biet quan sat va dieu huong linh vuc nay bang su tinh te va noi luc on dinh. Trong bo chen, la nay thuong lien quan den cam xuc, ket noi va truc giac va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, dong nuoc cam xuc nay co the dang bi un tac, tran bo hoac kho duoc goi ten mot cach ro rang. O the nguoc, nang luong nay co the bi lech thanh nhay cam qua muc, kiem soat ngam hoac mat can doi noi tam. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này nói về dòng chảy cảm xúc, sự liên kết và cách bạn tiếp nhận thế giới bằng trái tim và trực giác. Queen là năng lượng trưởng thành, biết quan sát và điều hướng lĩnh vực này bằng sự tinh tế và nội lực ổn định. Trong bộ chén, lá này thường liên quan đến cảm xúc, kết nối và trực giác và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, dòng nước cảm xúc này có thể đang bị ùn tắc, tràn bờ hoặc khó được gọi tên một cách rõ ràng. Ở thế ngược, năng lượng này có thể bị lệch thành nhạy cảm quá mức, kiểm soát ngầm hoặc mất cân đối nội tâm. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/cups_13.webp"
     },
     {
       "id": "cups_14",
       "name": "King of Cups",
-      "name_vi": "Quoc Vuong Chen",
+      "name_vi": "Quốc Vương Chén",
       "arcana": "minor",
       "suit": "cups",
-      "suit_vi": "Chen",
+      "suit_vi": "Chén",
       "number": 14,
       "rank": "King",
       "element": "Water",
       "accent": "#5f93c9",
       "keywords_upright": [
-        "lam chu",
-        "tham quyen",
-        "kinh nghiem",
-        "trach nhiem"
+        "làm chủ",
+        "thẩm quyền",
+        "kinh nghiệm",
+        "trách nhiệm"
       ],
       "keywords_reversed": [
-        "cung nhac",
-        "qua uu the",
-        "lech dung quyen",
-        "thieu lang nghe"
+        "cứng nhắc",
+        "quá ưu thế",
+        "lệch dùng quyền",
+        "thiếu lắng nghe"
       ],
-      "meaning_upright": "La nay noi ve dong chay cam xuc, su lien ket va cach ban tiep nhan the gioi bang trai tim va truc giac. King the hien muc do lam chu cao nhat cua linh vuc nay, noi kinh nghiem va tham quyen di kem trach nhiem ro rang. Trong bo chen, la nay thuong lien quan den cam xuc, ket noi va truc giac va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, dong nuoc cam xuc nay co the dang bi un tac, tran bo hoac kho duoc goi ten mot cach ro rang. Khi dao nguoc, cach lam chu de chuyen thanh cung nhac, qua uu the hoac mat su dienh dam can thiet. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này nói về dòng chảy cảm xúc, sự liên kết và cách bạn tiếp nhận thế giới bằng trái tim và trực giác. King thể hiện mức độ làm chủ cao nhất của lĩnh vực này, nơi kinh nghiệm và thẩm quyền đi kèm trách nhiệm rõ ràng. Trong bộ chén, lá này thường liên quan đến cảm xúc, kết nối và trực giác và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, dòng nước cảm xúc này có thể đang bị ùn tắc, tràn bờ hoặc khó được gọi tên một cách rõ ràng. Khi đảo ngược, cách làm chủ dễ chuyển thành cứng nhắc, quá ưu thế hoặc mất sự điềm đạm cần thiết. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/cups_14.webp"
     },
     {
       "id": "swords_01",
       "name": "Ace of Swords",
-      "name_vi": "At Kiem",
+      "name_vi": "Át Kiếm",
       "arcana": "minor",
       "suit": "swords",
-      "suit_vi": "Kiem",
+      "suit_vi": "Kiếm",
       "number": 1,
       "rank": "Ace",
       "element": "Air",
       "accent": "#93b5d0",
       "keywords_upright": [
-        "co hoi",
-        "khoi dau",
-        "hat giong",
-        "tien nang"
+        "cơ hội",
+        "khởi đầu",
+        "hạt giống",
+        "tiềm năng"
       ],
       "keywords_reversed": [
-        "bo lo",
-        "cham nhip",
-        "nghi ngo",
-        "dong lai"
+        "bỏ lỡ",
+        "chậm nhịp",
+        "nghi ngờ",
+        "đóng lại"
       ],
-      "meaning_upright": "La nay mang nang luong cua khong khi, lien quan den cach ban suy nghi, nhin van de va cat nghia su that. Mo ra mot co hoi moi va mot nguon nang luong nguyen so de bat dau. Trong bo kiem, la nay thuong lien quan den tu duy, su that va xung dot va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, nang luong tri oc nay de bi roi, cang thang, tu bao chua hoac ket luan sai lech. Co hoi van co nhung de bi bo lo, cham nhip hoac chua duoc don nhan dung luc. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này mang năng lượng của không khí, liên quan đến cách bạn suy nghĩ, nhìn vấn đề và cắt nghĩa sự thật. Mở ra một cơ hội mới và một nguồn năng lượng nguyên sơ để bắt đầu. Trong bộ kiếm, lá này thường liên quan đến tư duy, sự thật và xung đột và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, năng lượng trí óc này dễ bị rối, căng thẳng, tự bào chữa hoặc kết luận sai lệch. Cơ hội vẫn có nhưng dễ bị bỏ lỡ, chậm nhịp hoặc chưa được đón nhận đúng lúc. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/swords_01.webp"
     },
     {
       "id": "swords_02",
       "name": "Two of Swords",
-      "name_vi": "Hai Kiem",
+      "name_vi": "Hai Kiếm",
       "arcana": "minor",
       "suit": "swords",
-      "suit_vi": "Kiem",
+      "suit_vi": "Kiếm",
       "number": 2,
       "rank": "Two",
       "element": "Air",
       "accent": "#93b5d0",
       "keywords_upright": [
-        "can bang",
-        "lua chon",
-        "doi thoai",
-        "can doi"
+        "cân bằng",
+        "lựa chọn",
+        "đối thoại",
+        "cân đối"
       ],
       "keywords_reversed": [
-        "be tac",
-        "do du",
-        "lech can",
-        "kho chon"
+        "bế tắc",
+        "do dự",
+        "lệch cân",
+        "khó chọn"
       ],
-      "meaning_upright": "La nay mang nang luong cua khong khi, lien quan den cach ban suy nghi, nhin van de va cat nghia su that. Tap trung vao can doi, lua chon va cach hai luc keo dang doi thoai voi nhau. Trong bo kiem, la nay thuong lien quan den tu duy, su that va xung dot va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, nang luong tri oc nay de bi roi, cang thang, tu bao chua hoac ket luan sai lech. Can canh bao su lung tung, treo quyet dinh hoac lech mat can bang giua hai huong. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này mang năng lượng của không khí, liên quan đến cách bạn suy nghĩ, nhìn vấn đề và cắt nghĩa sự thật. Tập trung vào cân đối, lựa chọn và cách hai lực kéo đang đối thoại với nhau. Trong bộ kiếm, lá này thường liên quan đến tư duy, sự thật và xung đột và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, năng lượng trí óc này dễ bị rối, căng thẳng, tự bào chữa hoặc kết luận sai lệch. Cần cảnh báo sự lúng túng, treo quyết định hoặc lệch mất cân bằng giữa hai hướng. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/swords_02.webp"
     },
     {
       "id": "swords_03",
       "name": "Three of Swords",
-      "name_vi": "Ba Kiem",
+      "name_vi": "Ba Kiếm",
       "arcana": "minor",
       "suit": "swords",
-      "suit_vi": "Kiem",
+      "suit_vi": "Kiếm",
       "number": 3,
       "rank": "Three",
       "element": "Air",
       "accent": "#93b5d0",
       "keywords_upright": [
-        "mo rong",
-        "phoi hop",
-        "tam nhin",
-        "bat dau co ket qua"
+        "mở rộng",
+        "phối hợp",
+        "tầm nhìn",
+        "bắt đầu có kết quả"
       ],
       "keywords_reversed": [
-        "tro ngai",
-        "roi rac",
-        "cham tien",
-        "lech huong"
+        "trở ngại",
+        "rời rạc",
+        "chậm tiến",
+        "lệch hướng"
       ],
-      "meaning_upright": "La nay mang nang luong cua khong khi, lien quan den cach ban suy nghi, nhin van de va cat nghia su that. Nang luong ba thuong lien quan den mo rong, phoi hop va thay ket qua dau tien dang hinh thanh. Trong bo kiem, la nay thuong lien quan den tu duy, su that va xung dot va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, nang luong tri oc nay de bi roi, cang thang, tu bao chua hoac ket luan sai lech. Ban co the dang gap tro ngai trong phoi hop hoac du an mo ra nhung chua di den dau. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này mang năng lượng của không khí, liên quan đến cách bạn suy nghĩ, nhìn vấn đề và cắt nghĩa sự thật. Năng lượng ba thường liên quan đến mở rộng, phối hợp và thấy kết quả đầu tiên đang hình thành. Trong bộ kiếm, lá này thường liên quan đến tư duy, sự thật và xung đột và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, năng lượng trí óc này dễ bị rối, căng thẳng, tự bào chữa hoặc kết luận sai lệch. Bạn có thể đang gặp trở ngại trong phối hợp hoặc dự án mở ra nhưng chưa đi đến đâu. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/swords_03.webp"
     },
     {
       "id": "swords_04",
       "name": "Four of Swords",
-      "name_vi": "Bon Kiem",
+      "name_vi": "Bốn Kiếm",
       "arcana": "minor",
       "suit": "swords",
-      "suit_vi": "Kiem",
+      "suit_vi": "Kiếm",
       "number": 4,
       "rank": "Four",
       "element": "Air",
       "accent": "#93b5d0",
       "keywords_upright": [
-        "on dinh",
-        "nen tang",
-        "giu nhip",
-        "ne nep"
+        "ổn định",
+        "nền tảng",
+        "giữ nhịp",
+        "nề nếp"
       ],
       "keywords_reversed": [
         "lung lay",
-        "dong cung",
-        "thieu linh hoat",
-        "bat an"
+        "đóng cứng",
+        "thiếu linh hoạt",
+        "bất an"
       ],
-      "meaning_upright": "La nay mang nang luong cua khong khi, lien quan den cach ban suy nghi, nhin van de va cat nghia su that. La bai dua nang luong ve on dinh, ne nep va mot nen tang de ban dung chan lau hon. Trong bo kiem, la nay thuong lien quan den tu duy, su that va xung dot va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, nang luong tri oc nay de bi roi, cang thang, tu bao chua hoac ket luan sai lech. Khi dao nguoc, su on dinh nay co the bi lung lay hoac tro thanh qua dong khien nang luong khong luan chuyen. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này mang năng lượng của không khí, liên quan đến cách bạn suy nghĩ, nhìn vấn đề và cắt nghĩa sự thật. Lá bài đưa năng lượng về ổn định, nề nếp và một nền tảng để bạn đứng chân lâu hơn. Trong bộ kiếm, lá này thường liên quan đến tư duy, sự thật và xung đột và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, năng lượng trí óc này dễ bị rối, căng thẳng, tự bào chữa hoặc kết luận sai lệch. Khi đảo ngược, sự ổn định này có thể bị lung lay hoặc trở thành quá đóng khiến năng lượng không luân chuyển. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/swords_04.webp"
     },
     {
       "id": "swords_05",
       "name": "Five of Swords",
-      "name_vi": "Nam Kiem",
+      "name_vi": "Năm Kiếm",
       "arcana": "minor",
       "suit": "swords",
-      "suit_vi": "Kiem",
+      "suit_vi": "Kiếm",
       "number": 5,
       "rank": "Five",
       "element": "Air",
       "accent": "#93b5d0",
       "keywords_upright": [
-        "thay doi",
-        "xung dot",
-        "cang co",
-        "thich nghi"
+        "thay đổi",
+        "xung đột",
+        "căng co",
+        "thích nghi"
       ],
       "keywords_reversed": [
-        "ne tranh",
-        "giam cang",
-        "am i",
-        "sua lai"
+        "né tránh",
+        "giảm căng",
+        "âm ỉ",
+        "sửa lại"
       ],
-      "meaning_upright": "La nay mang nang luong cua khong khi, lien quan den cach ban suy nghi, nhin van de va cat nghia su that. Nam la pha dao dong, xung dot nho hoac su thay doi buoc ban phai dieu chinh nhanh. Trong bo kiem, la nay thuong lien quan den tu duy, su that va xung dot va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, nang luong tri oc nay de bi roi, cang thang, tu bao chua hoac ket luan sai lech. O chieu nguoc, xung dot co the dang diu lai, bi ne tranh hoac chuyen thanh cang thang ngam. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này mang năng lượng của không khí, liên quan đến cách bạn suy nghĩ, nhìn vấn đề và cắt nghĩa sự thật. Năm là pha dao động, xung đột nhỏ hoặc sự thay đổi buộc bạn phải điều chỉnh nhanh. Trong bộ kiếm, lá này thường liên quan đến tư duy, sự thật và xung đột và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, năng lượng trí óc này dễ bị rối, căng thẳng, tự bào chữa hoặc kết luận sai lệch. Ở chiều ngược, xung đột có thể đang dịu lại, bị né tránh hoặc chuyển thành căng thẳng ngầm. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/swords_05.webp"
     },
     {
       "id": "swords_06",
       "name": "Six of Swords",
-      "name_vi": "Sau Kiem",
+      "name_vi": "Sáu Kiếm",
       "arcana": "minor",
       "suit": "swords",
-      "suit_vi": "Kiem",
+      "suit_vi": "Kiếm",
       "number": 6,
       "rank": "Six",
       "element": "Air",
       "accent": "#93b5d0",
       "keywords_upright": [
-        "hai hoa",
-        "nang do",
-        "chuyen tiep",
-        "de tho hon"
+        "hài hòa",
+        "nâng đỡ",
+        "chuyển tiếp",
+        "dễ thở hơn"
       ],
       "keywords_reversed": [
-        "mat can",
-        "keo lai",
-        "khong deu",
-        "lech doi"
+        "mất cân",
+        "kéo lại",
+        "không đều",
+        "lệch đôi"
       ],
-      "meaning_upright": "La nay mang nang luong cua khong khi, lien quan den cach ban suy nghi, nhin van de va cat nghia su that. Sau thuong dem den su hai hoa hon, mot nhịp chuyen tiep de dang hoac cam giac duoc nang do. Trong bo kiem, la nay thuong lien quan den tu duy, su that va xung dot va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, nang luong tri oc nay de bi roi, cang thang, tu bao chua hoac ket luan sai lech. Khi dao nguoc, dong chay de bi cham lai, mat can doi hoac co su lech giua cho va nhan. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này mang năng lượng của không khí, liên quan đến cách bạn suy nghĩ, nhìn vấn đề và cắt nghĩa sự thật. Sáu thường đem đến sự hài hòa hơn, một nhịp chuyển tiếp dễ dàng hoặc cảm giác được nâng đỡ. Trong bộ kiếm, lá này thường liên quan đến tư duy, sự thật và xung đột và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, năng lượng trí óc này dễ bị rối, căng thẳng, tự bào chữa hoặc kết luận sai lệch. Khi đảo ngược, dòng chảy dễ bị chậm lại, mất cân đối hoặc có sự lệch giữa cho và nhận. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/swords_06.webp"
     },
     {
       "id": "swords_07",
       "name": "Seven of Swords",
-      "name_vi": "Bay Kiem",
+      "name_vi": "Bảy Kiếm",
       "arcana": "minor",
       "suit": "swords",
-      "suit_vi": "Kiem",
+      "suit_vi": "Kiếm",
       "number": 7,
       "rank": "Seven",
       "element": "Air",
       "accent": "#93b5d0",
       "keywords_upright": [
-        "thu thach",
-        "giu huong",
-        "chien luoc",
-        "niem tin"
+        "thử thách",
+        "giữ hướng",
+        "chiến lược",
+        "niềm tin"
       ],
       "keywords_reversed": [
-        "met moi",
+        "mệt mỏi",
         "lung lay",
-        "do du",
-        "mat the"
+        "do dự",
+        "mất thế"
       ],
-      "meaning_upright": "La nay mang nang luong cua khong khi, lien quan den cach ban suy nghi, nhin van de va cat nghia su that. Bay goi den bai kiem tra ve niem tin, chien luoc va kha nang giu huong khi ap luc tang len. Trong bo kiem, la nay thuong lien quan den tu duy, su that va xung dot va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, nang luong tri oc nay de bi roi, cang thang, tu bao chua hoac ket luan sai lech. O the nguoc, ban co the met moi, phan van hoac dung sai cach de bao ve dieu quan trong. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này mang năng lượng của không khí, liên quan đến cách bạn suy nghĩ, nhìn vấn đề và cắt nghĩa sự thật. Bảy gợi đến bài kiểm tra về niềm tin, chiến lược và khả năng giữ hướng khi áp lực tăng lên. Trong bộ kiếm, lá này thường liên quan đến tư duy, sự thật và xung đột và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, năng lượng trí óc này dễ bị rối, căng thẳng, tự bào chữa hoặc kết luận sai lệch. Ở thế ngược, bạn có thể mệt mỏi, phân vân hoặc dùng sai cách để bảo vệ điều quan trọng. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/swords_07.webp"
     },
     {
       "id": "swords_08",
       "name": "Eight of Swords",
-      "name_vi": "Tam Kiem",
+      "name_vi": "Tám Kiếm",
       "arcana": "minor",
       "suit": "swords",
-      "suit_vi": "Kiem",
+      "suit_vi": "Kiếm",
       "number": 8,
       "rank": "Eight",
       "element": "Air",
       "accent": "#93b5d0",
       "keywords_upright": [
-        "tien trien",
-        "nhip do",
-        "dong luc",
-        "lap lai co y thuc"
+        "tiến triển",
+        "nhịp độ",
+        "động lực",
+        "lặp lại có ý thức"
       ],
       "keywords_reversed": [
-        "tri tre",
-        "mat nhip",
-        "lap lai vo thuc",
-        "tre"
+        "trì trệ",
+        "mất nhịp",
+        "lặp lại vô thức",
+        "trễ"
       ],
-      "meaning_upright": "La nay mang nang luong cua khong khi, lien quan den cach ban suy nghi, nhin van de va cat nghia su that. Tam la nang luong cua dong chay ro hon, toc do cao hon hoac su lap lai giup tao thanh ky nang. Trong bo kiem, la nay thuong lien quan den tu duy, su that va xung dot va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, nang luong tri oc nay de bi roi, cang thang, tu bao chua hoac ket luan sai lech. Khi dao nguoc, nhip do de bi dut, tre hoac lap lai mot cach vo thuc ma khong tao tien bo. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này mang năng lượng của không khí, liên quan đến cách bạn suy nghĩ, nhìn vấn đề và cắt nghĩa sự thật. Tám là năng lượng của dòng chảy rõ hơn, tốc độ cao hơn hoặc sự lặp lại giúp tạo thành kỹ năng. Trong bộ kiếm, lá này thường liên quan đến tư duy, sự thật và xung đột và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, năng lượng trí óc này dễ bị rối, căng thẳng, tự bào chữa hoặc kết luận sai lệch. Khi đảo ngược, nhịp độ dễ bị đứt, trễ hoặc lặp lại một cách vô thức mà không tạo tiến bộ. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/swords_08.webp"
     },
     {
       "id": "swords_09",
       "name": "Nine of Swords",
-      "name_vi": "Chin Kiem",
+      "name_vi": "Chín Kiếm",
       "arcana": "minor",
       "suit": "swords",
-      "suit_vi": "Kiem",
+      "suit_vi": "Kiếm",
       "number": 9,
       "rank": "Nine",
       "element": "Air",
       "accent": "#93b5d0",
       "keywords_upright": [
-        "gan dich",
-        "kinh nghiem",
-        "ben bi",
-        "can dich"
+        "gần đích",
+        "kinh nghiệm",
+        "bền bỉ",
+        "cán đích"
       ],
       "keywords_reversed": [
-        "can suc",
-        "lo au",
-        "phong thu",
-        "kho buong"
+        "cạn sức",
+        "lo âu",
+        "phòng thủ",
+        "khó buông"
       ],
-      "meaning_upright": "La nay mang nang luong cua khong khi, lien quan den cach ban suy nghi, nhin van de va cat nghia su that. Chin la muc sat dich, noi ban co kinh nghiem va can them su ben bi de ket chu ky hien tai. Trong bo kiem, la nay thuong lien quan den tu duy, su that va xung dot va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, nang luong tri oc nay de bi roi, cang thang, tu bao chua hoac ket luan sai lech. O chieu nguoc, cam giac gan dich co the di kem can suc, lo au hoac kho buong su phong thu. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này mang năng lượng của không khí, liên quan đến cách bạn suy nghĩ, nhìn vấn đề và cắt nghĩa sự thật. Chín là mức sát đích, nơi bạn có kinh nghiệm và cần thêm sự bền bỉ để kết chu kỳ hiện tại. Trong bộ kiếm, lá này thường liên quan đến tư duy, sự thật và xung đột và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, năng lượng trí óc này dễ bị rối, căng thẳng, tự bào chữa hoặc kết luận sai lệch. Ở chiều ngược, cảm giác gần đích có thể đi kèm cạn sức, lo âu hoặc khó buông sự phòng thủ. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/swords_09.webp"
     },
     {
       "id": "swords_10",
       "name": "Ten of Swords",
-      "name_vi": "Muoi Kiem",
+      "name_vi": "Mười Kiếm",
       "arcana": "minor",
       "suit": "swords",
-      "suit_vi": "Kiem",
+      "suit_vi": "Kiếm",
       "number": 10,
       "rank": "Ten",
       "element": "Air",
       "accent": "#93b5d0",
       "keywords_upright": [
-        "day chu ky",
-        "ket qua",
-        "hoan tat",
-        "gan nang ro hon"
+        "đầy chu kỳ",
+        "kết quả",
+        "hoàn tất",
+        "gánh nặng rõ hơn"
       ],
       "keywords_reversed": [
-        "giai tai",
-        "sap xep lai",
-        "buong bot",
-        "hau qua"
+        "giải tải",
+        "sắp xếp lại",
+        "buông bớt",
+        "hệ quả"
       ],
-      "meaning_upright": "La nay mang nang luong cua khong khi, lien quan den cach ban suy nghi, nhin van de va cat nghia su that. Muoi danh dau diem day cua chu ky, noi ket qua ro hon nhung cung cho thay gan nang hoac he qua cua no. Trong bo kiem, la nay thuong lien quan den tu duy, su that va xung dot va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, nang luong tri oc nay de bi roi, cang thang, tu bao chua hoac ket luan sai lech. Khi dao nguoc, chu ky nay dang doi duoc giai tai, dong lai hoac sap xep lai cho ben vung hon. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này mang năng lượng của không khí, liên quan đến cách bạn suy nghĩ, nhìn vấn đề và cắt nghĩa sự thật. Mười đánh dấu điểm đầy của chu kỳ, nơi kết quả rõ hơn nhưng cũng cho thấy gánh nặng hoặc hệ quả của nó. Trong bộ kiếm, lá này thường liên quan đến tư duy, sự thật và xung đột và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, năng lượng trí óc này dễ bị rối, căng thẳng, tự bào chữa hoặc kết luận sai lệch. Khi đảo ngược, chu kỳ này đang đòi được giải tải, đóng lại hoặc sắp xếp lại cho bền vững hơn. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/swords_10.webp"
     },
     {
       "id": "swords_11",
       "name": "Page of Swords",
-      "name_vi": "Tieu Dong Kiem",
+      "name_vi": "Tiểu Đồng Kiếm",
       "arcana": "minor",
       "suit": "swords",
-      "suit_vi": "Kiem",
+      "suit_vi": "Kiếm",
       "number": 11,
       "rank": "Page",
       "element": "Air",
       "accent": "#93b5d0",
       "keywords_upright": [
-        "hoc hoi",
-        "tin hieu moi",
-        "to mo",
-        "mo cua"
+        "học hỏi",
+        "tín hiệu mới",
+        "tò mò",
+        "mở cửa"
       ],
       "keywords_reversed": [
-        "non tre",
-        "phan tam",
-        "do cho",
-        "thieu dinh huong"
+        "non trẻ",
+        "phân tâm",
+        "dở chừng",
+        "thiếu định hướng"
       ],
-      "meaning_upright": "La nay mang nang luong cua khong khi, lien quan den cach ban suy nghi, nhin van de va cat nghia su that. Page dem den tam the hoc hoi, thong diep moi va su mo cua nguoi dang buoc vao mot linh vuc bang tri to mo. Trong bo kiem, la nay thuong lien quan den tu duy, su that va xung dot va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, nang luong tri oc nay de bi roi, cang thang, tu bao chua hoac ket luan sai lech. O the nguoc, su non tre hoac phan tam co the khien thong diep dep tro nen meo hoac kho giu dinh huong. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này mang năng lượng của không khí, liên quan đến cách bạn suy nghĩ, nhìn vấn đề và cắt nghĩa sự thật. Page đem đến tâm thế học hỏi, tín hiệu mới và sự mở của người đang bước vào một lĩnh vực bằng trí tò mò. Trong bộ kiếm, lá này thường liên quan đến tư duy, sự thật và xung đột và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, năng lượng trí óc này dễ bị rối, căng thẳng, tự bào chữa hoặc kết luận sai lệch. Ở thế ngược, sự non trẻ hoặc phân tâm có thể khiến thông điệp đẹp trở nên méo hoặc khó giữ định hướng. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/swords_11.webp"
     },
     {
       "id": "swords_12",
       "name": "Knight of Swords",
-      "name_vi": "Ky Si Kiem",
+      "name_vi": "Kỵ Sĩ Kiếm",
       "arcana": "minor",
       "suit": "swords",
-      "suit_vi": "Kiem",
+      "suit_vi": "Kiếm",
       "number": 12,
       "rank": "Knight",
       "element": "Air",
       "accent": "#93b5d0",
       "keywords_upright": [
-        "hanh dong",
-        "dong luc",
-        "the tien",
-        "xong len"
+        "hành động",
+        "động lực",
+        "thế tiến",
+        "xông lên"
       ],
       "keywords_reversed": [
-        "hap tap",
-        "qua da",
-        "mat huong",
-        "thieu dieu tiet"
+        "hấp tấp",
+        "quá đà",
+        "mất hướng",
+        "thiếu điều tiết"
       ],
-      "meaning_upright": "La nay mang nang luong cua khong khi, lien quan den cach ban suy nghi, nhin van de va cat nghia su that. Knight day cau chuyen di nhanh hon, nhieu dong luc hon va doi hoi ban dua nang luong vao hanh dong co huong. Trong bo kiem, la nay thuong lien quan den tu duy, su that va xung dot va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, nang luong tri oc nay de bi roi, cang thang, tu bao chua hoac ket luan sai lech. Khi dao nguoc, dong luc nay de tro nen hap tap, mat kiem soat hoac chay qua da trong khi muc tieu chua ro. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này mang năng lượng của không khí, liên quan đến cách bạn suy nghĩ, nhìn vấn đề và cắt nghĩa sự thật. Knight đẩy câu chuyện đi nhanh hơn, nhiều động lực hơn và đòi hỏi bạn đưa năng lượng vào hành động có hướng. Trong bộ kiếm, lá này thường liên quan đến tư duy, sự thật và xung đột và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, năng lượng trí óc này dễ bị rối, căng thẳng, tự bào chữa hoặc kết luận sai lệch. Khi đảo ngược, động lực này dễ trở nên hấp tấp, mất kiểm soát hoặc chạy quá đà trong khi mục tiêu chưa rõ. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/swords_12.webp"
     },
     {
       "id": "swords_13",
       "name": "Queen of Swords",
-      "name_vi": "Nu Hoang Kiem",
+      "name_vi": "Nữ Hoàng Kiếm",
       "arcana": "minor",
       "suit": "swords",
-      "suit_vi": "Kiem",
+      "suit_vi": "Kiếm",
       "number": 13,
       "rank": "Queen",
       "element": "Air",
       "accent": "#93b5d0",
       "keywords_upright": [
-        "truong thanh",
-        "noi luc",
-        "tinh te",
-        "dieu huong"
+        "trưởng thành",
+        "nội lực",
+        "tinh tế",
+        "điều hướng"
       ],
       "keywords_reversed": [
-        "qua nhay",
-        "kiem soat ngam",
-        "lech can",
-        "tu dong"
+        "quá nhạy",
+        "kiểm soát ngầm",
+        "lệch cân",
+        "tự đóng"
       ],
-      "meaning_upright": "La nay mang nang luong cua khong khi, lien quan den cach ban suy nghi, nhin van de va cat nghia su that. Queen la nang luong truong thanh, biet quan sat va dieu huong linh vuc nay bang su tinh te va noi luc on dinh. Trong bo kiem, la nay thuong lien quan den tu duy, su that va xung dot va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, nang luong tri oc nay de bi roi, cang thang, tu bao chua hoac ket luan sai lech. O the nguoc, nang luong nay co the bi lech thanh nhay cam qua muc, kiem soat ngam hoac mat can doi noi tam. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này mang năng lượng của không khí, liên quan đến cách bạn suy nghĩ, nhìn vấn đề và cắt nghĩa sự thật. Queen là năng lượng trưởng thành, biết quan sát và điều hướng lĩnh vực này bằng sự tinh tế và nội lực ổn định. Trong bộ kiếm, lá này thường liên quan đến tư duy, sự thật và xung đột và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, năng lượng trí óc này dễ bị rối, căng thẳng, tự bào chữa hoặc kết luận sai lệch. Ở thế ngược, năng lượng này có thể bị lệch thành nhạy cảm quá mức, kiểm soát ngầm hoặc mất cân đối nội tâm. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/swords_13.webp"
     },
     {
       "id": "swords_14",
       "name": "King of Swords",
-      "name_vi": "Quoc Vuong Kiem",
+      "name_vi": "Quốc Vương Kiếm",
       "arcana": "minor",
       "suit": "swords",
-      "suit_vi": "Kiem",
+      "suit_vi": "Kiếm",
       "number": 14,
       "rank": "King",
       "element": "Air",
       "accent": "#93b5d0",
       "keywords_upright": [
-        "lam chu",
-        "tham quyen",
-        "kinh nghiem",
-        "trach nhiem"
+        "làm chủ",
+        "thẩm quyền",
+        "kinh nghiệm",
+        "trách nhiệm"
       ],
       "keywords_reversed": [
-        "cung nhac",
-        "qua uu the",
-        "lech dung quyen",
-        "thieu lang nghe"
+        "cứng nhắc",
+        "quá ưu thế",
+        "lệch dùng quyền",
+        "thiếu lắng nghe"
       ],
-      "meaning_upright": "La nay mang nang luong cua khong khi, lien quan den cach ban suy nghi, nhin van de va cat nghia su that. King the hien muc do lam chu cao nhat cua linh vuc nay, noi kinh nghiem va tham quyen di kem trach nhiem ro rang. Trong bo kiem, la nay thuong lien quan den tu duy, su that va xung dot va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, nang luong tri oc nay de bi roi, cang thang, tu bao chua hoac ket luan sai lech. Khi dao nguoc, cach lam chu de chuyen thanh cung nhac, qua uu the hoac mat su dienh dam can thiet. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này mang năng lượng của không khí, liên quan đến cách bạn suy nghĩ, nhìn vấn đề và cắt nghĩa sự thật. King thể hiện mức độ làm chủ cao nhất của lĩnh vực này, nơi kinh nghiệm và thẩm quyền đi kèm trách nhiệm rõ ràng. Trong bộ kiếm, lá này thường liên quan đến tư duy, sự thật và xung đột và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, năng lượng trí óc này dễ bị rối, căng thẳng, tự bào chữa hoặc kết luận sai lệch. Khi đảo ngược, cách làm chủ dễ chuyển thành cứng nhắc, quá ưu thế hoặc mất sự điềm đạm cần thiết. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/swords_14.webp"
     },
     {
       "id": "pentacles_01",
       "name": "Ace of Pentacles",
-      "name_vi": "At Tien",
+      "name_vi": "Át Tiền",
       "arcana": "minor",
       "suit": "pentacles",
-      "suit_vi": "Tien",
+      "suit_vi": "Tiền",
       "number": 1,
       "rank": "Ace",
       "element": "Earth",
       "accent": "#78a55a",
       "keywords_upright": [
-        "co hoi",
-        "khoi dau",
-        "hat giong",
-        "tien nang"
+        "cơ hội",
+        "khởi đầu",
+        "hạt giống",
+        "tiềm năng"
       ],
       "keywords_reversed": [
-        "bo lo",
-        "cham nhip",
-        "nghi ngo",
-        "dong lai"
+        "bỏ lỡ",
+        "chậm nhịp",
+        "nghi ngờ",
+        "đóng lại"
       ],
-      "meaning_upright": "La nay dai dien cho dat, tien do cu the, nhung thu co the xay dung, cham soc va giu cho ben vung. Mo ra mot co hoi moi va mot nguon nang luong nguyen so de bat dau. Trong bo tien, la nay thuong lien quan den cong viec, tai nguyen va tinh thuc te va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, van de thuc te de roi vao tri tre, bat can hoac qua chap vao su an toan be ngoai. Co hoi van co nhung de bi bo lo, cham nhip hoac chua duoc don nhan dung luc. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này đại diện cho đất, tiến độ cụ thể, những thứ có thể xây dựng, chăm sóc và giữ cho bền vững. Mở ra một cơ hội mới và một nguồn năng lượng nguyên sơ để bắt đầu. Trong bộ tiền, lá này thường liên quan đến công việc, tài nguyên và tính thực tế và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, vấn đề thực tế dễ rơi vào trì trệ, bất cẩn hoặc quá chấp vào sự an toàn bề ngoài. Cơ hội vẫn có nhưng dễ bị bỏ lỡ, chậm nhịp hoặc chưa được đón nhận đúng lúc. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/pentacles_01.webp"
     },
     {
       "id": "pentacles_02",
       "name": "Two of Pentacles",
-      "name_vi": "Hai Tien",
+      "name_vi": "Hai Tiền",
       "arcana": "minor",
       "suit": "pentacles",
-      "suit_vi": "Tien",
+      "suit_vi": "Tiền",
       "number": 2,
       "rank": "Two",
       "element": "Earth",
       "accent": "#78a55a",
       "keywords_upright": [
-        "can bang",
-        "lua chon",
-        "doi thoai",
-        "can doi"
+        "cân bằng",
+        "lựa chọn",
+        "đối thoại",
+        "cân đối"
       ],
       "keywords_reversed": [
-        "be tac",
-        "do du",
-        "lech can",
-        "kho chon"
+        "bế tắc",
+        "do dự",
+        "lệch cân",
+        "khó chọn"
       ],
-      "meaning_upright": "La nay dai dien cho dat, tien do cu the, nhung thu co the xay dung, cham soc va giu cho ben vung. Tap trung vao can doi, lua chon va cach hai luc keo dang doi thoai voi nhau. Trong bo tien, la nay thuong lien quan den cong viec, tai nguyen va tinh thuc te va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, van de thuc te de roi vao tri tre, bat can hoac qua chap vao su an toan be ngoai. Can canh bao su lung tung, treo quyet dinh hoac lech mat can bang giua hai huong. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này đại diện cho đất, tiến độ cụ thể, những thứ có thể xây dựng, chăm sóc và giữ cho bền vững. Tập trung vào cân đối, lựa chọn và cách hai lực kéo đang đối thoại với nhau. Trong bộ tiền, lá này thường liên quan đến công việc, tài nguyên và tính thực tế và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, vấn đề thực tế dễ rơi vào trì trệ, bất cẩn hoặc quá chấp vào sự an toàn bề ngoài. Cần cảnh báo sự lúng túng, treo quyết định hoặc lệch mất cân bằng giữa hai hướng. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/pentacles_02.webp"
     },
     {
       "id": "pentacles_03",
       "name": "Three of Pentacles",
-      "name_vi": "Ba Tien",
+      "name_vi": "Ba Tiền",
       "arcana": "minor",
       "suit": "pentacles",
-      "suit_vi": "Tien",
+      "suit_vi": "Tiền",
       "number": 3,
       "rank": "Three",
       "element": "Earth",
       "accent": "#78a55a",
       "keywords_upright": [
-        "mo rong",
-        "phoi hop",
-        "tam nhin",
-        "bat dau co ket qua"
+        "mở rộng",
+        "phối hợp",
+        "tầm nhìn",
+        "bắt đầu có kết quả"
       ],
       "keywords_reversed": [
-        "tro ngai",
-        "roi rac",
-        "cham tien",
-        "lech huong"
+        "trở ngại",
+        "rời rạc",
+        "chậm tiến",
+        "lệch hướng"
       ],
-      "meaning_upright": "La nay dai dien cho dat, tien do cu the, nhung thu co the xay dung, cham soc va giu cho ben vung. Nang luong ba thuong lien quan den mo rong, phoi hop va thay ket qua dau tien dang hinh thanh. Trong bo tien, la nay thuong lien quan den cong viec, tai nguyen va tinh thuc te va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, van de thuc te de roi vao tri tre, bat can hoac qua chap vao su an toan be ngoai. Ban co the dang gap tro ngai trong phoi hop hoac du an mo ra nhung chua di den dau. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này đại diện cho đất, tiến độ cụ thể, những thứ có thể xây dựng, chăm sóc và giữ cho bền vững. Năng lượng ba thường liên quan đến mở rộng, phối hợp và thấy kết quả đầu tiên đang hình thành. Trong bộ tiền, lá này thường liên quan đến công việc, tài nguyên và tính thực tế và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, vấn đề thực tế dễ rơi vào trì trệ, bất cẩn hoặc quá chấp vào sự an toàn bề ngoài. Bạn có thể đang gặp trở ngại trong phối hợp hoặc dự án mở ra nhưng chưa đi đến đâu. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/pentacles_03.webp"
     },
     {
       "id": "pentacles_04",
       "name": "Four of Pentacles",
-      "name_vi": "Bon Tien",
+      "name_vi": "Bốn Tiền",
       "arcana": "minor",
       "suit": "pentacles",
-      "suit_vi": "Tien",
+      "suit_vi": "Tiền",
       "number": 4,
       "rank": "Four",
       "element": "Earth",
       "accent": "#78a55a",
       "keywords_upright": [
-        "on dinh",
-        "nen tang",
-        "giu nhip",
-        "ne nep"
+        "ổn định",
+        "nền tảng",
+        "giữ nhịp",
+        "nề nếp"
       ],
       "keywords_reversed": [
         "lung lay",
-        "dong cung",
-        "thieu linh hoat",
-        "bat an"
+        "đóng cứng",
+        "thiếu linh hoạt",
+        "bất an"
       ],
-      "meaning_upright": "La nay dai dien cho dat, tien do cu the, nhung thu co the xay dung, cham soc va giu cho ben vung. La bai dua nang luong ve on dinh, ne nep va mot nen tang de ban dung chan lau hon. Trong bo tien, la nay thuong lien quan den cong viec, tai nguyen va tinh thuc te va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, van de thuc te de roi vao tri tre, bat can hoac qua chap vao su an toan be ngoai. Khi dao nguoc, su on dinh nay co the bi lung lay hoac tro thanh qua dong khien nang luong khong luan chuyen. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này đại diện cho đất, tiến độ cụ thể, những thứ có thể xây dựng, chăm sóc và giữ cho bền vững. Lá bài đưa năng lượng về ổn định, nề nếp và một nền tảng để bạn đứng chân lâu hơn. Trong bộ tiền, lá này thường liên quan đến công việc, tài nguyên và tính thực tế và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, vấn đề thực tế dễ rơi vào trì trệ, bất cẩn hoặc quá chấp vào sự an toàn bề ngoài. Khi đảo ngược, sự ổn định này có thể bị lung lay hoặc trở thành quá đóng khiến năng lượng không luân chuyển. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/pentacles_04.webp"
     },
     {
       "id": "pentacles_05",
       "name": "Five of Pentacles",
-      "name_vi": "Nam Tien",
+      "name_vi": "Năm Tiền",
       "arcana": "minor",
       "suit": "pentacles",
-      "suit_vi": "Tien",
+      "suit_vi": "Tiền",
       "number": 5,
       "rank": "Five",
       "element": "Earth",
       "accent": "#78a55a",
       "keywords_upright": [
-        "thay doi",
-        "xung dot",
-        "cang co",
-        "thich nghi"
+        "thay đổi",
+        "xung đột",
+        "căng co",
+        "thích nghi"
       ],
       "keywords_reversed": [
-        "ne tranh",
-        "giam cang",
-        "am i",
-        "sua lai"
+        "né tránh",
+        "giảm căng",
+        "âm ỉ",
+        "sửa lại"
       ],
-      "meaning_upright": "La nay dai dien cho dat, tien do cu the, nhung thu co the xay dung, cham soc va giu cho ben vung. Nam la pha dao dong, xung dot nho hoac su thay doi buoc ban phai dieu chinh nhanh. Trong bo tien, la nay thuong lien quan den cong viec, tai nguyen va tinh thuc te va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, van de thuc te de roi vao tri tre, bat can hoac qua chap vao su an toan be ngoai. O chieu nguoc, xung dot co the dang diu lai, bi ne tranh hoac chuyen thanh cang thang ngam. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này đại diện cho đất, tiến độ cụ thể, những thứ có thể xây dựng, chăm sóc và giữ cho bền vững. Năm là pha dao động, xung đột nhỏ hoặc sự thay đổi buộc bạn phải điều chỉnh nhanh. Trong bộ tiền, lá này thường liên quan đến công việc, tài nguyên và tính thực tế và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, vấn đề thực tế dễ rơi vào trì trệ, bất cẩn hoặc quá chấp vào sự an toàn bề ngoài. Ở chiều ngược, xung đột có thể đang dịu lại, bị né tránh hoặc chuyển thành căng thẳng ngầm. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/pentacles_05.webp"
     },
     {
       "id": "pentacles_06",
       "name": "Six of Pentacles",
-      "name_vi": "Sau Tien",
+      "name_vi": "Sáu Tiền",
       "arcana": "minor",
       "suit": "pentacles",
-      "suit_vi": "Tien",
+      "suit_vi": "Tiền",
       "number": 6,
       "rank": "Six",
       "element": "Earth",
       "accent": "#78a55a",
       "keywords_upright": [
-        "hai hoa",
-        "nang do",
-        "chuyen tiep",
-        "de tho hon"
+        "hài hòa",
+        "nâng đỡ",
+        "chuyển tiếp",
+        "dễ thở hơn"
       ],
       "keywords_reversed": [
-        "mat can",
-        "keo lai",
-        "khong deu",
-        "lech doi"
+        "mất cân",
+        "kéo lại",
+        "không đều",
+        "lệch đôi"
       ],
-      "meaning_upright": "La nay dai dien cho dat, tien do cu the, nhung thu co the xay dung, cham soc va giu cho ben vung. Sau thuong dem den su hai hoa hon, mot nhịp chuyen tiep de dang hoac cam giac duoc nang do. Trong bo tien, la nay thuong lien quan den cong viec, tai nguyen va tinh thuc te va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, van de thuc te de roi vao tri tre, bat can hoac qua chap vao su an toan be ngoai. Khi dao nguoc, dong chay de bi cham lai, mat can doi hoac co su lech giua cho va nhan. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này đại diện cho đất, tiến độ cụ thể, những thứ có thể xây dựng, chăm sóc và giữ cho bền vững. Sáu thường đem đến sự hài hòa hơn, một nhịp chuyển tiếp dễ dàng hoặc cảm giác được nâng đỡ. Trong bộ tiền, lá này thường liên quan đến công việc, tài nguyên và tính thực tế và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, vấn đề thực tế dễ rơi vào trì trệ, bất cẩn hoặc quá chấp vào sự an toàn bề ngoài. Khi đảo ngược, dòng chảy dễ bị chậm lại, mất cân đối hoặc có sự lệch giữa cho và nhận. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/pentacles_06.webp"
     },
     {
       "id": "pentacles_07",
       "name": "Seven of Pentacles",
-      "name_vi": "Bay Tien",
+      "name_vi": "Bảy Tiền",
       "arcana": "minor",
       "suit": "pentacles",
-      "suit_vi": "Tien",
+      "suit_vi": "Tiền",
       "number": 7,
       "rank": "Seven",
       "element": "Earth",
       "accent": "#78a55a",
       "keywords_upright": [
-        "thu thach",
-        "giu huong",
-        "chien luoc",
-        "niem tin"
+        "thử thách",
+        "giữ hướng",
+        "chiến lược",
+        "niềm tin"
       ],
       "keywords_reversed": [
-        "met moi",
+        "mệt mỏi",
         "lung lay",
-        "do du",
-        "mat the"
+        "do dự",
+        "mất thế"
       ],
-      "meaning_upright": "La nay dai dien cho dat, tien do cu the, nhung thu co the xay dung, cham soc va giu cho ben vung. Bay goi den bai kiem tra ve niem tin, chien luoc va kha nang giu huong khi ap luc tang len. Trong bo tien, la nay thuong lien quan den cong viec, tai nguyen va tinh thuc te va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, van de thuc te de roi vao tri tre, bat can hoac qua chap vao su an toan be ngoai. O the nguoc, ban co the met moi, phan van hoac dung sai cach de bao ve dieu quan trong. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này đại diện cho đất, tiến độ cụ thể, những thứ có thể xây dựng, chăm sóc và giữ cho bền vững. Bảy gợi đến bài kiểm tra về niềm tin, chiến lược và khả năng giữ hướng khi áp lực tăng lên. Trong bộ tiền, lá này thường liên quan đến công việc, tài nguyên và tính thực tế và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, vấn đề thực tế dễ rơi vào trì trệ, bất cẩn hoặc quá chấp vào sự an toàn bề ngoài. Ở thế ngược, bạn có thể mệt mỏi, phân vân hoặc dùng sai cách để bảo vệ điều quan trọng. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/pentacles_07.webp"
     },
     {
       "id": "pentacles_08",
       "name": "Eight of Pentacles",
-      "name_vi": "Tam Tien",
+      "name_vi": "Tám Tiền",
       "arcana": "minor",
       "suit": "pentacles",
-      "suit_vi": "Tien",
+      "suit_vi": "Tiền",
       "number": 8,
       "rank": "Eight",
       "element": "Earth",
       "accent": "#78a55a",
       "keywords_upright": [
-        "tien trien",
-        "nhip do",
-        "dong luc",
-        "lap lai co y thuc"
+        "tiến triển",
+        "nhịp độ",
+        "động lực",
+        "lặp lại có ý thức"
       ],
       "keywords_reversed": [
-        "tri tre",
-        "mat nhip",
-        "lap lai vo thuc",
-        "tre"
+        "trì trệ",
+        "mất nhịp",
+        "lặp lại vô thức",
+        "trễ"
       ],
-      "meaning_upright": "La nay dai dien cho dat, tien do cu the, nhung thu co the xay dung, cham soc va giu cho ben vung. Tam la nang luong cua dong chay ro hon, toc do cao hon hoac su lap lai giup tao thanh ky nang. Trong bo tien, la nay thuong lien quan den cong viec, tai nguyen va tinh thuc te va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, van de thuc te de roi vao tri tre, bat can hoac qua chap vao su an toan be ngoai. Khi dao nguoc, nhip do de bi dut, tre hoac lap lai mot cach vo thuc ma khong tao tien bo. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này đại diện cho đất, tiến độ cụ thể, những thứ có thể xây dựng, chăm sóc và giữ cho bền vững. Tám là năng lượng của dòng chảy rõ hơn, tốc độ cao hơn hoặc sự lặp lại giúp tạo thành kỹ năng. Trong bộ tiền, lá này thường liên quan đến công việc, tài nguyên và tính thực tế và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, vấn đề thực tế dễ rơi vào trì trệ, bất cẩn hoặc quá chấp vào sự an toàn bề ngoài. Khi đảo ngược, nhịp độ dễ bị đứt, trễ hoặc lặp lại một cách vô thức mà không tạo tiến bộ. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/pentacles_08.webp"
     },
     {
       "id": "pentacles_09",
       "name": "Nine of Pentacles",
-      "name_vi": "Chin Tien",
+      "name_vi": "Chín Tiền",
       "arcana": "minor",
       "suit": "pentacles",
-      "suit_vi": "Tien",
+      "suit_vi": "Tiền",
       "number": 9,
       "rank": "Nine",
       "element": "Earth",
       "accent": "#78a55a",
       "keywords_upright": [
-        "gan dich",
-        "kinh nghiem",
-        "ben bi",
-        "can dich"
+        "gần đích",
+        "kinh nghiệm",
+        "bền bỉ",
+        "cán đích"
       ],
       "keywords_reversed": [
-        "can suc",
-        "lo au",
-        "phong thu",
-        "kho buong"
+        "cạn sức",
+        "lo âu",
+        "phòng thủ",
+        "khó buông"
       ],
-      "meaning_upright": "La nay dai dien cho dat, tien do cu the, nhung thu co the xay dung, cham soc va giu cho ben vung. Chin la muc sat dich, noi ban co kinh nghiem va can them su ben bi de ket chu ky hien tai. Trong bo tien, la nay thuong lien quan den cong viec, tai nguyen va tinh thuc te va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, van de thuc te de roi vao tri tre, bat can hoac qua chap vao su an toan be ngoai. O chieu nguoc, cam giac gan dich co the di kem can suc, lo au hoac kho buong su phong thu. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này đại diện cho đất, tiến độ cụ thể, những thứ có thể xây dựng, chăm sóc và giữ cho bền vững. Chín là mức sát đích, nơi bạn có kinh nghiệm và cần thêm sự bền bỉ để kết chu kỳ hiện tại. Trong bộ tiền, lá này thường liên quan đến công việc, tài nguyên và tính thực tế và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, vấn đề thực tế dễ rơi vào trì trệ, bất cẩn hoặc quá chấp vào sự an toàn bề ngoài. Ở chiều ngược, cảm giác gần đích có thể đi kèm cạn sức, lo âu hoặc khó buông sự phòng thủ. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/pentacles_09.webp"
     },
     {
       "id": "pentacles_10",
       "name": "Ten of Pentacles",
-      "name_vi": "Muoi Tien",
+      "name_vi": "Mười Tiền",
       "arcana": "minor",
       "suit": "pentacles",
-      "suit_vi": "Tien",
+      "suit_vi": "Tiền",
       "number": 10,
       "rank": "Ten",
       "element": "Earth",
       "accent": "#78a55a",
       "keywords_upright": [
-        "day chu ky",
-        "ket qua",
-        "hoan tat",
-        "gan nang ro hon"
+        "đầy chu kỳ",
+        "kết quả",
+        "hoàn tất",
+        "gánh nặng rõ hơn"
       ],
       "keywords_reversed": [
-        "giai tai",
-        "sap xep lai",
-        "buong bot",
-        "hau qua"
+        "giải tải",
+        "sắp xếp lại",
+        "buông bớt",
+        "hệ quả"
       ],
-      "meaning_upright": "La nay dai dien cho dat, tien do cu the, nhung thu co the xay dung, cham soc va giu cho ben vung. Muoi danh dau diem day cua chu ky, noi ket qua ro hon nhung cung cho thay gan nang hoac he qua cua no. Trong bo tien, la nay thuong lien quan den cong viec, tai nguyen va tinh thuc te va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, van de thuc te de roi vao tri tre, bat can hoac qua chap vao su an toan be ngoai. Khi dao nguoc, chu ky nay dang doi duoc giai tai, dong lai hoac sap xep lai cho ben vung hon. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này đại diện cho đất, tiến độ cụ thể, những thứ có thể xây dựng, chăm sóc và giữ cho bền vững. Mười đánh dấu điểm đầy của chu kỳ, nơi kết quả rõ hơn nhưng cũng cho thấy gánh nặng hoặc hệ quả của nó. Trong bộ tiền, lá này thường liên quan đến công việc, tài nguyên và tính thực tế và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, vấn đề thực tế dễ rơi vào trì trệ, bất cẩn hoặc quá chấp vào sự an toàn bề ngoài. Khi đảo ngược, chu kỳ này đang đòi được giải tải, đóng lại hoặc sắp xếp lại cho bền vững hơn. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/pentacles_10.webp"
     },
     {
       "id": "pentacles_11",
       "name": "Page of Pentacles",
-      "name_vi": "Tieu Dong Tien",
+      "name_vi": "Tiểu Đồng Tiền",
       "arcana": "minor",
       "suit": "pentacles",
-      "suit_vi": "Tien",
+      "suit_vi": "Tiền",
       "number": 11,
       "rank": "Page",
       "element": "Earth",
       "accent": "#78a55a",
       "keywords_upright": [
-        "hoc hoi",
-        "tin hieu moi",
-        "to mo",
-        "mo cua"
+        "học hỏi",
+        "tín hiệu mới",
+        "tò mò",
+        "mở cửa"
       ],
       "keywords_reversed": [
-        "non tre",
-        "phan tam",
-        "do cho",
-        "thieu dinh huong"
+        "non trẻ",
+        "phân tâm",
+        "dở chừng",
+        "thiếu định hướng"
       ],
-      "meaning_upright": "La nay dai dien cho dat, tien do cu the, nhung thu co the xay dung, cham soc va giu cho ben vung. Page dem den tam the hoc hoi, thong diep moi va su mo cua nguoi dang buoc vao mot linh vuc bang tri to mo. Trong bo tien, la nay thuong lien quan den cong viec, tai nguyen va tinh thuc te va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, van de thuc te de roi vao tri tre, bat can hoac qua chap vao su an toan be ngoai. O the nguoc, su non tre hoac phan tam co the khien thong diep dep tro nen meo hoac kho giu dinh huong. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này đại diện cho đất, tiến độ cụ thể, những thứ có thể xây dựng, chăm sóc và giữ cho bền vững. Page đem đến tâm thế học hỏi, tín hiệu mới và sự mở của người đang bước vào một lĩnh vực bằng trí tò mò. Trong bộ tiền, lá này thường liên quan đến công việc, tài nguyên và tính thực tế và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, vấn đề thực tế dễ rơi vào trì trệ, bất cẩn hoặc quá chấp vào sự an toàn bề ngoài. Ở thế ngược, sự non trẻ hoặc phân tâm có thể khiến thông điệp đẹp trở nên méo hoặc khó giữ định hướng. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/pentacles_11.webp"
     },
     {
       "id": "pentacles_12",
       "name": "Knight of Pentacles",
-      "name_vi": "Ky Si Tien",
+      "name_vi": "Kỵ Sĩ Tiền",
       "arcana": "minor",
       "suit": "pentacles",
-      "suit_vi": "Tien",
+      "suit_vi": "Tiền",
       "number": 12,
       "rank": "Knight",
       "element": "Earth",
       "accent": "#78a55a",
       "keywords_upright": [
-        "hanh dong",
-        "dong luc",
-        "the tien",
-        "xong len"
+        "hành động",
+        "động lực",
+        "thế tiến",
+        "xông lên"
       ],
       "keywords_reversed": [
-        "hap tap",
-        "qua da",
-        "mat huong",
-        "thieu dieu tiet"
+        "hấp tấp",
+        "quá đà",
+        "mất hướng",
+        "thiếu điều tiết"
       ],
-      "meaning_upright": "La nay dai dien cho dat, tien do cu the, nhung thu co the xay dung, cham soc va giu cho ben vung. Knight day cau chuyen di nhanh hon, nhieu dong luc hon va doi hoi ban dua nang luong vao hanh dong co huong. Trong bo tien, la nay thuong lien quan den cong viec, tai nguyen va tinh thuc te va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, van de thuc te de roi vao tri tre, bat can hoac qua chap vao su an toan be ngoai. Khi dao nguoc, dong luc nay de tro nen hap tap, mat kiem soat hoac chay qua da trong khi muc tieu chua ro. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này đại diện cho đất, tiến độ cụ thể, những thứ có thể xây dựng, chăm sóc và giữ cho bền vững. Knight đẩy câu chuyện đi nhanh hơn, nhiều động lực hơn và đòi hỏi bạn đưa năng lượng vào hành động có hướng. Trong bộ tiền, lá này thường liên quan đến công việc, tài nguyên và tính thực tế và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, vấn đề thực tế dễ rơi vào trì trệ, bất cẩn hoặc quá chấp vào sự an toàn bề ngoài. Khi đảo ngược, động lực này dễ trở nên hấp tấp, mất kiểm soát hoặc chạy quá đà trong khi mục tiêu chưa rõ. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/pentacles_12.webp"
     },
     {
       "id": "pentacles_13",
       "name": "Queen of Pentacles",
-      "name_vi": "Nu Hoang Tien",
+      "name_vi": "Nữ Hoàng Tiền",
       "arcana": "minor",
       "suit": "pentacles",
-      "suit_vi": "Tien",
+      "suit_vi": "Tiền",
       "number": 13,
       "rank": "Queen",
       "element": "Earth",
       "accent": "#78a55a",
       "keywords_upright": [
-        "truong thanh",
-        "noi luc",
-        "tinh te",
-        "dieu huong"
+        "trưởng thành",
+        "nội lực",
+        "tinh tế",
+        "điều hướng"
       ],
       "keywords_reversed": [
-        "qua nhay",
-        "kiem soat ngam",
-        "lech can",
-        "tu dong"
+        "quá nhạy",
+        "kiểm soát ngầm",
+        "lệch cân",
+        "tự đóng"
       ],
-      "meaning_upright": "La nay dai dien cho dat, tien do cu the, nhung thu co the xay dung, cham soc va giu cho ben vung. Queen la nang luong truong thanh, biet quan sat va dieu huong linh vuc nay bang su tinh te va noi luc on dinh. Trong bo tien, la nay thuong lien quan den cong viec, tai nguyen va tinh thuc te va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, van de thuc te de roi vao tri tre, bat can hoac qua chap vao su an toan be ngoai. O the nguoc, nang luong nay co the bi lech thanh nhay cam qua muc, kiem soat ngam hoac mat can doi noi tam. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này đại diện cho đất, tiến độ cụ thể, những thứ có thể xây dựng, chăm sóc và giữ cho bền vững. Queen là năng lượng trưởng thành, biết quan sát và điều hướng lĩnh vực này bằng sự tinh tế và nội lực ổn định. Trong bộ tiền, lá này thường liên quan đến công việc, tài nguyên và tính thực tế và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, vấn đề thực tế dễ rơi vào trì trệ, bất cẩn hoặc quá chấp vào sự an toàn bề ngoài. Ở thế ngược, năng lượng này có thể bị lệch thành nhạy cảm quá mức, kiểm soát ngầm hoặc mất cân đối nội tâm. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/pentacles_13.webp"
     },
     {
       "id": "pentacles_14",
       "name": "King of Pentacles",
-      "name_vi": "Quoc Vuong Tien",
+      "name_vi": "Quốc Vương Tiền",
       "arcana": "minor",
       "suit": "pentacles",
-      "suit_vi": "Tien",
+      "suit_vi": "Tiền",
       "number": 14,
       "rank": "King",
       "element": "Earth",
       "accent": "#78a55a",
       "keywords_upright": [
-        "lam chu",
-        "tham quyen",
-        "kinh nghiem",
-        "trach nhiem"
+        "làm chủ",
+        "thẩm quyền",
+        "kinh nghiệm",
+        "trách nhiệm"
       ],
       "keywords_reversed": [
-        "cung nhac",
-        "qua uu the",
-        "lech dung quyen",
-        "thieu lang nghe"
+        "cứng nhắc",
+        "quá ưu thế",
+        "lệch dùng quyền",
+        "thiếu lắng nghe"
       ],
-      "meaning_upright": "La nay dai dien cho dat, tien do cu the, nhung thu co the xay dung, cham soc va giu cho ben vung. King the hien muc do lam chu cao nhat cua linh vuc nay, noi kinh nghiem va tham quyen di kem trach nhiem ro rang. Trong bo tien, la nay thuong lien quan den cong viec, tai nguyen va tinh thuc te va cach ban dua nang luong do vao doi song.",
-      "meaning_reversed": "Khi dao nguoc, van de thuc te de roi vao tri tre, bat can hoac qua chap vao su an toan be ngoai. Khi dao nguoc, cach lam chu de chuyen thanh cung nhac, qua uu the hoac mat su dienh dam can thiet. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "meaning_upright": "Lá này đại diện cho đất, tiến độ cụ thể, những thứ có thể xây dựng, chăm sóc và giữ cho bền vững. King thể hiện mức độ làm chủ cao nhất của lĩnh vực này, nơi kinh nghiệm và thẩm quyền đi kèm trách nhiệm rõ ràng. Trong bộ tiền, lá này thường liên quan đến công việc, tài nguyên và tính thực tế và cách bạn đưa năng lượng đó vào đời sống.",
+      "meaning_reversed": "Khi đảo ngược, vấn đề thực tế dễ rơi vào trì trệ, bất cẩn hoặc quá chấp vào sự an toàn bề ngoài. Khi đảo ngược, cách làm chủ dễ chuyển thành cứng nhắc, quá ưu thế hoặc mất sự điềm đạm cần thiết. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
       "image": "assets/cards/pentacles_14.webp"
     }
   ]

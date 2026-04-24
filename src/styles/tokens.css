@@ -26,6 +26,6 @@
   --space-12: 3rem;
   --space-16: 4rem;
   --max-width: 1120px;
-  --font-display: "Cormorant Garamond", Georgia, serif;
-  --font-body: "Marcellus", Georgia, serif;
+  --font-display: "Cormorant Garamond", "Noto Serif", Georgia, serif;
+  --font-body: "Noto Serif", Georgia, serif;
 }

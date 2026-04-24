@@ -14,13 +14,19 @@
     <meta property="og:title" content="Reading | Tarot Ghibli Inspired" />
     <meta
       property="og:description"
-      content="Xem trai bai 1 la, 3 la hoac Celtic Cross va doc y nghia tung vi tri."
+      content="Xem trải bài 1 lá, 3 lá hoặc Celtic Cross và đọc ý nghĩa từng vị trí."
     />
     <meta property="og:image" content="/tarot-ghibli/assets/ui/og-cover.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Noto+Serif:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
     <script type="module" src="/src/scripts/pages/reading.js"></script>
   </head>
   <body data-page="reading">
-    <a class="skip-link" href="#main-content">Bo qua dieu huong va den noi dung chinh</a>
+    <a class="skip-link" href="#main-content">Bỏ qua điều hướng và đến nội dung chính</a>
     <div class="site-shell">
       <header class="site-header">
         <a class="brand-mark" href="./index.html">Tarot Ghibli</a>
@@ -33,10 +39,10 @@
 
       <main class="page-hero reading-shell" data-reading-root id="main-content">
         <p class="eyebrow" data-reading-eyebrow>Reading</p>
-        <h1 data-reading-title>Dang tai trai bai...</h1>
+        <h1 data-reading-title>Đang tải trải bài...</h1>
         <p class="page-copy" data-reading-copy>
-          Trang nay se nhan ket qua tu tarot engine va hien trang thai phu hop khi co hoac chua
-          co du lieu trong session.
+          Trang này sẽ nhận kết quả từ tarot engine và hiển thị trạng thái phù hợp khi có hoặc
+          chưa có dữ liệu trong session.
         </p>
 
         <section class="reading-summary" data-reading-summary hidden aria-live="polite">
@@ -50,21 +56,21 @@
               <strong data-summary-reversed>-</strong>
             </div>
             <div>
-              <span class="summary-label">So la</span>
+              <span class="summary-label">Số lá</span>
               <strong data-summary-count>-</strong>
             </div>
           </div>
 
           <div class="reading-layout" data-reading-layout>
-            <section class="spread-board" aria-label="Trai bai">
+            <section class="spread-board" aria-label="Trải bài">
               <ol class="reading-spread" data-reading-spread></ol>
             </section>
 
             <aside class="reading-detail" data-reading-detail-panel>
-              <p class="reading-detail__eyebrow" data-detail-position>Chon mot la bai</p>
+              <p class="reading-detail__eyebrow" data-detail-position>Chọn một lá bài</p>
               <h2 class="reading-detail__title" data-detail-name>Reading detail</h2>
               <p class="reading-detail__meta" data-detail-meta>
-                Nhan vao tung la bai de xem ten, tu khoa va nghia chi tiet.
+                Nhấn vào từng lá bài để xem tên, từ khóa và nghĩa chi tiết.
               </p>
 
               <div class="reading-detail__keywords" data-detail-keywords></div>
@@ -72,8 +78,8 @@
               <div class="reading-detail__meaning">
                 <h3>Nghia chinh</h3>
                 <p data-detail-meaning>
-                  Chi tiet cua la bai duoc chon se hien tai day. Phase 4 bo sung panel nay de
-                  reading page co the doc bai tung la mot cach ro rang.
+                  Chi tiết của lá bài được chọn sẽ hiện tại đây. Phase 4 bổ sung panel này để
+                  reading page có thể đọc bài từng lá một cách rõ ràng.
                 </p>
               </div>
             </aside>
@@ -81,8 +87,8 @@
         </section>
 
         <div class="hero-actions">
-          <a class="button-primary" href="./index.html">Quay lai trang chu</a>
-          <a class="button-secondary" href="./explore.html">Tra cuu bo bai</a>
+          <a class="button-primary" href="./index.html">Quay lại trang chủ</a>
+          <a class="button-secondary" href="./explore.html">Tra cứu bộ bài</a>
         </div>
       </main>
     </div>
