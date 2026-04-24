@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Explore | Tarot Ghibli Inspired</title>
+    <meta
+      name="description"
+      content="Khung trang tra cứu bộ bài Tarot cho dự án Ghibli-inspired."
+    />
+    <meta name="theme-color" content="#1c1440" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Explore | Tarot Ghibli Inspired" />
+    <meta
+      property="og:description"
+      content="Tra cuu 78 la bai Tarot, loc theo suit va doc nghia xuoi nguoc trong detail panel."
+    />
+    <meta property="og:image" content="/tarot-ghibli/assets/ui/og-cover.svg" />
+    <script type="module" src="/src/scripts/pages/explore.js"></script>
+  </head>
+  <body data-page="explore">
+    <a class="skip-link" href="#main-content">Bo qua dieu huong va den noi dung chinh</a>
+    <div class="site-shell">
+      <header class="site-header">
+        <a class="brand-mark" href="./index.html">Tarot Ghibli</a>
+        <nav class="site-nav" aria-label="Điều hướng chính">
+          <a href="./index.html">Trang chủ</a>
+          <a href="./reading.html">Trải bài</a>
+          <a href="./explore.html" aria-current="page">Tra cứu</a>
+        </nav>
+      </header>
+
+      <main class="page-hero explore-shell" id="main-content">
+        <p class="eyebrow">Tarot Encyclopedia</p>
+        <h1>Tra cuu toan bo 78 la bai trong mot khung doc de loc, tim va so sanh.</h1>
+        <p class="page-copy">
+          Explore page nay dung chung `tarot.json` voi reading flow. Ban co the loc theo arcana
+          hoac suit, tim theo ten va tu khoa, roi doc nghia tung la o panel ben canh.
+        </p>
+
+        <section class="explore-toolbar" aria-label="Cong cu tra cuu">
+          <label class="search-field">
+            <span class="visually-hidden">Tim theo ten hoac tu khoa</span>
+            <input
+              type="search"
+              placeholder="Tim theo ten, ten viet hoac tu khoa..."
+              data-search-input
+            />
+          </label>
+
+          <div class="filter-group" role="group" aria-label="Loc theo nhom">
+            <button class="filter-chip is-active" type="button" data-filter="all">Tat ca</button>
+            <button class="filter-chip" type="button" data-filter="major">Major Arcana</button>
+            <button class="filter-chip" type="button" data-filter="wands">Wands</button>
+            <button class="filter-chip" type="button" data-filter="cups">Cups</button>
+            <button class="filter-chip" type="button" data-filter="swords">Swords</button>
+            <button class="filter-chip" type="button" data-filter="pentacles">Pentacles</button>
+          </div>
+        </section>
+
+        <section class="explore-summary" data-explore-summary aria-live="polite">
+          <div>
+            <span class="summary-label">Ket qua</span>
+            <strong data-result-count>0</strong>
+          </div>
+          <div>
+            <span class="summary-label">Bo loc</span>
+            <strong data-active-filter>Tat ca</strong>
+          </div>
+          <div>
+            <span class="summary-label">Trang thai</span>
+            <strong data-search-state>Dang tai du lieu</strong>
+          </div>
+        </section>
+
+        <section class="explore-layout">
+          <section class="explore-board" aria-label="Danh sach la bai">
+            <ol class="card-catalog" data-card-catalog aria-busy="true"></ol>
+          </section>
+
+          <aside class="explore-detail" data-detail-panel>
+            <p class="explore-detail__eyebrow" data-detail-arcana>Tarot Detail</p>
+            <h2 class="explore-detail__title" data-detail-name>Chon mot la bai</h2>
+            <p class="explore-detail__meta" data-detail-meta>
+              Panel nay se hien thong tin cua la bai duoc chon trong grid.
+            </p>
+
+            <div class="explore-detail__keywords" data-detail-keywords></div>
+
+            <div class="explore-detail__tabs">
+              <button class="detail-tab is-active" type="button" data-detail-tab="upright">
+                Xuoi
+              </button>
+              <button class="detail-tab" type="button" data-detail-tab="reversed">
+                Nguoc
+              </button>
+            </div>
+
+            <div class="explore-detail__meaning">
+              <h3 data-detail-heading>Nghia xuoi</h3>
+              <p data-detail-meaning>
+                Chon mot la trong danh sach de doc nghia chi tiet va xem tu khoa.
+              </p>
+            </div>
+          </aside>
+        </section>
+
+        <div class="hero-actions">
+          <a class="button-primary" href="./index.html">Quay lai trang chu</a>
+          <a class="button-secondary" href="./reading.html">Den reading page</a>
+        </div>
+      </main>
+    </div>
+  </body>
+</html>

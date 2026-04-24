@@ -1,0 +1,2123 @@
+{
+  "meta": {
+    "version": 1,
+    "language": "vi",
+    "card_count": 78,
+    "major_count": 22,
+    "minor_count": 56,
+    "suits": [
+      "wands",
+      "cups",
+      "swords",
+      "pentacles"
+    ]
+  },
+  "cards": [
+    {
+      "id": "major_00",
+      "name": "The Fool",
+      "name_vi": "Ke Kho",
+      "number": 0,
+      "rank": "0",
+      "element": "Air",
+      "accent": "#f0c060",
+      "keywords_upright": [
+        "khoi dau",
+        "tu do",
+        "niem tin",
+        "phieu luu"
+      ],
+      "keywords_reversed": [
+        "lieu linh",
+        "thieu chuan bi",
+        "do du",
+        "mat huong"
+      ],
+      "meaning_upright": "La bai nay noi ve mot nguong cua hanh trinh moi, khi ban chua biet het moi thu nhung van co dong luc buoc toi. No khuyen ban giu su trong treo, tin vao truc giac va de minh duoc hoc hoi qua trai nghiem.",
+      "meaning_reversed": "Khi dao nguoc, The Fool canh bao ve su hap tap hoac nhay vao mot huong di khi chua co nen tang ro rang. Ban van co the bat dau, nhung nen cham lai mot nhip de kiem tra ky vong, rui ro va muc do san sang cua minh.",
+      "arcana": "major",
+      "suit": null,
+      "suit_vi": null,
+      "image": "assets/cards/major_00.webp"
+    },
+    {
+      "id": "major_01",
+      "name": "The Magician",
+      "name_vi": "Phap Su",
+      "number": 1,
+      "rank": "I",
+      "element": "Air",
+      "accent": "#f0c060",
+      "keywords_upright": [
+        "chu dong",
+        "kien tao",
+        "tap trung",
+        "hien thuc hoa"
+      ],
+      "keywords_reversed": [
+        "phan tan",
+        "thao tung",
+        "thieu ky nang",
+        "dung sai nang luong"
+      ],
+      "meaning_upright": "The Magician cho thay ban da co du cong cu de bien mot y tuong thanh hanh dong cu the. La bai nhan manh suc manh cua y chi, su tu tin va kha nang ket noi tai nguyen dung luc.",
+      "meaning_reversed": "O chieu nguoc, nang luong nay de bi tan man hoac bi dung theo cach khong trung thuc. Ban can quay lai voi muc dich that su, tranh hieu ung lam nhieu nhung khong dung trong tam.",
+      "arcana": "major",
+      "suit": null,
+      "suit_vi": null,
+      "image": "assets/cards/major_01.webp"
+    },
+    {
+      "id": "major_02",
+      "name": "The High Priestess",
+      "name_vi": "Nu Tu Si",
+      "number": 2,
+      "rank": "II",
+      "element": "Water",
+      "accent": "#7fb3c9",
+      "keywords_upright": [
+        "truc giac",
+        "bi an",
+        "lang nghe",
+        "noi tam"
+      ],
+      "keywords_reversed": [
+        "bo qua tin hieu",
+        "roi tri",
+        "giau kin",
+        "mat can bang"
+      ],
+      "meaning_upright": "La bai nay moi ban lang lai de nghe dieu minh da biet tu ben trong nhung chua goi ten duoc. The High Priestess thuong xuat hien khi cau tra loi khong nam o hanh dong manh ma, ma nam o su tinh lang va quan sat tinh te.",
+      "meaning_reversed": "Khi dao nguoc, ban co the dang bo qua truc giac cua chinh minh hoac bi nhieu thong tin be ngoai lam roi. Day la luc nen giam toc, bo bot tieng on va xac dinh xem dieu gi dang bi an di.",
+      "arcana": "major",
+      "suit": null,
+      "suit_vi": null,
+      "image": "assets/cards/major_02.webp"
+    },
+    {
+      "id": "major_03",
+      "name": "The Empress",
+      "name_vi": "Nu Hoang",
+      "number": 3,
+      "rank": "III",
+      "element": "Earth",
+      "accent": "#d99cb6",
+      "keywords_upright": [
+        "phong phu",
+        "nuoi duong",
+        "sang tao",
+        "am ap"
+      ],
+      "keywords_reversed": [
+        "can kiet",
+        "phu thuoc",
+        "lang quen ban than",
+        "tri tre"
+      ],
+      "meaning_upright": "The Empress goi den su sinh soi, do day va kha nang cham soc de mot dieu gi do lon len dung nhiep. La bai nay rat hop voi y tuong sang tao, tinh than nuoi duong va moi quan he biet quan tam dung muc.",
+      "meaning_reversed": "O the nguoc, nang luong nuoi duong co the dang bi mat can bang, khi ban cho di qua nhieu hoac bo mac nhu cau cua minh. Can tro lai voi nhip do lanh manh, cham soc than tam va nguon luc thuc te.",
+      "arcana": "major",
+      "suit": null,
+      "suit_vi": null,
+      "image": "assets/cards/major_03.webp"
+    },
+    {
+      "id": "major_04",
+      "name": "The Emperor",
+      "name_vi": "Hoang De",
+      "number": 4,
+      "rank": "IV",
+      "element": "Fire",
+      "accent": "#c9874a",
+      "keywords_upright": [
+        "cau truc",
+        "ky luat",
+        "bao ve",
+        "tham quyen"
+      ],
+      "keywords_reversed": [
+        "cung nhac",
+        "kiem soat qua muc",
+        "bao thu",
+        "mat on dinh"
+      ],
+      "meaning_upright": "The Emperor dai dien cho viec dung khung, dat gioi han va quan ly mot cach ro rang de moi thu van hanh ben vung. No nhac ban rang su tu do lau dai can duoc nang do boi cau truc va trach nhiem.",
+      "meaning_reversed": "Khi dao nguoc, la bai nay thuong chi ra su cung ep, qua kiem soat hoac nhung nguyen tac da khong con phu hop. Dieu can lam la sua lai he thong, khong phai bo tat ca ky luat.",
+      "arcana": "major",
+      "suit": null,
+      "suit_vi": null,
+      "image": "assets/cards/major_04.webp"
+    },
+    {
+      "id": "major_05",
+      "name": "The Hierophant",
+      "name_vi": "Giao Hoang",
+      "number": 5,
+      "rank": "V",
+      "element": "Earth",
+      "accent": "#8baa6a",
+      "keywords_upright": [
+        "truyen thong",
+        "hoc hoi",
+        "gia tri",
+        "nghi le"
+      ],
+      "keywords_reversed": [
+        "giong khuan",
+        "giong cu",
+        "phu dinh he thong",
+        "cung nhac"
+      ],
+      "meaning_upright": "The Hierophant noi den kien thuc duoc truyen lai, khuon mau, dao duc va cac gia tri chung giup ban dinh vi minh. No phu hop khi ban can hoc bai ban, tim nguoi huong dan hoac xac dinh mot nen tang niem tin.",
+      "meaning_reversed": "O chieu nguoc, la bai nay dat cau hoi xem quy tac hien tai con phuc vu ban hay khong. Ban co the can mot cach hoc hoac mot niem tin mang tinh ca nhan hon, thay vi chi lam theo so dong.",
+      "arcana": "major",
+      "suit": null,
+      "suit_vi": null,
+      "image": "assets/cards/major_05.webp"
+    },
+    {
+      "id": "major_06",
+      "name": "The Lovers",
+      "name_vi": "Nguoi Yeu",
+      "number": 6,
+      "rank": "VI",
+      "element": "Air",
+      "accent": "#d99cb6",
+      "keywords_upright": [
+        "ket noi",
+        "lua chon",
+        "hoa hop",
+        "chan thanh"
+      ],
+      "keywords_reversed": [
+        "lech gia tri",
+        "do vo",
+        "phan van",
+        "xa cach"
+      ],
+      "meaning_upright": "The Lovers khong chi noi ve tinh yeu ma con la la bai cua su dong dieu trong gia tri va lua chon. No moi ban xet xem dieu gi that su phu hop voi tim minh, roi hanh dong bang su thanh that.",
+      "meaning_reversed": "Khi dao nguoc, co the dang ton tai su chia tach giua dieu ban muon va dieu ban dang lam. Ban can lam ro cac gia tri cot loi de tranh nhung quyet dinh lam sau them lech huong.",
+      "arcana": "major",
+      "suit": null,
+      "suit_vi": null,
+      "image": "assets/cards/major_06.webp"
+    },
+    {
+      "id": "major_07",
+      "name": "The Chariot",
+      "name_vi": "Chien Xa",
+      "number": 7,
+      "rank": "VII",
+      "element": "Water",
+      "accent": "#7fb3c9",
+      "keywords_upright": [
+        "y chi",
+        "tien len",
+        "kiem soat",
+        "chien thang"
+      ],
+      "keywords_reversed": [
+        "mat huong",
+        "qua suc",
+        "xung dot noi tam",
+        "chan lai"
+      ],
+      "meaning_upright": "The Chariot cho thay ban co the tien len neu biet hoi tu y chi va giu tay lai voi huong di cua minh. La bai nhan manh dong luc, kha nang tu chu va su quyet tam vuot qua luc keo trai nguoc.",
+      "meaning_reversed": "O the nguoc, ban de roi vao tinh trang bi keo ve nhieu phia va di rat nhieu nhung khong den dau. Dieu can uu tien la xac dinh mot muc tieu ro, sau do thu hep nang luong lai.",
+      "arcana": "major",
+      "suit": null,
+      "suit_vi": null,
+      "image": "assets/cards/major_07.webp"
+    },
+    {
+      "id": "major_08",
+      "name": "Strength",
+      "name_vi": "Suc Manh",
+      "number": 8,
+      "rank": "VIII",
+      "element": "Fire",
+      "accent": "#f0c060",
+      "keywords_upright": [
+        "binh tinh",
+        "kien nhan",
+        "noi luc",
+        "cam hoa"
+      ],
+      "keywords_reversed": [
+        "tu nghi ngo",
+        "can suc",
+        "boc phat",
+        "mat tu chu"
+      ],
+      "meaning_upright": "Strength la suc manh mem, noi ban khong can ep buoc moi viec ma van co the huong dan nang luong theo cach on dinh. No khuyen ban dung su dieu dang, kien nhan va long tu te de lam chu tinh huong.",
+      "meaning_reversed": "Khi dao nguoc, ban co the dang met vi vua co gang qua muc vua nghi ngo kha nang cua minh. Hay quay lai voi nhip tho, su tu ton va cach hanh dong ben bi hon thay vi gan suc ngan han.",
+      "arcana": "major",
+      "suit": null,
+      "suit_vi": null,
+      "image": "assets/cards/major_08.webp"
+    },
+    {
+      "id": "major_09",
+      "name": "The Hermit",
+      "name_vi": "An Si",
+      "number": 9,
+      "rank": "IX",
+      "element": "Earth",
+      "accent": "#cbbf95",
+      "keywords_upright": [
+        "chiem nghiem",
+        "dan duong",
+        "noi tam",
+        "tri tue"
+      ],
+      "keywords_reversed": [
+        "co lap",
+        "lang tranh",
+        "mat ket noi",
+        "dong kin"
+      ],
+      "meaning_upright": "The Hermit khuyen ban tam lui mot buoc de thay ro hon, thay vi tiep tuc lao vao nhung am thanh be ngoai. Day la giai doan tot de tong ket, tu hoc, va tim cau tra loi ben trong minh.",
+      "meaning_reversed": "O chieu nguoc, su rut lui co the da chuyen thanh co lap va lam ban kho nghe duoc phan hoi can thiet. Hay giu khong gian rieng, nhung dung cat dut ket noi voi nhung dieu nuoi duong ban.",
+      "arcana": "major",
+      "suit": null,
+      "suit_vi": null,
+      "image": "assets/cards/major_09.webp"
+    },
+    {
+      "id": "major_10",
+      "name": "Wheel of Fortune",
+      "name_vi": "Banh Xe So Phan",
+      "number": 10,
+      "rank": "X",
+      "element": "Fire",
+      "accent": "#f0c060",
+      "keywords_upright": [
+        "chu ky",
+        "bien chuyen",
+        "co hoi",
+        "van dong"
+      ],
+      "keywords_reversed": [
+        "tri tre",
+        "lap lai",
+        "ngoan co",
+        "cam giac mat kiem soat"
+      ],
+      "meaning_upright": "La bai nay nhac rang cuoc song luon di theo chu ky, va mot vong quay moi dang mo ra. Ban khong kiem soat tat ca bien so, nhung co the don co hoi bang su linh hoat va tam the san sang.",
+      "meaning_reversed": "Khi dao nguoc, ban co the dang cam thay van may khong dung ve phia minh hoac mot khuon mau cu dang lap lai. Dieu quan trong la nhan ra bai hoc cua vong quay nay de khong bi cuon di vo thuc.",
+      "arcana": "major",
+      "suit": null,
+      "suit_vi": null,
+      "image": "assets/cards/major_10.webp"
+    },
+    {
+      "id": "major_11",
+      "name": "Justice",
+      "name_vi": "Cong Ly",
+      "number": 11,
+      "rank": "XI",
+      "element": "Air",
+      "accent": "#7fb3c9",
+      "keywords_upright": [
+        "su that",
+        "can bang",
+        "trach nhiem",
+        "nhan qua"
+      ],
+      "keywords_reversed": [
+        "lech can",
+        "bien minh",
+        "thieu ro rang",
+        "phu nhan hau qua"
+      ],
+      "meaning_upright": "Justice moi ban nhin vao su that mot cach tinh tao va chap nhan trach nhiem cua minh trong tinh huong hien tai. La bai nay phu hop voi cac quyet dinh can cong tam, chuan muc va su ro rang trong ly le.",
+      "meaning_reversed": "O the nguoc, co the ban dang ne tranh mot ket luan kho nghe hoac de cam xuc lam meo can can. Hay quay ve voi du kien, gioi han va dieu minh co the chiu trach nhiem.",
+      "arcana": "major",
+      "suit": null,
+      "suit_vi": null,
+      "image": "assets/cards/major_11.webp"
+    },
+    {
+      "id": "major_12",
+      "name": "The Hanged Man",
+      "name_vi": "Nguoi Treo Nguoc",
+      "number": 12,
+      "rank": "XII",
+      "element": "Water",
+      "accent": "#7fb3c9",
+      "keywords_upright": [
+        "tam dung",
+        "goc nhin moi",
+        "buong ra",
+        "hy sinh"
+      ],
+      "keywords_reversed": [
+        "tri hoan",
+        "mac ket",
+        "chong cu",
+        "khong chiu doi goc nhin"
+      ],
+      "meaning_upright": "La bai nay khong yeu cau ban lao toi, ma moi ban dung lai de thay mot su that tu goc nhin khac. Doi khi tien trien that su den tu viec buong mot cach chap vao, khong phai tu viec co them no.",
+      "meaning_reversed": "Khi dao nguoc, su tam dung co the da tro thanh dinh tre keo dai vi ban chua san sang thay doi cach nhin. Ban can xac dinh dieu gi dang giu chan minh trong mot vong lap khong can thiet.",
+      "arcana": "major",
+      "suit": null,
+      "suit_vi": null,
+      "image": "assets/cards/major_12.webp"
+    },
+    {
+      "id": "major_13",
+      "name": "Death",
+      "name_vi": "Tu Than",
+      "number": 13,
+      "rank": "XIII",
+      "element": "Water",
+      "accent": "#c9874a",
+      "keywords_upright": [
+        "ket thuc",
+        "chuyen hoa",
+        "buoc sang chu ky moi",
+        "cat bo"
+      ],
+      "keywords_reversed": [
+        "bam viu",
+        "ngai doi thay",
+        "keo dai",
+        "chua buong"
+      ],
+      "meaning_upright": "Death hiem khi noi ve mot mat mat theo nghia den, ma chu yeu noi ve su ket thuc can thiet de mo ra mot hinh thai moi. No nhac ban rang viec buon bo co the dau, nhung cung giai phong nang luong song.",
+      "meaning_reversed": "O chieu nguoc, ban co the dang co neo vao dieu da het vong doi cua no. Viec doi thay van se den, nhung ban se nhe hon neu chu dong dong mot canh cua cu.",
+      "arcana": "major",
+      "suit": null,
+      "suit_vi": null,
+      "image": "assets/cards/major_13.webp"
+    },
+    {
+      "id": "major_14",
+      "name": "Temperance",
+      "name_vi": "Dieu Do",
+      "number": 14,
+      "rank": "XIV",
+      "element": "Fire",
+      "accent": "#8baa6a",
+      "keywords_upright": [
+        "dung hoa",
+        "tiet che",
+        "can bang",
+        "phoi hop"
+      ],
+      "keywords_reversed": [
+        "qua tay",
+        "lech nhip",
+        "mat can doi",
+        "kho hoa hop"
+      ],
+      "meaning_upright": "Temperance la nghe thuat pha tron dung ty le de tao ra su on hoa lau dai. No khuyen ban dieu chinh nhip do, ket noi cac mat doi lap va tim cach di ben vung thay vi cuc doan.",
+      "meaning_reversed": "Khi dao nguoc, cuoc song co the dang lech nhip vi mot mat nao do bi day qua xa. Hay tro lai voi su vua du, sap xep uu tien va nhin xem cho nao can duoc can lai.",
+      "arcana": "major",
+      "suit": null,
+      "suit_vi": null,
+      "image": "assets/cards/major_14.webp"
+    },
+    {
+      "id": "major_15",
+      "name": "The Devil",
+      "name_vi": "Ac Quy",
+      "number": 15,
+      "rank": "XV",
+      "element": "Earth",
+      "accent": "#c9874a",
+      "keywords_upright": [
+        "rang buoc",
+        "cam do",
+        "chap niem",
+        "vat chat"
+      ],
+      "keywords_reversed": [
+        "go bo xieng xich",
+        "nhan dien bong toi",
+        "giai phong",
+        "thu hoi quyen luc"
+      ],
+      "meaning_upright": "The Devil cho thay mot lien ket dang tro nen qua chat, co the la thoi quen, ham muon, noi so hay kieu suy nghi lam ban mat tu do. La bai nay khong nham de doa, ma de chi ra noi ban dang trao quyen luc cua minh cho mot dieu khac.",
+      "meaning_reversed": "O the nguoc, ban bat dau nhin ra ban chat cua rang buoc va co co hoi cat no long dan. Qua trinh nay doi hoi su that long va ky luat nho, nhung no mo ra duong lui ro rang hon.",
+      "arcana": "major",
+      "suit": null,
+      "suit_vi": null,
+      "image": "assets/cards/major_15.webp"
+    },
+    {
+      "id": "major_16",
+      "name": "The Tower",
+      "name_vi": "Toa Thap",
+      "number": 16,
+      "rank": "XVI",
+      "element": "Fire",
+      "accent": "#c9874a",
+      "keywords_upright": [
+        "pha vo",
+        "thuc tinh",
+        "bien co",
+        "giai phong"
+      ],
+      "keywords_reversed": [
+        "cang giu cang vo",
+        "chan dong am i",
+        "tri hoan su that",
+        "ha canh kho"
+      ],
+      "meaning_upright": "Toa Thap la su sup do cua cau truc khong con vung, de su that co cho xuat hien. Dung la no gay soc, nhung no cung cat dut ao tuong va buoc ban dung tren nen tang that hon.",
+      "meaning_reversed": "Khi dao nguoc, su bien chuyen van dang dien ra nhung co the theo cach am i hoac bi tri hoan vi ban dang co thu giu nguyen hien trang. Cang som chap nhan dieu can thay, qua trinh cang bot ton hao.",
+      "arcana": "major",
+      "suit": null,
+      "suit_vi": null,
+      "image": "assets/cards/major_16.webp"
+    },
+    {
+      "id": "major_17",
+      "name": "The Star",
+      "name_vi": "Ngoi Sao",
+      "number": 17,
+      "rank": "XVII",
+      "element": "Air",
+      "accent": "#7fb3c9",
+      "keywords_upright": [
+        "hy vong",
+        "chua lanh",
+        "truyen cam hung",
+        "tin tuong"
+      ],
+      "keywords_reversed": [
+        "mat niem tin",
+        "kiet que",
+        "nghi ngo",
+        "thieu ket noi"
+      ],
+      "meaning_upright": "The Star dem lai mot luong khi trong, nhac ban rang sau bien dong van co cho cho niem tin va su phuc hoi. No khuyen ban mo long, noi that va tiep tuc di theo anh sang nho ma ben bi.",
+      "meaning_reversed": "O chieu nguoc, ngon den hy vong co the dang mo di do met moi hoac that vong. Ban khong can ep minh lac quan ngay, nhung can tim lai mot nguon nuoi duong nho va deu.",
+      "arcana": "major",
+      "suit": null,
+      "suit_vi": null,
+      "image": "assets/cards/major_17.webp"
+    },
+    {
+      "id": "major_18",
+      "name": "The Moon",
+      "name_vi": "Mat Trang",
+      "number": 18,
+      "rank": "XVIII",
+      "element": "Water",
+      "accent": "#7fb3c9",
+      "keywords_upright": [
+        "mo ho",
+        "tiem thuc",
+        "noi so",
+        "truc giac"
+      ],
+      "keywords_reversed": [
+        "lo dien",
+        "ro hon",
+        "thoat ao anh",
+        "giam roi"
+      ],
+      "meaning_upright": "The Moon xuat hien khi con duong truoc mat chua ro, cam xuc len xuong va tiep can bang ly tri don thuan la chua du. La bai nay moi ban di cham, de y giac mo, linh cam va nhung kieu so hai dang thao tung hanh vi.",
+      "meaning_reversed": "Khi dao nguoc, su mo ho dan tan va mot vai dieu an duoi mat nuoc bat dau lo ra. Day la luc de tach cam giac kho chiu thanh thong tin cu the, tu do lay lai su ro rang.",
+      "arcana": "major",
+      "suit": null,
+      "suit_vi": null,
+      "image": "assets/cards/major_18.webp"
+    },
+    {
+      "id": "major_19",
+      "name": "The Sun",
+      "name_vi": "Mat Troi",
+      "number": 19,
+      "rank": "XIX",
+      "element": "Fire",
+      "accent": "#f0c060",
+      "keywords_upright": [
+        "ro rang",
+        "niem vui",
+        "thanh cong",
+        "suc song"
+      ],
+      "keywords_reversed": [
+        "tre nhip",
+        "qua tu tin",
+        "bi che mo",
+        "mat nang luong"
+      ],
+      "meaning_upright": "The Sun la su am ap, minh bach va niem vui duoc phoi sang ro rang. No cho thay mot giai doan tot de noi ra, toan tam song voi dieu tot dep va de nhung ket qua ro rang xuat hien.",
+      "meaning_reversed": "O the nguoc, anh sang van con do nhung co the bi mot lop may tam thoi che bot. Ban can bo nhung ky vong qua cao hoac su met moi dang ngan minh tan huong thanh qua hien co.",
+      "arcana": "major",
+      "suit": null,
+      "suit_vi": null,
+      "image": "assets/cards/major_19.webp"
+    },
+    {
+      "id": "major_20",
+      "name": "Judgement",
+      "name_vi": "Phan Xet",
+      "number": 20,
+      "rank": "XX",
+      "element": "Fire",
+      "accent": "#cbbf95",
+      "keywords_upright": [
+        "thuc tinh",
+        "tong ket",
+        "tha thu",
+        "tai sinh"
+      ],
+      "keywords_reversed": [
+        "tri hoan thuc tinh",
+        "tu phan xet",
+        "chua khop bai hoc",
+        "bo lo tieng goi"
+      ],
+      "meaning_upright": "Judgement la tieng kenh goi ban nhin lai mot chu ky lon va dung day voi phien ban truong thanh hon cua minh. No phu hop voi cac quyet dinh mang tinh tong ket, giai phong va buoc sang giai doan moi.",
+      "meaning_reversed": "Khi dao nguoc, ban co the dang kha nang tu phan xet qua tay hoac tri hoan mot quyet dinh da ro. Hay dung su that va long bao dung de dong lai dieu can khap lai.",
+      "arcana": "major",
+      "suit": null,
+      "suit_vi": null,
+      "image": "assets/cards/major_20.webp"
+    },
+    {
+      "id": "major_21",
+      "name": "The World",
+      "name_vi": "The Gioi",
+      "number": 21,
+      "rank": "XXI",
+      "element": "Earth",
+      "accent": "#8baa6a",
+      "keywords_upright": [
+        "hoan tat",
+        "vien man",
+        "ket noi",
+        "truong thanh"
+      ],
+      "keywords_reversed": [
+        "chua tron ven",
+        "tri hoan dich den",
+        "bo do dang do",
+        "thieu khop noi"
+      ],
+      "meaning_upright": "The World danh dau mot chu ky da duoc hoan thanh va mot tam nhin tong the da ket noi thanh hinh. No mang cam giac day du, khop noi va san sang cho vong moi tu mot vi tri vung vang hon.",
+      "meaning_reversed": "O chieu nguoc, ban co the dang rat gan dich nhung con mot vai nut chua that lai. Hay hoan thanh not dieu dang dang do, thay vi bo qua giai doan ket lai quan trong.",
+      "arcana": "major",
+      "suit": null,
+      "suit_vi": null,
+      "image": "assets/cards/major_21.webp"
+    },
+    {
+      "id": "wands_01",
+      "name": "Ace of Wands",
+      "name_vi": "At Gay",
+      "arcana": "minor",
+      "suit": "wands",
+      "suit_vi": "Gay",
+      "number": 1,
+      "rank": "Ace",
+      "element": "Fire",
+      "accent": "#d07a43",
+      "keywords_upright": [
+        "co hoi",
+        "khoi dau",
+        "hat giong",
+        "tien nang"
+      ],
+      "keywords_reversed": [
+        "bo lo",
+        "cham nhip",
+        "nghi ngo",
+        "dong lai"
+      ],
+      "meaning_upright": "La nay mang nang luong cua lua, thuc day ban hanh dong, thu nghiem va day duoc dong luc ben trong. Mo ra mot co hoi moi va mot nguon nang luong nguyen so de bat dau. Trong bo gay, la nay thuong lien quan den dam me, sang tao va hanh dong va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, nang luong lua nay de tro nen nong voi, mat dinh huong hoac kiet suc vi phan tan qua nhieu huong. Co hoi van co nhung de bi bo lo, cham nhip hoac chua duoc don nhan dung luc. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/wands_01.webp"
+    },
+    {
+      "id": "wands_02",
+      "name": "Two of Wands",
+      "name_vi": "Hai Gay",
+      "arcana": "minor",
+      "suit": "wands",
+      "suit_vi": "Gay",
+      "number": 2,
+      "rank": "Two",
+      "element": "Fire",
+      "accent": "#d07a43",
+      "keywords_upright": [
+        "can bang",
+        "lua chon",
+        "doi thoai",
+        "can doi"
+      ],
+      "keywords_reversed": [
+        "be tac",
+        "do du",
+        "lech can",
+        "kho chon"
+      ],
+      "meaning_upright": "La nay mang nang luong cua lua, thuc day ban hanh dong, thu nghiem va day duoc dong luc ben trong. Tap trung vao can doi, lua chon va cach hai luc keo dang doi thoai voi nhau. Trong bo gay, la nay thuong lien quan den dam me, sang tao va hanh dong va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, nang luong lua nay de tro nen nong voi, mat dinh huong hoac kiet suc vi phan tan qua nhieu huong. Can canh bao su lung tung, treo quyet dinh hoac lech mat can bang giua hai huong. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/wands_02.webp"
+    },
+    {
+      "id": "wands_03",
+      "name": "Three of Wands",
+      "name_vi": "Ba Gay",
+      "arcana": "minor",
+      "suit": "wands",
+      "suit_vi": "Gay",
+      "number": 3,
+      "rank": "Three",
+      "element": "Fire",
+      "accent": "#d07a43",
+      "keywords_upright": [
+        "mo rong",
+        "phoi hop",
+        "tam nhin",
+        "bat dau co ket qua"
+      ],
+      "keywords_reversed": [
+        "tro ngai",
+        "roi rac",
+        "cham tien",
+        "lech huong"
+      ],
+      "meaning_upright": "La nay mang nang luong cua lua, thuc day ban hanh dong, thu nghiem va day duoc dong luc ben trong. Nang luong ba thuong lien quan den mo rong, phoi hop va thay ket qua dau tien dang hinh thanh. Trong bo gay, la nay thuong lien quan den dam me, sang tao va hanh dong va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, nang luong lua nay de tro nen nong voi, mat dinh huong hoac kiet suc vi phan tan qua nhieu huong. Ban co the dang gap tro ngai trong phoi hop hoac du an mo ra nhung chua di den dau. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/wands_03.webp"
+    },
+    {
+      "id": "wands_04",
+      "name": "Four of Wands",
+      "name_vi": "Bon Gay",
+      "arcana": "minor",
+      "suit": "wands",
+      "suit_vi": "Gay",
+      "number": 4,
+      "rank": "Four",
+      "element": "Fire",
+      "accent": "#d07a43",
+      "keywords_upright": [
+        "on dinh",
+        "nen tang",
+        "giu nhip",
+        "ne nep"
+      ],
+      "keywords_reversed": [
+        "lung lay",
+        "dong cung",
+        "thieu linh hoat",
+        "bat an"
+      ],
+      "meaning_upright": "La nay mang nang luong cua lua, thuc day ban hanh dong, thu nghiem va day duoc dong luc ben trong. La bai dua nang luong ve on dinh, ne nep va mot nen tang de ban dung chan lau hon. Trong bo gay, la nay thuong lien quan den dam me, sang tao va hanh dong va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, nang luong lua nay de tro nen nong voi, mat dinh huong hoac kiet suc vi phan tan qua nhieu huong. Khi dao nguoc, su on dinh nay co the bi lung lay hoac tro thanh qua dong khien nang luong khong luan chuyen. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/wands_04.webp"
+    },
+    {
+      "id": "wands_05",
+      "name": "Five of Wands",
+      "name_vi": "Nam Gay",
+      "arcana": "minor",
+      "suit": "wands",
+      "suit_vi": "Gay",
+      "number": 5,
+      "rank": "Five",
+      "element": "Fire",
+      "accent": "#d07a43",
+      "keywords_upright": [
+        "thay doi",
+        "xung dot",
+        "cang co",
+        "thich nghi"
+      ],
+      "keywords_reversed": [
+        "ne tranh",
+        "giam cang",
+        "am i",
+        "sua lai"
+      ],
+      "meaning_upright": "La nay mang nang luong cua lua, thuc day ban hanh dong, thu nghiem va day duoc dong luc ben trong. Nam la pha dao dong, xung dot nho hoac su thay doi buoc ban phai dieu chinh nhanh. Trong bo gay, la nay thuong lien quan den dam me, sang tao va hanh dong va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, nang luong lua nay de tro nen nong voi, mat dinh huong hoac kiet suc vi phan tan qua nhieu huong. O chieu nguoc, xung dot co the dang diu lai, bi ne tranh hoac chuyen thanh cang thang ngam. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/wands_05.webp"
+    },
+    {
+      "id": "wands_06",
+      "name": "Six of Wands",
+      "name_vi": "Sau Gay",
+      "arcana": "minor",
+      "suit": "wands",
+      "suit_vi": "Gay",
+      "number": 6,
+      "rank": "Six",
+      "element": "Fire",
+      "accent": "#d07a43",
+      "keywords_upright": [
+        "hai hoa",
+        "nang do",
+        "chuyen tiep",
+        "de tho hon"
+      ],
+      "keywords_reversed": [
+        "mat can",
+        "keo lai",
+        "khong deu",
+        "lech doi"
+      ],
+      "meaning_upright": "La nay mang nang luong cua lua, thuc day ban hanh dong, thu nghiem va day duoc dong luc ben trong. Sau thuong dem den su hai hoa hon, mot nhịp chuyen tiep de dang hoac cam giac duoc nang do. Trong bo gay, la nay thuong lien quan den dam me, sang tao va hanh dong va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, nang luong lua nay de tro nen nong voi, mat dinh huong hoac kiet suc vi phan tan qua nhieu huong. Khi dao nguoc, dong chay de bi cham lai, mat can doi hoac co su lech giua cho va nhan. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/wands_06.webp"
+    },
+    {
+      "id": "wands_07",
+      "name": "Seven of Wands",
+      "name_vi": "Bay Gay",
+      "arcana": "minor",
+      "suit": "wands",
+      "suit_vi": "Gay",
+      "number": 7,
+      "rank": "Seven",
+      "element": "Fire",
+      "accent": "#d07a43",
+      "keywords_upright": [
+        "thu thach",
+        "giu huong",
+        "chien luoc",
+        "niem tin"
+      ],
+      "keywords_reversed": [
+        "met moi",
+        "lung lay",
+        "do du",
+        "mat the"
+      ],
+      "meaning_upright": "La nay mang nang luong cua lua, thuc day ban hanh dong, thu nghiem va day duoc dong luc ben trong. Bay goi den bai kiem tra ve niem tin, chien luoc va kha nang giu huong khi ap luc tang len. Trong bo gay, la nay thuong lien quan den dam me, sang tao va hanh dong va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, nang luong lua nay de tro nen nong voi, mat dinh huong hoac kiet suc vi phan tan qua nhieu huong. O the nguoc, ban co the met moi, phan van hoac dung sai cach de bao ve dieu quan trong. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/wands_07.webp"
+    },
+    {
+      "id": "wands_08",
+      "name": "Eight of Wands",
+      "name_vi": "Tam Gay",
+      "arcana": "minor",
+      "suit": "wands",
+      "suit_vi": "Gay",
+      "number": 8,
+      "rank": "Eight",
+      "element": "Fire",
+      "accent": "#d07a43",
+      "keywords_upright": [
+        "tien trien",
+        "nhip do",
+        "dong luc",
+        "lap lai co y thuc"
+      ],
+      "keywords_reversed": [
+        "tri tre",
+        "mat nhip",
+        "lap lai vo thuc",
+        "tre"
+      ],
+      "meaning_upright": "La nay mang nang luong cua lua, thuc day ban hanh dong, thu nghiem va day duoc dong luc ben trong. Tam la nang luong cua dong chay ro hon, toc do cao hon hoac su lap lai giup tao thanh ky nang. Trong bo gay, la nay thuong lien quan den dam me, sang tao va hanh dong va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, nang luong lua nay de tro nen nong voi, mat dinh huong hoac kiet suc vi phan tan qua nhieu huong. Khi dao nguoc, nhip do de bi dut, tre hoac lap lai mot cach vo thuc ma khong tao tien bo. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/wands_08.webp"
+    },
+    {
+      "id": "wands_09",
+      "name": "Nine of Wands",
+      "name_vi": "Chin Gay",
+      "arcana": "minor",
+      "suit": "wands",
+      "suit_vi": "Gay",
+      "number": 9,
+      "rank": "Nine",
+      "element": "Fire",
+      "accent": "#d07a43",
+      "keywords_upright": [
+        "gan dich",
+        "kinh nghiem",
+        "ben bi",
+        "can dich"
+      ],
+      "keywords_reversed": [
+        "can suc",
+        "lo au",
+        "phong thu",
+        "kho buong"
+      ],
+      "meaning_upright": "La nay mang nang luong cua lua, thuc day ban hanh dong, thu nghiem va day duoc dong luc ben trong. Chin la muc sat dich, noi ban co kinh nghiem va can them su ben bi de ket chu ky hien tai. Trong bo gay, la nay thuong lien quan den dam me, sang tao va hanh dong va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, nang luong lua nay de tro nen nong voi, mat dinh huong hoac kiet suc vi phan tan qua nhieu huong. O chieu nguoc, cam giac gan dich co the di kem can suc, lo au hoac kho buong su phong thu. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/wands_09.webp"
+    },
+    {
+      "id": "wands_10",
+      "name": "Ten of Wands",
+      "name_vi": "Muoi Gay",
+      "arcana": "minor",
+      "suit": "wands",
+      "suit_vi": "Gay",
+      "number": 10,
+      "rank": "Ten",
+      "element": "Fire",
+      "accent": "#d07a43",
+      "keywords_upright": [
+        "day chu ky",
+        "ket qua",
+        "hoan tat",
+        "gan nang ro hon"
+      ],
+      "keywords_reversed": [
+        "giai tai",
+        "sap xep lai",
+        "buong bot",
+        "hau qua"
+      ],
+      "meaning_upright": "La nay mang nang luong cua lua, thuc day ban hanh dong, thu nghiem va day duoc dong luc ben trong. Muoi danh dau diem day cua chu ky, noi ket qua ro hon nhung cung cho thay gan nang hoac he qua cua no. Trong bo gay, la nay thuong lien quan den dam me, sang tao va hanh dong va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, nang luong lua nay de tro nen nong voi, mat dinh huong hoac kiet suc vi phan tan qua nhieu huong. Khi dao nguoc, chu ky nay dang doi duoc giai tai, dong lai hoac sap xep lai cho ben vung hon. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/wands_10.webp"
+    },
+    {
+      "id": "wands_11",
+      "name": "Page of Wands",
+      "name_vi": "Tieu Dong Gay",
+      "arcana": "minor",
+      "suit": "wands",
+      "suit_vi": "Gay",
+      "number": 11,
+      "rank": "Page",
+      "element": "Fire",
+      "accent": "#d07a43",
+      "keywords_upright": [
+        "hoc hoi",
+        "tin hieu moi",
+        "to mo",
+        "mo cua"
+      ],
+      "keywords_reversed": [
+        "non tre",
+        "phan tam",
+        "do cho",
+        "thieu dinh huong"
+      ],
+      "meaning_upright": "La nay mang nang luong cua lua, thuc day ban hanh dong, thu nghiem va day duoc dong luc ben trong. Page dem den tam the hoc hoi, thong diep moi va su mo cua nguoi dang buoc vao mot linh vuc bang tri to mo. Trong bo gay, la nay thuong lien quan den dam me, sang tao va hanh dong va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, nang luong lua nay de tro nen nong voi, mat dinh huong hoac kiet suc vi phan tan qua nhieu huong. O the nguoc, su non tre hoac phan tam co the khien thong diep dep tro nen meo hoac kho giu dinh huong. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/wands_11.webp"
+    },
+    {
+      "id": "wands_12",
+      "name": "Knight of Wands",
+      "name_vi": "Ky Si Gay",
+      "arcana": "minor",
+      "suit": "wands",
+      "suit_vi": "Gay",
+      "number": 12,
+      "rank": "Knight",
+      "element": "Fire",
+      "accent": "#d07a43",
+      "keywords_upright": [
+        "hanh dong",
+        "dong luc",
+        "the tien",
+        "xong len"
+      ],
+      "keywords_reversed": [
+        "hap tap",
+        "qua da",
+        "mat huong",
+        "thieu dieu tiet"
+      ],
+      "meaning_upright": "La nay mang nang luong cua lua, thuc day ban hanh dong, thu nghiem va day duoc dong luc ben trong. Knight day cau chuyen di nhanh hon, nhieu dong luc hon va doi hoi ban dua nang luong vao hanh dong co huong. Trong bo gay, la nay thuong lien quan den dam me, sang tao va hanh dong va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, nang luong lua nay de tro nen nong voi, mat dinh huong hoac kiet suc vi phan tan qua nhieu huong. Khi dao nguoc, dong luc nay de tro nen hap tap, mat kiem soat hoac chay qua da trong khi muc tieu chua ro. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/wands_12.webp"
+    },
+    {
+      "id": "wands_13",
+      "name": "Queen of Wands",
+      "name_vi": "Nu Hoang Gay",
+      "arcana": "minor",
+      "suit": "wands",
+      "suit_vi": "Gay",
+      "number": 13,
+      "rank": "Queen",
+      "element": "Fire",
+      "accent": "#d07a43",
+      "keywords_upright": [
+        "truong thanh",
+        "noi luc",
+        "tinh te",
+        "dieu huong"
+      ],
+      "keywords_reversed": [
+        "qua nhay",
+        "kiem soat ngam",
+        "lech can",
+        "tu dong"
+      ],
+      "meaning_upright": "La nay mang nang luong cua lua, thuc day ban hanh dong, thu nghiem va day duoc dong luc ben trong. Queen la nang luong truong thanh, biet quan sat va dieu huong linh vuc nay bang su tinh te va noi luc on dinh. Trong bo gay, la nay thuong lien quan den dam me, sang tao va hanh dong va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, nang luong lua nay de tro nen nong voi, mat dinh huong hoac kiet suc vi phan tan qua nhieu huong. O the nguoc, nang luong nay co the bi lech thanh nhay cam qua muc, kiem soat ngam hoac mat can doi noi tam. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/wands_13.webp"
+    },
+    {
+      "id": "wands_14",
+      "name": "King of Wands",
+      "name_vi": "Quoc Vuong Gay",
+      "arcana": "minor",
+      "suit": "wands",
+      "suit_vi": "Gay",
+      "number": 14,
+      "rank": "King",
+      "element": "Fire",
+      "accent": "#d07a43",
+      "keywords_upright": [
+        "lam chu",
+        "tham quyen",
+        "kinh nghiem",
+        "trach nhiem"
+      ],
+      "keywords_reversed": [
+        "cung nhac",
+        "qua uu the",
+        "lech dung quyen",
+        "thieu lang nghe"
+      ],
+      "meaning_upright": "La nay mang nang luong cua lua, thuc day ban hanh dong, thu nghiem va day duoc dong luc ben trong. King the hien muc do lam chu cao nhat cua linh vuc nay, noi kinh nghiem va tham quyen di kem trach nhiem ro rang. Trong bo gay, la nay thuong lien quan den dam me, sang tao va hanh dong va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, nang luong lua nay de tro nen nong voi, mat dinh huong hoac kiet suc vi phan tan qua nhieu huong. Khi dao nguoc, cach lam chu de chuyen thanh cung nhac, qua uu the hoac mat su dienh dam can thiet. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/wands_14.webp"
+    },
+    {
+      "id": "cups_01",
+      "name": "Ace of Cups",
+      "name_vi": "At Chen",
+      "arcana": "minor",
+      "suit": "cups",
+      "suit_vi": "Chen",
+      "number": 1,
+      "rank": "Ace",
+      "element": "Water",
+      "accent": "#5f93c9",
+      "keywords_upright": [
+        "co hoi",
+        "khoi dau",
+        "hat giong",
+        "tien nang"
+      ],
+      "keywords_reversed": [
+        "bo lo",
+        "cham nhip",
+        "nghi ngo",
+        "dong lai"
+      ],
+      "meaning_upright": "La nay noi ve dong chay cam xuc, su lien ket va cach ban tiep nhan the gioi bang trai tim va truc giac. Mo ra mot co hoi moi va mot nguon nang luong nguyen so de bat dau. Trong bo chen, la nay thuong lien quan den cam xuc, ket noi va truc giac va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, dong nuoc cam xuc nay co the dang bi un tac, tran bo hoac kho duoc goi ten mot cach ro rang. Co hoi van co nhung de bi bo lo, cham nhip hoac chua duoc don nhan dung luc. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/cups_01.webp"
+    },
+    {
+      "id": "cups_02",
+      "name": "Two of Cups",
+      "name_vi": "Hai Chen",
+      "arcana": "minor",
+      "suit": "cups",
+      "suit_vi": "Chen",
+      "number": 2,
+      "rank": "Two",
+      "element": "Water",
+      "accent": "#5f93c9",
+      "keywords_upright": [
+        "can bang",
+        "lua chon",
+        "doi thoai",
+        "can doi"
+      ],
+      "keywords_reversed": [
+        "be tac",
+        "do du",
+        "lech can",
+        "kho chon"
+      ],
+      "meaning_upright": "La nay noi ve dong chay cam xuc, su lien ket va cach ban tiep nhan the gioi bang trai tim va truc giac. Tap trung vao can doi, lua chon va cach hai luc keo dang doi thoai voi nhau. Trong bo chen, la nay thuong lien quan den cam xuc, ket noi va truc giac va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, dong nuoc cam xuc nay co the dang bi un tac, tran bo hoac kho duoc goi ten mot cach ro rang. Can canh bao su lung tung, treo quyet dinh hoac lech mat can bang giua hai huong. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/cups_02.webp"
+    },
+    {
+      "id": "cups_03",
+      "name": "Three of Cups",
+      "name_vi": "Ba Chen",
+      "arcana": "minor",
+      "suit": "cups",
+      "suit_vi": "Chen",
+      "number": 3,
+      "rank": "Three",
+      "element": "Water",
+      "accent": "#5f93c9",
+      "keywords_upright": [
+        "mo rong",
+        "phoi hop",
+        "tam nhin",
+        "bat dau co ket qua"
+      ],
+      "keywords_reversed": [
+        "tro ngai",
+        "roi rac",
+        "cham tien",
+        "lech huong"
+      ],
+      "meaning_upright": "La nay noi ve dong chay cam xuc, su lien ket va cach ban tiep nhan the gioi bang trai tim va truc giac. Nang luong ba thuong lien quan den mo rong, phoi hop va thay ket qua dau tien dang hinh thanh. Trong bo chen, la nay thuong lien quan den cam xuc, ket noi va truc giac va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, dong nuoc cam xuc nay co the dang bi un tac, tran bo hoac kho duoc goi ten mot cach ro rang. Ban co the dang gap tro ngai trong phoi hop hoac du an mo ra nhung chua di den dau. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/cups_03.webp"
+    },
+    {
+      "id": "cups_04",
+      "name": "Four of Cups",
+      "name_vi": "Bon Chen",
+      "arcana": "minor",
+      "suit": "cups",
+      "suit_vi": "Chen",
+      "number": 4,
+      "rank": "Four",
+      "element": "Water",
+      "accent": "#5f93c9",
+      "keywords_upright": [
+        "on dinh",
+        "nen tang",
+        "giu nhip",
+        "ne nep"
+      ],
+      "keywords_reversed": [
+        "lung lay",
+        "dong cung",
+        "thieu linh hoat",
+        "bat an"
+      ],
+      "meaning_upright": "La nay noi ve dong chay cam xuc, su lien ket va cach ban tiep nhan the gioi bang trai tim va truc giac. La bai dua nang luong ve on dinh, ne nep va mot nen tang de ban dung chan lau hon. Trong bo chen, la nay thuong lien quan den cam xuc, ket noi va truc giac va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, dong nuoc cam xuc nay co the dang bi un tac, tran bo hoac kho duoc goi ten mot cach ro rang. Khi dao nguoc, su on dinh nay co the bi lung lay hoac tro thanh qua dong khien nang luong khong luan chuyen. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/cups_04.webp"
+    },
+    {
+      "id": "cups_05",
+      "name": "Five of Cups",
+      "name_vi": "Nam Chen",
+      "arcana": "minor",
+      "suit": "cups",
+      "suit_vi": "Chen",
+      "number": 5,
+      "rank": "Five",
+      "element": "Water",
+      "accent": "#5f93c9",
+      "keywords_upright": [
+        "thay doi",
+        "xung dot",
+        "cang co",
+        "thich nghi"
+      ],
+      "keywords_reversed": [
+        "ne tranh",
+        "giam cang",
+        "am i",
+        "sua lai"
+      ],
+      "meaning_upright": "La nay noi ve dong chay cam xuc, su lien ket va cach ban tiep nhan the gioi bang trai tim va truc giac. Nam la pha dao dong, xung dot nho hoac su thay doi buoc ban phai dieu chinh nhanh. Trong bo chen, la nay thuong lien quan den cam xuc, ket noi va truc giac va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, dong nuoc cam xuc nay co the dang bi un tac, tran bo hoac kho duoc goi ten mot cach ro rang. O chieu nguoc, xung dot co the dang diu lai, bi ne tranh hoac chuyen thanh cang thang ngam. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/cups_05.webp"
+    },
+    {
+      "id": "cups_06",
+      "name": "Six of Cups",
+      "name_vi": "Sau Chen",
+      "arcana": "minor",
+      "suit": "cups",
+      "suit_vi": "Chen",
+      "number": 6,
+      "rank": "Six",
+      "element": "Water",
+      "accent": "#5f93c9",
+      "keywords_upright": [
+        "hai hoa",
+        "nang do",
+        "chuyen tiep",
+        "de tho hon"
+      ],
+      "keywords_reversed": [
+        "mat can",
+        "keo lai",
+        "khong deu",
+        "lech doi"
+      ],
+      "meaning_upright": "La nay noi ve dong chay cam xuc, su lien ket va cach ban tiep nhan the gioi bang trai tim va truc giac. Sau thuong dem den su hai hoa hon, mot nhịp chuyen tiep de dang hoac cam giac duoc nang do. Trong bo chen, la nay thuong lien quan den cam xuc, ket noi va truc giac va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, dong nuoc cam xuc nay co the dang bi un tac, tran bo hoac kho duoc goi ten mot cach ro rang. Khi dao nguoc, dong chay de bi cham lai, mat can doi hoac co su lech giua cho va nhan. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/cups_06.webp"
+    },
+    {
+      "id": "cups_07",
+      "name": "Seven of Cups",
+      "name_vi": "Bay Chen",
+      "arcana": "minor",
+      "suit": "cups",
+      "suit_vi": "Chen",
+      "number": 7,
+      "rank": "Seven",
+      "element": "Water",
+      "accent": "#5f93c9",
+      "keywords_upright": [
+        "thu thach",
+        "giu huong",
+        "chien luoc",
+        "niem tin"
+      ],
+      "keywords_reversed": [
+        "met moi",
+        "lung lay",
+        "do du",
+        "mat the"
+      ],
+      "meaning_upright": "La nay noi ve dong chay cam xuc, su lien ket va cach ban tiep nhan the gioi bang trai tim va truc giac. Bay goi den bai kiem tra ve niem tin, chien luoc va kha nang giu huong khi ap luc tang len. Trong bo chen, la nay thuong lien quan den cam xuc, ket noi va truc giac va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, dong nuoc cam xuc nay co the dang bi un tac, tran bo hoac kho duoc goi ten mot cach ro rang. O the nguoc, ban co the met moi, phan van hoac dung sai cach de bao ve dieu quan trong. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/cups_07.webp"
+    },
+    {
+      "id": "cups_08",
+      "name": "Eight of Cups",
+      "name_vi": "Tam Chen",
+      "arcana": "minor",
+      "suit": "cups",
+      "suit_vi": "Chen",
+      "number": 8,
+      "rank": "Eight",
+      "element": "Water",
+      "accent": "#5f93c9",
+      "keywords_upright": [
+        "tien trien",
+        "nhip do",
+        "dong luc",
+        "lap lai co y thuc"
+      ],
+      "keywords_reversed": [
+        "tri tre",
+        "mat nhip",
+        "lap lai vo thuc",
+        "tre"
+      ],
+      "meaning_upright": "La nay noi ve dong chay cam xuc, su lien ket va cach ban tiep nhan the gioi bang trai tim va truc giac. Tam la nang luong cua dong chay ro hon, toc do cao hon hoac su lap lai giup tao thanh ky nang. Trong bo chen, la nay thuong lien quan den cam xuc, ket noi va truc giac va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, dong nuoc cam xuc nay co the dang bi un tac, tran bo hoac kho duoc goi ten mot cach ro rang. Khi dao nguoc, nhip do de bi dut, tre hoac lap lai mot cach vo thuc ma khong tao tien bo. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/cups_08.webp"
+    },
+    {
+      "id": "cups_09",
+      "name": "Nine of Cups",
+      "name_vi": "Chin Chen",
+      "arcana": "minor",
+      "suit": "cups",
+      "suit_vi": "Chen",
+      "number": 9,
+      "rank": "Nine",
+      "element": "Water",
+      "accent": "#5f93c9",
+      "keywords_upright": [
+        "gan dich",
+        "kinh nghiem",
+        "ben bi",
+        "can dich"
+      ],
+      "keywords_reversed": [
+        "can suc",
+        "lo au",
+        "phong thu",
+        "kho buong"
+      ],
+      "meaning_upright": "La nay noi ve dong chay cam xuc, su lien ket va cach ban tiep nhan the gioi bang trai tim va truc giac. Chin la muc sat dich, noi ban co kinh nghiem va can them su ben bi de ket chu ky hien tai. Trong bo chen, la nay thuong lien quan den cam xuc, ket noi va truc giac va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, dong nuoc cam xuc nay co the dang bi un tac, tran bo hoac kho duoc goi ten mot cach ro rang. O chieu nguoc, cam giac gan dich co the di kem can suc, lo au hoac kho buong su phong thu. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/cups_09.webp"
+    },
+    {
+      "id": "cups_10",
+      "name": "Ten of Cups",
+      "name_vi": "Muoi Chen",
+      "arcana": "minor",
+      "suit": "cups",
+      "suit_vi": "Chen",
+      "number": 10,
+      "rank": "Ten",
+      "element": "Water",
+      "accent": "#5f93c9",
+      "keywords_upright": [
+        "day chu ky",
+        "ket qua",
+        "hoan tat",
+        "gan nang ro hon"
+      ],
+      "keywords_reversed": [
+        "giai tai",
+        "sap xep lai",
+        "buong bot",
+        "hau qua"
+      ],
+      "meaning_upright": "La nay noi ve dong chay cam xuc, su lien ket va cach ban tiep nhan the gioi bang trai tim va truc giac. Muoi danh dau diem day cua chu ky, noi ket qua ro hon nhung cung cho thay gan nang hoac he qua cua no. Trong bo chen, la nay thuong lien quan den cam xuc, ket noi va truc giac va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, dong nuoc cam xuc nay co the dang bi un tac, tran bo hoac kho duoc goi ten mot cach ro rang. Khi dao nguoc, chu ky nay dang doi duoc giai tai, dong lai hoac sap xep lai cho ben vung hon. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/cups_10.webp"
+    },
+    {
+      "id": "cups_11",
+      "name": "Page of Cups",
+      "name_vi": "Tieu Dong Chen",
+      "arcana": "minor",
+      "suit": "cups",
+      "suit_vi": "Chen",
+      "number": 11,
+      "rank": "Page",
+      "element": "Water",
+      "accent": "#5f93c9",
+      "keywords_upright": [
+        "hoc hoi",
+        "tin hieu moi",
+        "to mo",
+        "mo cua"
+      ],
+      "keywords_reversed": [
+        "non tre",
+        "phan tam",
+        "do cho",
+        "thieu dinh huong"
+      ],
+      "meaning_upright": "La nay noi ve dong chay cam xuc, su lien ket va cach ban tiep nhan the gioi bang trai tim va truc giac. Page dem den tam the hoc hoi, thong diep moi va su mo cua nguoi dang buoc vao mot linh vuc bang tri to mo. Trong bo chen, la nay thuong lien quan den cam xuc, ket noi va truc giac va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, dong nuoc cam xuc nay co the dang bi un tac, tran bo hoac kho duoc goi ten mot cach ro rang. O the nguoc, su non tre hoac phan tam co the khien thong diep dep tro nen meo hoac kho giu dinh huong. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/cups_11.webp"
+    },
+    {
+      "id": "cups_12",
+      "name": "Knight of Cups",
+      "name_vi": "Ky Si Chen",
+      "arcana": "minor",
+      "suit": "cups",
+      "suit_vi": "Chen",
+      "number": 12,
+      "rank": "Knight",
+      "element": "Water",
+      "accent": "#5f93c9",
+      "keywords_upright": [
+        "hanh dong",
+        "dong luc",
+        "the tien",
+        "xong len"
+      ],
+      "keywords_reversed": [
+        "hap tap",
+        "qua da",
+        "mat huong",
+        "thieu dieu tiet"
+      ],
+      "meaning_upright": "La nay noi ve dong chay cam xuc, su lien ket va cach ban tiep nhan the gioi bang trai tim va truc giac. Knight day cau chuyen di nhanh hon, nhieu dong luc hon va doi hoi ban dua nang luong vao hanh dong co huong. Trong bo chen, la nay thuong lien quan den cam xuc, ket noi va truc giac va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, dong nuoc cam xuc nay co the dang bi un tac, tran bo hoac kho duoc goi ten mot cach ro rang. Khi dao nguoc, dong luc nay de tro nen hap tap, mat kiem soat hoac chay qua da trong khi muc tieu chua ro. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/cups_12.webp"
+    },
+    {
+      "id": "cups_13",
+      "name": "Queen of Cups",
+      "name_vi": "Nu Hoang Chen",
+      "arcana": "minor",
+      "suit": "cups",
+      "suit_vi": "Chen",
+      "number": 13,
+      "rank": "Queen",
+      "element": "Water",
+      "accent": "#5f93c9",
+      "keywords_upright": [
+        "truong thanh",
+        "noi luc",
+        "tinh te",
+        "dieu huong"
+      ],
+      "keywords_reversed": [
+        "qua nhay",
+        "kiem soat ngam",
+        "lech can",
+        "tu dong"
+      ],
+      "meaning_upright": "La nay noi ve dong chay cam xuc, su lien ket va cach ban tiep nhan the gioi bang trai tim va truc giac. Queen la nang luong truong thanh, biet quan sat va dieu huong linh vuc nay bang su tinh te va noi luc on dinh. Trong bo chen, la nay thuong lien quan den cam xuc, ket noi va truc giac va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, dong nuoc cam xuc nay co the dang bi un tac, tran bo hoac kho duoc goi ten mot cach ro rang. O the nguoc, nang luong nay co the bi lech thanh nhay cam qua muc, kiem soat ngam hoac mat can doi noi tam. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/cups_13.webp"
+    },
+    {
+      "id": "cups_14",
+      "name": "King of Cups",
+      "name_vi": "Quoc Vuong Chen",
+      "arcana": "minor",
+      "suit": "cups",
+      "suit_vi": "Chen",
+      "number": 14,
+      "rank": "King",
+      "element": "Water",
+      "accent": "#5f93c9",
+      "keywords_upright": [
+        "lam chu",
+        "tham quyen",
+        "kinh nghiem",
+        "trach nhiem"
+      ],
+      "keywords_reversed": [
+        "cung nhac",
+        "qua uu the",
+        "lech dung quyen",
+        "thieu lang nghe"
+      ],
+      "meaning_upright": "La nay noi ve dong chay cam xuc, su lien ket va cach ban tiep nhan the gioi bang trai tim va truc giac. King the hien muc do lam chu cao nhat cua linh vuc nay, noi kinh nghiem va tham quyen di kem trach nhiem ro rang. Trong bo chen, la nay thuong lien quan den cam xuc, ket noi va truc giac va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, dong nuoc cam xuc nay co the dang bi un tac, tran bo hoac kho duoc goi ten mot cach ro rang. Khi dao nguoc, cach lam chu de chuyen thanh cung nhac, qua uu the hoac mat su dienh dam can thiet. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/cups_14.webp"
+    },
+    {
+      "id": "swords_01",
+      "name": "Ace of Swords",
+      "name_vi": "At Kiem",
+      "arcana": "minor",
+      "suit": "swords",
+      "suit_vi": "Kiem",
+      "number": 1,
+      "rank": "Ace",
+      "element": "Air",
+      "accent": "#93b5d0",
+      "keywords_upright": [
+        "co hoi",
+        "khoi dau",
+        "hat giong",
+        "tien nang"
+      ],
+      "keywords_reversed": [
+        "bo lo",
+        "cham nhip",
+        "nghi ngo",
+        "dong lai"
+      ],
+      "meaning_upright": "La nay mang nang luong cua khong khi, lien quan den cach ban suy nghi, nhin van de va cat nghia su that. Mo ra mot co hoi moi va mot nguon nang luong nguyen so de bat dau. Trong bo kiem, la nay thuong lien quan den tu duy, su that va xung dot va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, nang luong tri oc nay de bi roi, cang thang, tu bao chua hoac ket luan sai lech. Co hoi van co nhung de bi bo lo, cham nhip hoac chua duoc don nhan dung luc. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/swords_01.webp"
+    },
+    {
+      "id": "swords_02",
+      "name": "Two of Swords",
+      "name_vi": "Hai Kiem",
+      "arcana": "minor",
+      "suit": "swords",
+      "suit_vi": "Kiem",
+      "number": 2,
+      "rank": "Two",
+      "element": "Air",
+      "accent": "#93b5d0",
+      "keywords_upright": [
+        "can bang",
+        "lua chon",
+        "doi thoai",
+        "can doi"
+      ],
+      "keywords_reversed": [
+        "be tac",
+        "do du",
+        "lech can",
+        "kho chon"
+      ],
+      "meaning_upright": "La nay mang nang luong cua khong khi, lien quan den cach ban suy nghi, nhin van de va cat nghia su that. Tap trung vao can doi, lua chon va cach hai luc keo dang doi thoai voi nhau. Trong bo kiem, la nay thuong lien quan den tu duy, su that va xung dot va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, nang luong tri oc nay de bi roi, cang thang, tu bao chua hoac ket luan sai lech. Can canh bao su lung tung, treo quyet dinh hoac lech mat can bang giua hai huong. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/swords_02.webp"
+    },
+    {
+      "id": "swords_03",
+      "name": "Three of Swords",
+      "name_vi": "Ba Kiem",
+      "arcana": "minor",
+      "suit": "swords",
+      "suit_vi": "Kiem",
+      "number": 3,
+      "rank": "Three",
+      "element": "Air",
+      "accent": "#93b5d0",
+      "keywords_upright": [
+        "mo rong",
+        "phoi hop",
+        "tam nhin",
+        "bat dau co ket qua"
+      ],
+      "keywords_reversed": [
+        "tro ngai",
+        "roi rac",
+        "cham tien",
+        "lech huong"
+      ],
+      "meaning_upright": "La nay mang nang luong cua khong khi, lien quan den cach ban suy nghi, nhin van de va cat nghia su that. Nang luong ba thuong lien quan den mo rong, phoi hop va thay ket qua dau tien dang hinh thanh. Trong bo kiem, la nay thuong lien quan den tu duy, su that va xung dot va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, nang luong tri oc nay de bi roi, cang thang, tu bao chua hoac ket luan sai lech. Ban co the dang gap tro ngai trong phoi hop hoac du an mo ra nhung chua di den dau. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/swords_03.webp"
+    },
+    {
+      "id": "swords_04",
+      "name": "Four of Swords",
+      "name_vi": "Bon Kiem",
+      "arcana": "minor",
+      "suit": "swords",
+      "suit_vi": "Kiem",
+      "number": 4,
+      "rank": "Four",
+      "element": "Air",
+      "accent": "#93b5d0",
+      "keywords_upright": [
+        "on dinh",
+        "nen tang",
+        "giu nhip",
+        "ne nep"
+      ],
+      "keywords_reversed": [
+        "lung lay",
+        "dong cung",
+        "thieu linh hoat",
+        "bat an"
+      ],
+      "meaning_upright": "La nay mang nang luong cua khong khi, lien quan den cach ban suy nghi, nhin van de va cat nghia su that. La bai dua nang luong ve on dinh, ne nep va mot nen tang de ban dung chan lau hon. Trong bo kiem, la nay thuong lien quan den tu duy, su that va xung dot va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, nang luong tri oc nay de bi roi, cang thang, tu bao chua hoac ket luan sai lech. Khi dao nguoc, su on dinh nay co the bi lung lay hoac tro thanh qua dong khien nang luong khong luan chuyen. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/swords_04.webp"
+    },
+    {
+      "id": "swords_05",
+      "name": "Five of Swords",
+      "name_vi": "Nam Kiem",
+      "arcana": "minor",
+      "suit": "swords",
+      "suit_vi": "Kiem",
+      "number": 5,
+      "rank": "Five",
+      "element": "Air",
+      "accent": "#93b5d0",
+      "keywords_upright": [
+        "thay doi",
+        "xung dot",
+        "cang co",
+        "thich nghi"
+      ],
+      "keywords_reversed": [
+        "ne tranh",
+        "giam cang",
+        "am i",
+        "sua lai"
+      ],
+      "meaning_upright": "La nay mang nang luong cua khong khi, lien quan den cach ban suy nghi, nhin van de va cat nghia su that. Nam la pha dao dong, xung dot nho hoac su thay doi buoc ban phai dieu chinh nhanh. Trong bo kiem, la nay thuong lien quan den tu duy, su that va xung dot va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, nang luong tri oc nay de bi roi, cang thang, tu bao chua hoac ket luan sai lech. O chieu nguoc, xung dot co the dang diu lai, bi ne tranh hoac chuyen thanh cang thang ngam. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/swords_05.webp"
+    },
+    {
+      "id": "swords_06",
+      "name": "Six of Swords",
+      "name_vi": "Sau Kiem",
+      "arcana": "minor",
+      "suit": "swords",
+      "suit_vi": "Kiem",
+      "number": 6,
+      "rank": "Six",
+      "element": "Air",
+      "accent": "#93b5d0",
+      "keywords_upright": [
+        "hai hoa",
+        "nang do",
+        "chuyen tiep",
+        "de tho hon"
+      ],
+      "keywords_reversed": [
+        "mat can",
+        "keo lai",
+        "khong deu",
+        "lech doi"
+      ],
+      "meaning_upright": "La nay mang nang luong cua khong khi, lien quan den cach ban suy nghi, nhin van de va cat nghia su that. Sau thuong dem den su hai hoa hon, mot nhịp chuyen tiep de dang hoac cam giac duoc nang do. Trong bo kiem, la nay thuong lien quan den tu duy, su that va xung dot va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, nang luong tri oc nay de bi roi, cang thang, tu bao chua hoac ket luan sai lech. Khi dao nguoc, dong chay de bi cham lai, mat can doi hoac co su lech giua cho va nhan. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/swords_06.webp"
+    },
+    {
+      "id": "swords_07",
+      "name": "Seven of Swords",
+      "name_vi": "Bay Kiem",
+      "arcana": "minor",
+      "suit": "swords",
+      "suit_vi": "Kiem",
+      "number": 7,
+      "rank": "Seven",
+      "element": "Air",
+      "accent": "#93b5d0",
+      "keywords_upright": [
+        "thu thach",
+        "giu huong",
+        "chien luoc",
+        "niem tin"
+      ],
+      "keywords_reversed": [
+        "met moi",
+        "lung lay",
+        "do du",
+        "mat the"
+      ],
+      "meaning_upright": "La nay mang nang luong cua khong khi, lien quan den cach ban suy nghi, nhin van de va cat nghia su that. Bay goi den bai kiem tra ve niem tin, chien luoc va kha nang giu huong khi ap luc tang len. Trong bo kiem, la nay thuong lien quan den tu duy, su that va xung dot va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, nang luong tri oc nay de bi roi, cang thang, tu bao chua hoac ket luan sai lech. O the nguoc, ban co the met moi, phan van hoac dung sai cach de bao ve dieu quan trong. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/swords_07.webp"
+    },
+    {
+      "id": "swords_08",
+      "name": "Eight of Swords",
+      "name_vi": "Tam Kiem",
+      "arcana": "minor",
+      "suit": "swords",
+      "suit_vi": "Kiem",
+      "number": 8,
+      "rank": "Eight",
+      "element": "Air",
+      "accent": "#93b5d0",
+      "keywords_upright": [
+        "tien trien",
+        "nhip do",
+        "dong luc",
+        "lap lai co y thuc"
+      ],
+      "keywords_reversed": [
+        "tri tre",
+        "mat nhip",
+        "lap lai vo thuc",
+        "tre"
+      ],
+      "meaning_upright": "La nay mang nang luong cua khong khi, lien quan den cach ban suy nghi, nhin van de va cat nghia su that. Tam la nang luong cua dong chay ro hon, toc do cao hon hoac su lap lai giup tao thanh ky nang. Trong bo kiem, la nay thuong lien quan den tu duy, su that va xung dot va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, nang luong tri oc nay de bi roi, cang thang, tu bao chua hoac ket luan sai lech. Khi dao nguoc, nhip do de bi dut, tre hoac lap lai mot cach vo thuc ma khong tao tien bo. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/swords_08.webp"
+    },
+    {
+      "id": "swords_09",
+      "name": "Nine of Swords",
+      "name_vi": "Chin Kiem",
+      "arcana": "minor",
+      "suit": "swords",
+      "suit_vi": "Kiem",
+      "number": 9,
+      "rank": "Nine",
+      "element": "Air",
+      "accent": "#93b5d0",
+      "keywords_upright": [
+        "gan dich",
+        "kinh nghiem",
+        "ben bi",
+        "can dich"
+      ],
+      "keywords_reversed": [
+        "can suc",
+        "lo au",
+        "phong thu",
+        "kho buong"
+      ],
+      "meaning_upright": "La nay mang nang luong cua khong khi, lien quan den cach ban suy nghi, nhin van de va cat nghia su that. Chin la muc sat dich, noi ban co kinh nghiem va can them su ben bi de ket chu ky hien tai. Trong bo kiem, la nay thuong lien quan den tu duy, su that va xung dot va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, nang luong tri oc nay de bi roi, cang thang, tu bao chua hoac ket luan sai lech. O chieu nguoc, cam giac gan dich co the di kem can suc, lo au hoac kho buong su phong thu. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/swords_09.webp"
+    },
+    {
+      "id": "swords_10",
+      "name": "Ten of Swords",
+      "name_vi": "Muoi Kiem",
+      "arcana": "minor",
+      "suit": "swords",
+      "suit_vi": "Kiem",
+      "number": 10,
+      "rank": "Ten",
+      "element": "Air",
+      "accent": "#93b5d0",
+      "keywords_upright": [
+        "day chu ky",
+        "ket qua",
+        "hoan tat",
+        "gan nang ro hon"
+      ],
+      "keywords_reversed": [
+        "giai tai",
+        "sap xep lai",
+        "buong bot",
+        "hau qua"
+      ],
+      "meaning_upright": "La nay mang nang luong cua khong khi, lien quan den cach ban suy nghi, nhin van de va cat nghia su that. Muoi danh dau diem day cua chu ky, noi ket qua ro hon nhung cung cho thay gan nang hoac he qua cua no. Trong bo kiem, la nay thuong lien quan den tu duy, su that va xung dot va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, nang luong tri oc nay de bi roi, cang thang, tu bao chua hoac ket luan sai lech. Khi dao nguoc, chu ky nay dang doi duoc giai tai, dong lai hoac sap xep lai cho ben vung hon. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/swords_10.webp"
+    },
+    {
+      "id": "swords_11",
+      "name": "Page of Swords",
+      "name_vi": "Tieu Dong Kiem",
+      "arcana": "minor",
+      "suit": "swords",
+      "suit_vi": "Kiem",
+      "number": 11,
+      "rank": "Page",
+      "element": "Air",
+      "accent": "#93b5d0",
+      "keywords_upright": [
+        "hoc hoi",
+        "tin hieu moi",
+        "to mo",
+        "mo cua"
+      ],
+      "keywords_reversed": [
+        "non tre",
+        "phan tam",
+        "do cho",
+        "thieu dinh huong"
+      ],
+      "meaning_upright": "La nay mang nang luong cua khong khi, lien quan den cach ban suy nghi, nhin van de va cat nghia su that. Page dem den tam the hoc hoi, thong diep moi va su mo cua nguoi dang buoc vao mot linh vuc bang tri to mo. Trong bo kiem, la nay thuong lien quan den tu duy, su that va xung dot va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, nang luong tri oc nay de bi roi, cang thang, tu bao chua hoac ket luan sai lech. O the nguoc, su non tre hoac phan tam co the khien thong diep dep tro nen meo hoac kho giu dinh huong. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/swords_11.webp"
+    },
+    {
+      "id": "swords_12",
+      "name": "Knight of Swords",
+      "name_vi": "Ky Si Kiem",
+      "arcana": "minor",
+      "suit": "swords",
+      "suit_vi": "Kiem",
+      "number": 12,
+      "rank": "Knight",
+      "element": "Air",
+      "accent": "#93b5d0",
+      "keywords_upright": [
+        "hanh dong",
+        "dong luc",
+        "the tien",
+        "xong len"
+      ],
+      "keywords_reversed": [
+        "hap tap",
+        "qua da",
+        "mat huong",
+        "thieu dieu tiet"
+      ],
+      "meaning_upright": "La nay mang nang luong cua khong khi, lien quan den cach ban suy nghi, nhin van de va cat nghia su that. Knight day cau chuyen di nhanh hon, nhieu dong luc hon va doi hoi ban dua nang luong vao hanh dong co huong. Trong bo kiem, la nay thuong lien quan den tu duy, su that va xung dot va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, nang luong tri oc nay de bi roi, cang thang, tu bao chua hoac ket luan sai lech. Khi dao nguoc, dong luc nay de tro nen hap tap, mat kiem soat hoac chay qua da trong khi muc tieu chua ro. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/swords_12.webp"
+    },
+    {
+      "id": "swords_13",
+      "name": "Queen of Swords",
+      "name_vi": "Nu Hoang Kiem",
+      "arcana": "minor",
+      "suit": "swords",
+      "suit_vi": "Kiem",
+      "number": 13,
+      "rank": "Queen",
+      "element": "Air",
+      "accent": "#93b5d0",
+      "keywords_upright": [
+        "truong thanh",
+        "noi luc",
+        "tinh te",
+        "dieu huong"
+      ],
+      "keywords_reversed": [
+        "qua nhay",
+        "kiem soat ngam",
+        "lech can",
+        "tu dong"
+      ],
+      "meaning_upright": "La nay mang nang luong cua khong khi, lien quan den cach ban suy nghi, nhin van de va cat nghia su that. Queen la nang luong truong thanh, biet quan sat va dieu huong linh vuc nay bang su tinh te va noi luc on dinh. Trong bo kiem, la nay thuong lien quan den tu duy, su that va xung dot va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, nang luong tri oc nay de bi roi, cang thang, tu bao chua hoac ket luan sai lech. O the nguoc, nang luong nay co the bi lech thanh nhay cam qua muc, kiem soat ngam hoac mat can doi noi tam. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/swords_13.webp"
+    },
+    {
+      "id": "swords_14",
+      "name": "King of Swords",
+      "name_vi": "Quoc Vuong Kiem",
+      "arcana": "minor",
+      "suit": "swords",
+      "suit_vi": "Kiem",
+      "number": 14,
+      "rank": "King",
+      "element": "Air",
+      "accent": "#93b5d0",
+      "keywords_upright": [
+        "lam chu",
+        "tham quyen",
+        "kinh nghiem",
+        "trach nhiem"
+      ],
+      "keywords_reversed": [
+        "cung nhac",
+        "qua uu the",
+        "lech dung quyen",
+        "thieu lang nghe"
+      ],
+      "meaning_upright": "La nay mang nang luong cua khong khi, lien quan den cach ban suy nghi, nhin van de va cat nghia su that. King the hien muc do lam chu cao nhat cua linh vuc nay, noi kinh nghiem va tham quyen di kem trach nhiem ro rang. Trong bo kiem, la nay thuong lien quan den tu duy, su that va xung dot va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, nang luong tri oc nay de bi roi, cang thang, tu bao chua hoac ket luan sai lech. Khi dao nguoc, cach lam chu de chuyen thanh cung nhac, qua uu the hoac mat su dienh dam can thiet. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/swords_14.webp"
+    },
+    {
+      "id": "pentacles_01",
+      "name": "Ace of Pentacles",
+      "name_vi": "At Tien",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "suit_vi": "Tien",
+      "number": 1,
+      "rank": "Ace",
+      "element": "Earth",
+      "accent": "#78a55a",
+      "keywords_upright": [
+        "co hoi",
+        "khoi dau",
+        "hat giong",
+        "tien nang"
+      ],
+      "keywords_reversed": [
+        "bo lo",
+        "cham nhip",
+        "nghi ngo",
+        "dong lai"
+      ],
+      "meaning_upright": "La nay dai dien cho dat, tien do cu the, nhung thu co the xay dung, cham soc va giu cho ben vung. Mo ra mot co hoi moi va mot nguon nang luong nguyen so de bat dau. Trong bo tien, la nay thuong lien quan den cong viec, tai nguyen va tinh thuc te va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, van de thuc te de roi vao tri tre, bat can hoac qua chap vao su an toan be ngoai. Co hoi van co nhung de bi bo lo, cham nhip hoac chua duoc don nhan dung luc. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/pentacles_01.webp"
+    },
+    {
+      "id": "pentacles_02",
+      "name": "Two of Pentacles",
+      "name_vi": "Hai Tien",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "suit_vi": "Tien",
+      "number": 2,
+      "rank": "Two",
+      "element": "Earth",
+      "accent": "#78a55a",
+      "keywords_upright": [
+        "can bang",
+        "lua chon",
+        "doi thoai",
+        "can doi"
+      ],
+      "keywords_reversed": [
+        "be tac",
+        "do du",
+        "lech can",
+        "kho chon"
+      ],
+      "meaning_upright": "La nay dai dien cho dat, tien do cu the, nhung thu co the xay dung, cham soc va giu cho ben vung. Tap trung vao can doi, lua chon va cach hai luc keo dang doi thoai voi nhau. Trong bo tien, la nay thuong lien quan den cong viec, tai nguyen va tinh thuc te va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, van de thuc te de roi vao tri tre, bat can hoac qua chap vao su an toan be ngoai. Can canh bao su lung tung, treo quyet dinh hoac lech mat can bang giua hai huong. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/pentacles_02.webp"
+    },
+    {
+      "id": "pentacles_03",
+      "name": "Three of Pentacles",
+      "name_vi": "Ba Tien",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "suit_vi": "Tien",
+      "number": 3,
+      "rank": "Three",
+      "element": "Earth",
+      "accent": "#78a55a",
+      "keywords_upright": [
+        "mo rong",
+        "phoi hop",
+        "tam nhin",
+        "bat dau co ket qua"
+      ],
+      "keywords_reversed": [
+        "tro ngai",
+        "roi rac",
+        "cham tien",
+        "lech huong"
+      ],
+      "meaning_upright": "La nay dai dien cho dat, tien do cu the, nhung thu co the xay dung, cham soc va giu cho ben vung. Nang luong ba thuong lien quan den mo rong, phoi hop va thay ket qua dau tien dang hinh thanh. Trong bo tien, la nay thuong lien quan den cong viec, tai nguyen va tinh thuc te va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, van de thuc te de roi vao tri tre, bat can hoac qua chap vao su an toan be ngoai. Ban co the dang gap tro ngai trong phoi hop hoac du an mo ra nhung chua di den dau. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/pentacles_03.webp"
+    },
+    {
+      "id": "pentacles_04",
+      "name": "Four of Pentacles",
+      "name_vi": "Bon Tien",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "suit_vi": "Tien",
+      "number": 4,
+      "rank": "Four",
+      "element": "Earth",
+      "accent": "#78a55a",
+      "keywords_upright": [
+        "on dinh",
+        "nen tang",
+        "giu nhip",
+        "ne nep"
+      ],
+      "keywords_reversed": [
+        "lung lay",
+        "dong cung",
+        "thieu linh hoat",
+        "bat an"
+      ],
+      "meaning_upright": "La nay dai dien cho dat, tien do cu the, nhung thu co the xay dung, cham soc va giu cho ben vung. La bai dua nang luong ve on dinh, ne nep va mot nen tang de ban dung chan lau hon. Trong bo tien, la nay thuong lien quan den cong viec, tai nguyen va tinh thuc te va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, van de thuc te de roi vao tri tre, bat can hoac qua chap vao su an toan be ngoai. Khi dao nguoc, su on dinh nay co the bi lung lay hoac tro thanh qua dong khien nang luong khong luan chuyen. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/pentacles_04.webp"
+    },
+    {
+      "id": "pentacles_05",
+      "name": "Five of Pentacles",
+      "name_vi": "Nam Tien",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "suit_vi": "Tien",
+      "number": 5,
+      "rank": "Five",
+      "element": "Earth",
+      "accent": "#78a55a",
+      "keywords_upright": [
+        "thay doi",
+        "xung dot",
+        "cang co",
+        "thich nghi"
+      ],
+      "keywords_reversed": [
+        "ne tranh",
+        "giam cang",
+        "am i",
+        "sua lai"
+      ],
+      "meaning_upright": "La nay dai dien cho dat, tien do cu the, nhung thu co the xay dung, cham soc va giu cho ben vung. Nam la pha dao dong, xung dot nho hoac su thay doi buoc ban phai dieu chinh nhanh. Trong bo tien, la nay thuong lien quan den cong viec, tai nguyen va tinh thuc te va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, van de thuc te de roi vao tri tre, bat can hoac qua chap vao su an toan be ngoai. O chieu nguoc, xung dot co the dang diu lai, bi ne tranh hoac chuyen thanh cang thang ngam. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/pentacles_05.webp"
+    },
+    {
+      "id": "pentacles_06",
+      "name": "Six of Pentacles",
+      "name_vi": "Sau Tien",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "suit_vi": "Tien",
+      "number": 6,
+      "rank": "Six",
+      "element": "Earth",
+      "accent": "#78a55a",
+      "keywords_upright": [
+        "hai hoa",
+        "nang do",
+        "chuyen tiep",
+        "de tho hon"
+      ],
+      "keywords_reversed": [
+        "mat can",
+        "keo lai",
+        "khong deu",
+        "lech doi"
+      ],
+      "meaning_upright": "La nay dai dien cho dat, tien do cu the, nhung thu co the xay dung, cham soc va giu cho ben vung. Sau thuong dem den su hai hoa hon, mot nhịp chuyen tiep de dang hoac cam giac duoc nang do. Trong bo tien, la nay thuong lien quan den cong viec, tai nguyen va tinh thuc te va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, van de thuc te de roi vao tri tre, bat can hoac qua chap vao su an toan be ngoai. Khi dao nguoc, dong chay de bi cham lai, mat can doi hoac co su lech giua cho va nhan. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/pentacles_06.webp"
+    },
+    {
+      "id": "pentacles_07",
+      "name": "Seven of Pentacles",
+      "name_vi": "Bay Tien",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "suit_vi": "Tien",
+      "number": 7,
+      "rank": "Seven",
+      "element": "Earth",
+      "accent": "#78a55a",
+      "keywords_upright": [
+        "thu thach",
+        "giu huong",
+        "chien luoc",
+        "niem tin"
+      ],
+      "keywords_reversed": [
+        "met moi",
+        "lung lay",
+        "do du",
+        "mat the"
+      ],
+      "meaning_upright": "La nay dai dien cho dat, tien do cu the, nhung thu co the xay dung, cham soc va giu cho ben vung. Bay goi den bai kiem tra ve niem tin, chien luoc va kha nang giu huong khi ap luc tang len. Trong bo tien, la nay thuong lien quan den cong viec, tai nguyen va tinh thuc te va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, van de thuc te de roi vao tri tre, bat can hoac qua chap vao su an toan be ngoai. O the nguoc, ban co the met moi, phan van hoac dung sai cach de bao ve dieu quan trong. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/pentacles_07.webp"
+    },
+    {
+      "id": "pentacles_08",
+      "name": "Eight of Pentacles",
+      "name_vi": "Tam Tien",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "suit_vi": "Tien",
+      "number": 8,
+      "rank": "Eight",
+      "element": "Earth",
+      "accent": "#78a55a",
+      "keywords_upright": [
+        "tien trien",
+        "nhip do",
+        "dong luc",
+        "lap lai co y thuc"
+      ],
+      "keywords_reversed": [
+        "tri tre",
+        "mat nhip",
+        "lap lai vo thuc",
+        "tre"
+      ],
+      "meaning_upright": "La nay dai dien cho dat, tien do cu the, nhung thu co the xay dung, cham soc va giu cho ben vung. Tam la nang luong cua dong chay ro hon, toc do cao hon hoac su lap lai giup tao thanh ky nang. Trong bo tien, la nay thuong lien quan den cong viec, tai nguyen va tinh thuc te va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, van de thuc te de roi vao tri tre, bat can hoac qua chap vao su an toan be ngoai. Khi dao nguoc, nhip do de bi dut, tre hoac lap lai mot cach vo thuc ma khong tao tien bo. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/pentacles_08.webp"
+    },
+    {
+      "id": "pentacles_09",
+      "name": "Nine of Pentacles",
+      "name_vi": "Chin Tien",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "suit_vi": "Tien",
+      "number": 9,
+      "rank": "Nine",
+      "element": "Earth",
+      "accent": "#78a55a",
+      "keywords_upright": [
+        "gan dich",
+        "kinh nghiem",
+        "ben bi",
+        "can dich"
+      ],
+      "keywords_reversed": [
+        "can suc",
+        "lo au",
+        "phong thu",
+        "kho buong"
+      ],
+      "meaning_upright": "La nay dai dien cho dat, tien do cu the, nhung thu co the xay dung, cham soc va giu cho ben vung. Chin la muc sat dich, noi ban co kinh nghiem va can them su ben bi de ket chu ky hien tai. Trong bo tien, la nay thuong lien quan den cong viec, tai nguyen va tinh thuc te va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, van de thuc te de roi vao tri tre, bat can hoac qua chap vao su an toan be ngoai. O chieu nguoc, cam giac gan dich co the di kem can suc, lo au hoac kho buong su phong thu. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/pentacles_09.webp"
+    },
+    {
+      "id": "pentacles_10",
+      "name": "Ten of Pentacles",
+      "name_vi": "Muoi Tien",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "suit_vi": "Tien",
+      "number": 10,
+      "rank": "Ten",
+      "element": "Earth",
+      "accent": "#78a55a",
+      "keywords_upright": [
+        "day chu ky",
+        "ket qua",
+        "hoan tat",
+        "gan nang ro hon"
+      ],
+      "keywords_reversed": [
+        "giai tai",
+        "sap xep lai",
+        "buong bot",
+        "hau qua"
+      ],
+      "meaning_upright": "La nay dai dien cho dat, tien do cu the, nhung thu co the xay dung, cham soc va giu cho ben vung. Muoi danh dau diem day cua chu ky, noi ket qua ro hon nhung cung cho thay gan nang hoac he qua cua no. Trong bo tien, la nay thuong lien quan den cong viec, tai nguyen va tinh thuc te va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, van de thuc te de roi vao tri tre, bat can hoac qua chap vao su an toan be ngoai. Khi dao nguoc, chu ky nay dang doi duoc giai tai, dong lai hoac sap xep lai cho ben vung hon. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/pentacles_10.webp"
+    },
+    {
+      "id": "pentacles_11",
+      "name": "Page of Pentacles",
+      "name_vi": "Tieu Dong Tien",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "suit_vi": "Tien",
+      "number": 11,
+      "rank": "Page",
+      "element": "Earth",
+      "accent": "#78a55a",
+      "keywords_upright": [
+        "hoc hoi",
+        "tin hieu moi",
+        "to mo",
+        "mo cua"
+      ],
+      "keywords_reversed": [
+        "non tre",
+        "phan tam",
+        "do cho",
+        "thieu dinh huong"
+      ],
+      "meaning_upright": "La nay dai dien cho dat, tien do cu the, nhung thu co the xay dung, cham soc va giu cho ben vung. Page dem den tam the hoc hoi, thong diep moi va su mo cua nguoi dang buoc vao mot linh vuc bang tri to mo. Trong bo tien, la nay thuong lien quan den cong viec, tai nguyen va tinh thuc te va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, van de thuc te de roi vao tri tre, bat can hoac qua chap vao su an toan be ngoai. O the nguoc, su non tre hoac phan tam co the khien thong diep dep tro nen meo hoac kho giu dinh huong. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/pentacles_11.webp"
+    },
+    {
+      "id": "pentacles_12",
+      "name": "Knight of Pentacles",
+      "name_vi": "Ky Si Tien",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "suit_vi": "Tien",
+      "number": 12,
+      "rank": "Knight",
+      "element": "Earth",
+      "accent": "#78a55a",
+      "keywords_upright": [
+        "hanh dong",
+        "dong luc",
+        "the tien",
+        "xong len"
+      ],
+      "keywords_reversed": [
+        "hap tap",
+        "qua da",
+        "mat huong",
+        "thieu dieu tiet"
+      ],
+      "meaning_upright": "La nay dai dien cho dat, tien do cu the, nhung thu co the xay dung, cham soc va giu cho ben vung. Knight day cau chuyen di nhanh hon, nhieu dong luc hon va doi hoi ban dua nang luong vao hanh dong co huong. Trong bo tien, la nay thuong lien quan den cong viec, tai nguyen va tinh thuc te va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, van de thuc te de roi vao tri tre, bat can hoac qua chap vao su an toan be ngoai. Khi dao nguoc, dong luc nay de tro nen hap tap, mat kiem soat hoac chay qua da trong khi muc tieu chua ro. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/pentacles_12.webp"
+    },
+    {
+      "id": "pentacles_13",
+      "name": "Queen of Pentacles",
+      "name_vi": "Nu Hoang Tien",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "suit_vi": "Tien",
+      "number": 13,
+      "rank": "Queen",
+      "element": "Earth",
+      "accent": "#78a55a",
+      "keywords_upright": [
+        "truong thanh",
+        "noi luc",
+        "tinh te",
+        "dieu huong"
+      ],
+      "keywords_reversed": [
+        "qua nhay",
+        "kiem soat ngam",
+        "lech can",
+        "tu dong"
+      ],
+      "meaning_upright": "La nay dai dien cho dat, tien do cu the, nhung thu co the xay dung, cham soc va giu cho ben vung. Queen la nang luong truong thanh, biet quan sat va dieu huong linh vuc nay bang su tinh te va noi luc on dinh. Trong bo tien, la nay thuong lien quan den cong viec, tai nguyen va tinh thuc te va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, van de thuc te de roi vao tri tre, bat can hoac qua chap vao su an toan be ngoai. O the nguoc, nang luong nay co the bi lech thanh nhay cam qua muc, kiem soat ngam hoac mat can doi noi tam. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/pentacles_13.webp"
+    },
+    {
+      "id": "pentacles_14",
+      "name": "King of Pentacles",
+      "name_vi": "Quoc Vuong Tien",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "suit_vi": "Tien",
+      "number": 14,
+      "rank": "King",
+      "element": "Earth",
+      "accent": "#78a55a",
+      "keywords_upright": [
+        "lam chu",
+        "tham quyen",
+        "kinh nghiem",
+        "trach nhiem"
+      ],
+      "keywords_reversed": [
+        "cung nhac",
+        "qua uu the",
+        "lech dung quyen",
+        "thieu lang nghe"
+      ],
+      "meaning_upright": "La nay dai dien cho dat, tien do cu the, nhung thu co the xay dung, cham soc va giu cho ben vung. King the hien muc do lam chu cao nhat cua linh vuc nay, noi kinh nghiem va tham quyen di kem trach nhiem ro rang. Trong bo tien, la nay thuong lien quan den cong viec, tai nguyen va tinh thuc te va cach ban dua nang luong do vao doi song.",
+      "meaning_reversed": "Khi dao nguoc, van de thuc te de roi vao tri tre, bat can hoac qua chap vao su an toan be ngoai. Khi dao nguoc, cach lam chu de chuyen thanh cung nhac, qua uu the hoac mat su dienh dam can thiet. Day la loi nhac de dieu chinh nhip do, cach uu tien va cach ban dang day hoac giu nang luong nay trong minh.",
+      "image": "assets/cards/pentacles_14.webp"
+    }
+  ]
+}

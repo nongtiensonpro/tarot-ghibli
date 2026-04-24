@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Reading | Tarot Ghibli Inspired</title>
+    <meta
+      name="description"
+      content="Khung trang reading cho dự án Tarot Ghibli-inspired."
+    />
+    <meta name="theme-color" content="#1c1440" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Reading | Tarot Ghibli Inspired" />
+    <meta
+      property="og:description"
+      content="Xem trai bai 1 la, 3 la hoac Celtic Cross va doc y nghia tung vi tri."
+    />
+    <meta property="og:image" content="/tarot-ghibli/assets/ui/og-cover.svg" />
+    <script type="module" src="/src/scripts/pages/reading.js"></script>
+  </head>
+  <body data-page="reading">
+    <a class="skip-link" href="#main-content">Bo qua dieu huong va den noi dung chinh</a>
+    <div class="site-shell">
+      <header class="site-header">
+        <a class="brand-mark" href="./index.html">Tarot Ghibli</a>
+        <nav class="site-nav" aria-label="Điều hướng chính">
+          <a href="./index.html">Trang chủ</a>
+          <a href="./reading.html" aria-current="page">Trải bài</a>
+          <a href="./explore.html">Tra cứu</a>
+        </nav>
+      </header>
+
+      <main class="page-hero reading-shell" data-reading-root id="main-content">
+        <p class="eyebrow" data-reading-eyebrow>Reading</p>
+        <h1 data-reading-title>Dang tai trai bai...</h1>
+        <p class="page-copy" data-reading-copy>
+          Trang nay se nhan ket qua tu tarot engine va hien trang thai phu hop khi co hoac chua
+          co du lieu trong session.
+        </p>
+
+        <section class="reading-summary" data-reading-summary hidden aria-live="polite">
+          <div class="reading-summary__meta">
+            <div>
+              <span class="summary-label">Spread</span>
+              <strong data-summary-spread>-</strong>
+            </div>
+            <div>
+              <span class="summary-label">Reversed</span>
+              <strong data-summary-reversed>-</strong>
+            </div>
+            <div>
+              <span class="summary-label">So la</span>
+              <strong data-summary-count>-</strong>
+            </div>
+          </div>
+
+          <div class="reading-layout" data-reading-layout>
+            <section class="spread-board" aria-label="Trai bai">
+              <ol class="reading-spread" data-reading-spread></ol>
+            </section>
+
+            <aside class="reading-detail" data-reading-detail-panel>
+              <p class="reading-detail__eyebrow" data-detail-position>Chon mot la bai</p>
+              <h2 class="reading-detail__title" data-detail-name>Reading detail</h2>
+              <p class="reading-detail__meta" data-detail-meta>
+                Nhan vao tung la bai de xem ten, tu khoa va nghia chi tiet.
+              </p>
+
+              <div class="reading-detail__keywords" data-detail-keywords></div>
+
+              <div class="reading-detail__meaning">
+                <h3>Nghia chinh</h3>
+                <p data-detail-meaning>
+                  Chi tiet cua la bai duoc chon se hien tai day. Phase 4 bo sung panel nay de
+                  reading page co the doc bai tung la mot cach ro rang.
+                </p>
+              </div>
+            </aside>
+          </div>
+        </section>
+
+        <div class="hero-actions">
+          <a class="button-primary" href="./index.html">Quay lai trang chu</a>
+          <a class="button-secondary" href="./explore.html">Tra cuu bo bai</a>
+        </div>
+      </main>
+    </div>
+  </body>
+</html>

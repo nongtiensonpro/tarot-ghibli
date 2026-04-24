@@ -1,0 +1,22 @@
+{
+  "name": "tarot-ghibli",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Static tarot reading site scaffolded with Vite for GitHub Pages.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && node scripts/create-nojekyll.mjs",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "tarot",
+    "vite",
+    "static-site"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^8.0.10"
+  }
+}

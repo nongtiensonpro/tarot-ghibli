@@ -1,0 +1,88 @@
+@media (prefers-reduced-motion: no-preference) {
+  .page-hero {
+    animation: fade-up 600ms ease both;
+  }
+
+  .feature-card {
+    animation: card-float 6s ease-in-out infinite;
+  }
+
+  .card-left {
+    animation-delay: 0s;
+  }
+
+  .card-center {
+    animation-delay: 1.1s;
+  }
+
+  .card-right {
+    animation-delay: 2.2s;
+  }
+
+  .cloud {
+    animation: cloud-drift 26s linear infinite;
+  }
+
+  .cloud-two {
+    animation-duration: 32s;
+  }
+
+  .cloud-three {
+    animation-duration: 36s;
+  }
+
+  .reading-spread[data-ready="true"] .tarot-card {
+    animation: spread-reveal 700ms ease both;
+    animation-delay: calc(var(--reveal-index, 0) * 140ms);
+  }
+
+  .card-catalog[data-ready="true"] .catalog-card {
+    animation: spread-reveal 520ms ease both;
+    animation-delay: calc(var(--reveal-index, 0) * 36ms);
+  }
+}
+
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes card-float {
+  0%,
+  100% {
+    transform: translateY(0) rotate(var(--card-rotation, 0deg));
+  }
+
+  50% {
+    transform: translateY(-12px) rotate(var(--card-rotation, 0deg));
+  }
+}
+
+@keyframes cloud-drift {
+  from {
+    transform: translateX(-6%);
+  }
+
+  to {
+    transform: translateX(8%);
+  }
+}
+
+@keyframes spread-reveal {
+  from {
+    opacity: 0;
+    transform: translateY(18px) scale(0.96);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}

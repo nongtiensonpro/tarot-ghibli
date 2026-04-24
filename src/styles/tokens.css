@@ -1,0 +1,31 @@
+:root {
+  --bg-deep: #0f0820;
+  --bg-mid: #1c1440;
+  --bg-soft: #2f245e;
+  --bg-panel: rgba(17, 11, 34, 0.72);
+  --bg-panel-strong: rgba(12, 8, 24, 0.82);
+  --text-primary: #f7f1dd;
+  --text-secondary: #c9bddf;
+  --text-muted: #9f95bc;
+  --accent-gold: #f0c060;
+  --accent-sage: #8baa6a;
+  --accent-rose: #d99cb6;
+  --accent-sky: #7fb3c9;
+  --border-soft: rgba(255, 255, 255, 0.12);
+  --border-strong: rgba(240, 192, 96, 0.24);
+  --shadow-soft: 0 24px 60px rgba(5, 4, 12, 0.28);
+  --shadow-gold: 0 16px 44px rgba(240, 192, 96, 0.18);
+  --radius-lg: 24px;
+  --radius-md: 16px;
+  --radius-sm: 12px;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-6: 1.5rem;
+  --space-8: 2rem;
+  --space-12: 3rem;
+  --space-16: 4rem;
+  --max-width: 1120px;
+  --font-display: "Cormorant Garamond", Georgia, serif;
+  --font-body: "Marcellus", Georgia, serif;
+}

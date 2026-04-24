@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tarot Ghibli Inspired</title>
+    <meta
+      name="description"
+      content="Trang Tarot tĩnh phong cách Ghibli-inspired, triển khai bằng Vite và deploy lên GitHub Pages."
+    />
+    <meta name="theme-color" content="#1c1440" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Tarot Ghibli Inspired" />
+    <meta
+      property="og:description"
+      content="Rút bài Tarot trong một trải nghiệm static site Ghibli-inspired với reading flow và encyclopedia 78 lá."
+    />
+    <meta property="og:image" content="/tarot-ghibli/assets/ui/og-cover.svg" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Tarot Ghibli Inspired" />
+    <meta
+      name="twitter:description"
+      content="Static tarot site gồm landing page, reading page và explore page."
+    />
+    <meta name="twitter:image" content="/tarot-ghibli/assets/ui/og-cover.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Marcellus&display=swap"
+      rel="stylesheet"
+    />
+    <script type="module" src="/src/scripts/pages/home.js"></script>
+  </head>
+  <body data-page="home">
+    <a class="skip-link" href="#main-content">Bo qua dieu huong va den noi dung chinh</a>
+    <div class="sky-layers" aria-hidden="true">
+      <span class="sky-glow sky-glow-gold"></span>
+      <span class="sky-glow sky-glow-sage"></span>
+      <span class="cloud cloud-one"></span>
+      <span class="cloud cloud-two"></span>
+      <span class="cloud cloud-three"></span>
+    </div>
+
+    <div class="site-shell">
+      <header class="site-header">
+        <a class="brand-mark" href="./index.html">Tarot Ghibli</a>
+        <nav class="site-nav" aria-label="Điều hướng chính">
+          <a href="./index.html" aria-current="page">Trang chủ</a>
+          <a href="./reading.html">Trải bài</a>
+          <a href="./explore.html">Tra cứu</a>
+        </nav>
+      </header>
+
+      <main class="home-layout" id="main-content">
+        <section class="page-hero hero-panel">
+          <div class="hero-copy">
+            <p class="eyebrow">Ghibli-Inspired Tarot</p>
+            <h1>Rút một trải bài giữa bầu trời đêm, mây lững và ánh vàng dịu.</h1>
+            <p class="page-copy">
+              Landing page này là nền visual cho toàn bộ dự án: cảm giác mềm, cổ tích và có
+              chiều sâu, nhưng vẫn sẵn sàng nối vào tarot engine ở phase tiếp theo.
+            </p>
+
+            <form class="spread-form" data-spread-form>
+              <fieldset class="spread-selector">
+                <legend>Chọn trải bài</legend>
+                <label class="spread-option">
+                  <input type="radio" name="spread" value="single" checked />
+                  <span>
+                    <strong>1 lá</strong>
+                    <small>Thông điệp trong ngày</small>
+                  </span>
+                </label>
+                <label class="spread-option">
+                  <input type="radio" name="spread" value="three" />
+                  <span>
+                    <strong>3 lá</strong>
+                    <small>Quá khứ, hiện tại, tương lai</small>
+                  </span>
+                </label>
+                <label class="spread-option">
+                  <input type="radio" name="spread" value="celtic" />
+                  <span>
+                    <strong>Celtic Cross</strong>
+                    <small>Đọc bối cảnh sâu hơn với 10 lá</small>
+                  </span>
+                </label>
+              </fieldset>
+
+              <label class="reversed-toggle">
+                <input type="checkbox" name="reversed" checked />
+                <span>Dùng cả bài ngược để phase sau nối thẳng vào engine.</span>
+              </label>
+
+              <div class="hero-actions">
+                <button class="button-primary" data-reading-cta type="submit">
+                  Bat dau trai 1 la
+                </button>
+                <a class="button-secondary" href="./explore.html">Tra cứu bộ bài</a>
+              </div>
+
+              <p class="inline-status" data-home-status aria-live="polite">
+                Dang tai bo bai Tarot...
+              </p>
+            </form>
+
+            <dl class="hero-metrics" aria-label="Thông tin nhanh">
+              <div>
+                <dt>78 lá</dt>
+                <dd>Bộ bài đầy đủ sẽ được nạp từ JSON tĩnh.</dd>
+              </div>
+              <div>
+                <dt>3 chế độ</dt>
+                <dd>1 lá, 3 lá và Celtic Cross đã có sẵn điểm nối UI.</dd>
+              </div>
+              <div>
+                <dt>Static</dt>
+                <dd>Không backend, deploy thẳng lên GitHub Pages.</dd>
+              </div>
+            </dl>
+          </div>
+
+          <div class="hero-visual" aria-hidden="true">
+            <div class="moon-halo"></div>
+            <div class="card-fan">
+              <article class="feature-card card-left">
+                <div class="feature-card__inner">
+                  <p class="feature-card__eyebrow">Past</p>
+                  <h2>The Wind Remembers</h2>
+                </div>
+              </article>
+              <article class="feature-card card-center">
+                <div class="feature-card__inner">
+                  <p class="feature-card__eyebrow">Present</p>
+                  <h2>The Lantern Opens</h2>
+                </div>
+              </article>
+              <article class="feature-card card-right">
+                <div class="feature-card__inner">
+                  <p class="feature-card__eyebrow">Future</p>
+                  <h2>The Meadow Listens</h2>
+                </div>
+              </article>
+            </div>
+
+            <div class="spread-preview">
+              <p class="spread-preview__label">Trải bài đang chọn</p>
+              <strong data-spread-label>1 lá</strong>
+              <span data-spread-detail>Thông điệp trong ngày</span>
+            </div>
+          </div>
+        </section>
+
+        <section class="feature-ribbon" aria-label="Điểm nhấn giao diện">
+          <article>
+            <p>Visual direction</p>
+            <h2>Watercolor fantasy</h2>
+          </article>
+          <article>
+            <p>Interaction</p>
+            <h2>Spread selector đã sẵn cho engine</h2>
+          </article>
+          <article>
+            <p>Responsive</p>
+            <h2>Thiết kế ưu tiên desktop lẫn mobile</h2>
+          </article>
+        </section>
+      </main>
+    </div>
+  </body>
+</html>
