@@ -94,13 +94,12 @@
 
             <div class="explore-detail__keywords" data-detail-keywords></div>
 
-            <div class="explore-detail__tabs">
-              <button class="detail-tab is-active" type="button" data-detail-tab="upright">
-                Xuoi
-              </button>
-              <button class="detail-tab" type="button" data-detail-tab="reversed">
-                Nguoc
-              </button>
+            <div class="explore-detail__tabs" role="group" aria-label="Chế độ xem">
+              <button class="detail-tab is-active" type="button" data-detail-tab="upright" id="tab-upright">Xuôi</button>
+              <button class="detail-tab" type="button" data-detail-tab="reversed" id="tab-reversed">Ngược</button>
+              <button class="detail-tab" type="button" data-detail-tab="love" id="tab-love">Tình cảm</button>
+              <button class="detail-tab" type="button" data-detail-tab="career" id="tab-career">Sự nghiệp</button>
+              <button class="detail-tab" type="button" data-detail-tab="spiritual" id="tab-spiritual">Tâm linh</button>
             </div>
 
             <div class="explore-detail__meaning">
@@ -108,6 +107,11 @@
               <p data-detail-meaning>
                 Chọn một lá trong danh sách để đọc nghĩa chi tiết và xem từ khóa.
               </p>
+            </div>
+
+            <div class="explore-detail__related" data-related-section hidden>
+              <h3 class="explore-detail__related-heading">Lá bài liên quan</h3>
+              <div class="related-cards" data-related-cards></div>
             </div>
           </aside>
         </section>

@@ -39,12 +39,13 @@ body[data-page="explore"] .page-hero {
 
 .filter-chip,
 .detail-tab {
-  min-height: 2.5rem;
-  padding: 0.55rem 0.95rem;
+  min-height: 2.25rem;
+  padding: 0.45rem 0.8rem;
   border-radius: 999px;
   border: 1px solid rgba(255, 255, 255, 0.1);
   background: rgba(255, 255, 255, 0.04);
   color: var(--text-secondary);
+  font-size: 0.82rem;
   transition:
     transform 180ms ease,
     border-color 180ms ease,
@@ -250,8 +251,81 @@ body[data-page="explore"] .page-hero {
 
 .explore-detail__tabs {
   display: flex;
-  gap: 0.75rem;
+  gap: 0.5rem;
   flex-wrap: wrap;
+}
+
+/* ── Card image ── */
+.explore-detail__image-wrap {
+  width: 100%;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  aspect-ratio: 2 / 3;
+  background: rgba(255,255,255,0.04);
+}
+
+.explore-detail__card-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: opacity 300ms ease;
+}
+
+/* ── Related cards ── */
+.explore-detail__related {
+  display: grid;
+  gap: 0.6rem;
+}
+
+.explore-detail__related-heading {
+  margin: 0;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--text-muted);
+}
+
+.related-cards {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.related-card-chip {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.35rem 0.7rem;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0.04);
+  color: var(--text-secondary);
+  font-size: 0.82rem;
+  transition:
+    transform 180ms ease,
+    border-color 180ms ease,
+    background-color 180ms ease;
+  cursor: pointer;
+}
+
+.related-card-chip:hover {
+  transform: translateY(-1px);
+  border-color: var(--chip-accent, rgba(240, 192, 96, 0.4));
+  color: var(--text-primary);
+}
+
+.related-card-chip__glyph {
+  font-size: 0.75rem;
+  opacity: 0.7;
+}
+
+/* ── Reading detail tabs ── */
+.reading-detail__tabs {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  margin-top: 0.5rem;
 }
 
 @media (max-width: 980px) {

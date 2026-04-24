@@ -38,7 +38,17 @@
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
-      "image": "assets/cards/major_00.webp"
+      "image": "assets/cards/major_00.webp",
+      "love_upright": "Một mối quan hệ mới đến với sự hồi hộp và tự do.",
+      "love_reversed": "Hãy cẩn thận với sự hấp tấp trong tình cảm.",
+      "career_upright": "Cơ hội mới trong công việc đang mở ra.",
+      "career_reversed": "Đừng bỏ việc khi chưa có kế hoạch.",
+      "spiritual": "Hành trình mới với trái tim trẻ thơ và niềm tin.",
+      "related_cards": [
+        "major_01",
+        "major_21",
+        "major_17"
+      ]
     },
     {
       "id": "major_01",
@@ -65,7 +75,17 @@
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
-      "image": "assets/cards/major_01.webp"
+      "image": "assets/cards/major_01.webp",
+      "love_upright": "Dùng đúng lời nói và sự hiện diện để kết nối sâu.",
+      "love_reversed": "Tránh dùng lời hoa mỹ để thao túng cảm xúc.",
+      "career_upright": "Tận dụng toàn bộ kỹ năng để chủ động tạo ra kết quả.",
+      "career_reversed": "Phân tán quá nhiều hướng, cần chọn một ưu tiên.",
+      "spiritual": "Bạn là cầu nối giữa ý tưởng và thực tế.",
+      "related_cards": [
+        "major_00",
+        "major_02",
+        "major_08"
+      ]
     },
     {
       "id": "major_02",
@@ -92,7 +112,17 @@
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
-      "image": "assets/cards/major_02.webp"
+      "image": "assets/cards/major_02.webp",
+      "love_upright": "Lắng nghe tín hiệu chưa được nói ra.",
+      "love_reversed": "Đang bỏ qua dấu hiệu quan trọng trong mối quan hệ.",
+      "career_upright": "Quan sát và nghiên cứu trước khi hành động.",
+      "career_reversed": "Thiếu thông tin hoặc bị ảnh hưởng bởi thông tin sai.",
+      "spiritual": "Chú ý giấc mơ và trực giác trong im lặng.",
+      "related_cards": [
+        "major_03",
+        "major_09",
+        "major_18"
+      ]
     },
     {
       "id": "major_03",
@@ -119,7 +149,17 @@
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
-      "image": "assets/cards/major_03.webp"
+      "image": "assets/cards/major_03.webp",
+      "love_upright": "Thời điểm phong phú và ấm áp trong tình cảm.",
+      "love_reversed": "Đang bao bọc quá mức hoặc bị phụ thuộc cảm xúc.",
+      "career_upright": "Đầu tư tâm huyết vào dự án sáng tạo dài hạn.",
+      "career_reversed": "Nguồn sáng tạo cạn hoặc không được ghi nhận.",
+      "spiritual": "Trở về với cơ thể, thiên nhiên và nhịp điệu tự nhiên.",
+      "related_cards": [
+        "major_02",
+        "major_04",
+        "major_17"
+      ]
     },
     {
       "id": "major_04",
@@ -146,7 +186,17 @@
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
-      "image": "assets/cards/major_04.webp"
+      "image": "assets/cards/major_04.webp",
+      "love_upright": "Sự ổn định và an toàn là nền tảng của mối quan hệ.",
+      "love_reversed": "Kiểm soát hoặc cứng nhắc đang tạo áp lực.",
+      "career_upright": "Thiết lập quy trình và thể hiện năng lực lãnh đạo.",
+      "career_reversed": "Hệ thống quá cứng nhắc cản trở sự linh hoạt.",
+      "spiritual": "Kỷ luật tâm linh là nền tảng cho sự phát triển.",
+      "related_cards": [
+        "major_03",
+        "major_05",
+        "major_11"
+      ]
     },
     {
       "id": "major_05",
@@ -173,7 +223,17 @@
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
-      "image": "assets/cards/major_05.webp"
+      "image": "assets/cards/major_05.webp",
+      "love_upright": "Xây dựng trên nền tảng giá trị chung và cam kết.",
+      "love_reversed": "Kỳ vọng xã hội đang gây áp lực cho mối quan hệ.",
+      "career_upright": "Học từ người có kinh nghiệm và theo quy trình bài bản.",
+      "career_reversed": "Quy trình cũ đang kìm hãm sự phát triển.",
+      "spiritual": "Tìm cộng đồng tâm linh có cấu trúc nhưng đừng để quy tắc lấn át.",
+      "related_cards": [
+        "major_04",
+        "major_06",
+        "major_09"
+      ]
     },
     {
       "id": "major_06",
@@ -200,7 +260,17 @@
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
-      "image": "assets/cards/major_06.webp"
+      "image": "assets/cards/major_06.webp",
+      "love_upright": "Sự kết nối sâu sắc và hòa hợp giá trị trong tình cảm.",
+      "love_reversed": "Bất tương thích giá trị đang tạo rạn nứt.",
+      "career_upright": "Đứng trước ngã rẽ quan trọng, hãy chọn theo giá trị cốt lõi.",
+      "career_reversed": "Phân vân giữa hai hướng mâu thuẫn.",
+      "spiritual": "Mỗi quyết định định hình con đường tâm linh.",
+      "related_cards": [
+        "major_02",
+        "major_03",
+        "major_21"
+      ]
     },
     {
       "id": "major_07",
@@ -227,7 +297,17 @@
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
-      "image": "assets/cards/major_07.webp"
+      "image": "assets/cards/major_07.webp",
+      "love_upright": "Chủ động và quyết đoán trong tình cảm.",
+      "love_reversed": "Xung đột nội tâm cần được giải quyết trước.",
+      "career_upright": "Hành động dứt khoát và tiến về mục tiêu.",
+      "career_reversed": "Quá nhiều hướng cùng lúc khiến không tiến được.",
+      "spiritual": "Điều khiển lý trí và cảm xúc theo cùng một hướng.",
+      "related_cards": [
+        "major_01",
+        "major_08",
+        "major_11"
+      ]
     },
     {
       "id": "major_08",
@@ -254,7 +334,17 @@
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
-      "image": "assets/cards/major_08.webp"
+      "image": "assets/cards/major_08.webp",
+      "love_upright": "Dịu dàng và kiên nhẫn mạnh mẽ hơn mọi áp lực.",
+      "love_reversed": "Cạn kiệt vì đã cho đi quá nhiều.",
+      "career_upright": "Kiên nhẫn và ổn định mang lại tín nhiệm lâu dài.",
+      "career_reversed": "Sự tự nghi ngờ đang cản trở năng lực thật sự.",
+      "spiritual": "Đối mặt với phần tối bằng lòng từ bi không phải đàn áp.",
+      "related_cards": [
+        "major_07",
+        "major_09",
+        "major_01"
+      ]
     },
     {
       "id": "major_09",
@@ -281,7 +371,17 @@
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
-      "image": "assets/cards/major_09.webp"
+      "image": "assets/cards/major_09.webp",
+      "love_upright": "Sự cô độc tích cực giúp hiểu rõ nhu cầu của mình.",
+      "love_reversed": "Thu mình quá mức tạo khoảng cách không cần thiết.",
+      "career_upright": "Nghiên cứu sâu và học hỏi độc lập mang lại hiểu biết mới.",
+      "career_reversed": "Tự cô lập bỏ lỡ cơ hội hợp tác và quan điểm mới.",
+      "spiritual": "Dành thời gian một mình lắng nghe ánh sáng bên trong.",
+      "related_cards": [
+        "major_02",
+        "major_12",
+        "major_05"
+      ]
     },
     {
       "id": "major_10",
@@ -308,7 +408,17 @@
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
-      "image": "assets/cards/major_10.webp"
+      "image": "assets/cards/major_10.webp",
+      "love_upright": "Sự thay đổi tích cực đang đến trong tình cảm.",
+      "love_reversed": "Khuôn mẫu cũ trong tình cảm đang lặp lại.",
+      "career_upright": "Vận may đang xoay có lợi, nắm bắt cơ hội.",
+      "career_reversed": "Bị mắc kẹt trong vòng lặp không mang tiến bộ.",
+      "spiritual": "Giữ vững tâm thế giữa mọi thay đổi vô thường.",
+      "related_cards": [
+        "major_00",
+        "major_21",
+        "major_13"
+      ]
     },
     {
       "id": "major_11",
@@ -335,7 +445,17 @@
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
-      "image": "assets/cards/major_11.webp"
+      "image": "assets/cards/major_11.webp",
+      "love_upright": "Tình cảm cần công bằng và trách nhiệm của cả hai phía.",
+      "love_reversed": "Có sự bất công đang bị bỏ qua cần đối mặt.",
+      "career_upright": "Quyết định dựa trên bằng chứng mang lại kết quả công bằng.",
+      "career_reversed": "Thiếu minh bạch hoặc bất công trong môi trường làm việc.",
+      "spiritual": "Sống có đạo đức và chịu trách nhiệm là con đường tâm linh sâu sắc.",
+      "related_cards": [
+        "major_08",
+        "major_04",
+        "major_20"
+      ]
     },
     {
       "id": "major_12",
@@ -362,7 +482,17 @@
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
-      "image": "assets/cards/major_12.webp"
+      "image": "assets/cards/major_12.webp",
+      "love_upright": "Tạm dừng và thay đổi góc nhìn về mối quan hệ.",
+      "love_reversed": "Bị mắc kẹt trong tình huống tình cảm không chịu nhìn nhận.",
+      "career_upright": "Nhìn lại toàn bộ bức tranh, thay đổi tư duy mở ra hướng mới.",
+      "career_reversed": "Trì hoãn không mục đích đang làm tổn hại sự nghiệp.",
+      "spiritual": "Buông bỏ tự nguyện để nhận trí tuệ sâu sắc hơn.",
+      "related_cards": [
+        "major_09",
+        "major_13",
+        "major_02"
+      ]
     },
     {
       "id": "major_13",
@@ -389,7 +519,17 @@
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
-      "image": "assets/cards/major_13.webp"
+      "image": "assets/cards/major_13.webp",
+      "love_upright": "Giai đoạn trong mối quan hệ kết thúc để nhường chỗ điều sâu sắc hơn.",
+      "love_reversed": "Cố giữ lại mối quan hệ hoặc cảm xúc đã không còn phục vụ.",
+      "career_upright": "Giai đoạn sự nghiệp kết thúc mở ra cơ hội mới.",
+      "career_reversed": "Kéo dài công việc đã hết thời của nó.",
+      "spiritual": "Mỗi kết thúc là sự chuyển hóa một phần tự nhiên của chu kỳ.",
+      "related_cards": [
+        "major_12",
+        "major_14",
+        "major_10"
+      ]
     },
     {
       "id": "major_14",
@@ -416,7 +556,17 @@
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
-      "image": "assets/cards/major_14.webp"
+      "image": "assets/cards/major_14.webp",
+      "love_upright": "Kiên nhẫn và điều độ là nền tảng lành mạnh.",
+      "love_reversed": "Mất cân bằng trong việc cho và nhận.",
+      "career_upright": "Phối hợp nhiều kỹ năng tạo kết quả vượt trội.",
+      "career_reversed": "Thiếu cân bằng giữa công việc và cuộc sống.",
+      "spiritual": "Điều độ trong mọi thực hành là con đường tâm linh.",
+      "related_cards": [
+        "major_06",
+        "major_15",
+        "major_03"
+      ]
     },
     {
       "id": "major_15",
@@ -443,7 +593,17 @@
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
-      "image": "assets/cards/major_15.webp"
+      "image": "assets/cards/major_15.webp",
+      "love_upright": "Nhìn thẳng vào các kiểu gắn kết không lành mạnh.",
+      "love_reversed": "Nhận ra mô hình không lành mạnh và bắt đầu thoát ra.",
+      "career_upright": "Đang bị ràng buộc bởi công việc vì nỗi sợ hơn là lựa chọn.",
+      "career_reversed": "Dần thoát ra khỏi môi trường làm việc không lành mạnh.",
+      "spiritual": "Nhận thức về những gì kiểm soát mình là bước đầu giải phóng.",
+      "related_cards": [
+        "major_06",
+        "major_13",
+        "major_16"
+      ]
     },
     {
       "id": "major_16",
@@ -470,7 +630,17 @@
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
-      "image": "assets/cards/major_16.webp"
+      "image": "assets/cards/major_16.webp",
+      "love_upright": "Sự thật quan trọng về mối quan hệ đang lộ ra đột ngột.",
+      "love_reversed": "Căng thẳng tích tụ ngầm cần được giải quyết chủ động.",
+      "career_upright": "Sự thay đổi đột ngột là cơ hội để bắt đầu lại vững chắc hơn.",
+      "career_reversed": "Môi trường không ổn định cần chuẩn bị cho khả năng thay đổi.",
+      "spiritual": "Những gì còn lại sau cơn giông là điều thật sự vững bền.",
+      "related_cards": [
+        "major_15",
+        "major_17",
+        "major_13"
+      ]
     },
     {
       "id": "major_17",
@@ -497,7 +667,17 @@
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
-      "image": "assets/cards/major_17.webp"
+      "image": "assets/cards/major_17.webp",
+      "love_upright": "Chữa lành và hy vọng đang đến trong tình cảm.",
+      "love_reversed": "Đang mất niềm tin vào tình yêu cần thời gian chữa lành.",
+      "career_upright": "Cảm hứng và niềm tin trở lại sau giai đoạn khó khăn.",
+      "career_reversed": "Mất đi sự kết nối với ý nghĩa của công việc.",
+      "spiritual": "Kết nối với điều cao cả hơn luôn có khả năng chữa lành.",
+      "related_cards": [
+        "major_16",
+        "major_18",
+        "major_02"
+      ]
     },
     {
       "id": "major_18",
@@ -524,7 +704,17 @@
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
-      "image": "assets/cards/major_18.webp"
+      "image": "assets/cards/major_18.webp",
+      "love_upright": "Chú ý những điều chưa được nói ra trong mối quan hệ.",
+      "love_reversed": "Sự thật về mối quan hệ đang dần lộ ra.",
+      "career_upright": "Chờ thêm thông tin trước khi hành động trong sự mờ ảo.",
+      "career_reversed": "Sự mờ ảo đang tan, thấy rõ hơn tình hình thực tế.",
+      "spiritual": "Giữ nhật ký giấc mơ và đối mặt với nỗi sợ ẩn sâu.",
+      "related_cards": [
+        "major_02",
+        "major_17",
+        "major_09"
+      ]
     },
     {
       "id": "major_19",
@@ -551,7 +741,17 @@
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
-      "image": "assets/cards/major_19.webp"
+      "image": "assets/cards/major_19.webp",
+      "love_upright": "Niềm vui và sự ấm áp tràn ngập trong tình cảm.",
+      "love_reversed": "Niềm vui trong mối quan hệ đang giảm sút.",
+      "career_upright": "Thành công và sự ghi nhận đang đến.",
+      "career_reversed": "Không được ghi nhận đúng mức hoặc thiếu tự tin.",
+      "spiritual": "Thực hành sự biết ơn và sống trong hiện tại.",
+      "related_cards": [
+        "major_00",
+        "major_20",
+        "major_17"
+      ]
     },
     {
       "id": "major_20",
@@ -578,7 +778,17 @@
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
-      "image": "assets/cards/major_20.webp"
+      "image": "assets/cards/major_20.webp",
+      "love_upright": "Tha thứ và mở ra chương mới trong tình cảm.",
+      "love_reversed": "Phán xét bản thân hoặc người kia quá khắt khe.",
+      "career_upright": "Giai đoạn sự nghiệp quan trọng đang được tổng kết.",
+      "career_reversed": "Quá tự phán xét về thất bại trong quá khứ.",
+      "spiritual": "Tiếng gọi tâm linh để vươn lên thành phiên bản cao hơn.",
+      "related_cards": [
+        "major_11",
+        "major_21",
+        "major_13"
+      ]
     },
     {
       "id": "major_21",
@@ -605,7 +815,17 @@
       "arcana": "major",
       "suit": null,
       "suit_vi": null,
-      "image": "assets/cards/major_21.webp"
+      "image": "assets/cards/major_21.webp",
+      "love_upright": "Sự viên mãn và trọn vẹn trong tình cảm.",
+      "love_reversed": "Cảm giác thiếu trọn vẹn vẫn còn điều chưa được nói.",
+      "career_upright": "Thành tựu lớn của một hành trình dài đáng được ăn mừng.",
+      "career_reversed": "Gần đến đích nhưng còn thiếu vài bước quan trọng.",
+      "spiritual": "Điểm đến của hành trình là sự viên mãn trước vòng mới.",
+      "related_cards": [
+        "major_00",
+        "major_10",
+        "major_20"
+      ]
     },
     {
       "id": "wands_01",
@@ -632,7 +852,13 @@
       ],
       "meaning_upright": "Lá này mang năng lượng của lửa, thúc đẩy bạn hành động, thử nghiệm và khơi dậy động lực bên trong. Mở ra một cơ hội mới và một nguồn năng lượng nguyên sơ để bắt đầu. Trong bộ gậy, lá này thường liên quan đến đam mê, sáng tạo và hành động và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, năng lượng lửa này dễ trở nên nóng vội, mất định hướng hoặc kiệt sức vì phân tán quá nhiều hướng. Cơ hội vẫn có nhưng dễ bị bỏ lỡ, chậm nhịp hoặc chưa được đón nhận đúng lúc. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/wands_01.webp"
+      "image": "assets/cards/wands_01.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "wands_02",
@@ -659,7 +885,13 @@
       ],
       "meaning_upright": "Lá này mang năng lượng của lửa, thúc đẩy bạn hành động, thử nghiệm và khơi dậy động lực bên trong. Tập trung vào cân đối, lựa chọn và cách hai lực kéo đang đối thoại với nhau. Trong bộ gậy, lá này thường liên quan đến đam mê, sáng tạo và hành động và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, năng lượng lửa này dễ trở nên nóng vội, mất định hướng hoặc kiệt sức vì phân tán quá nhiều hướng. Cần cảnh báo sự lúng túng, treo quyết định hoặc lệch mất cân bằng giữa hai hướng. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/wands_02.webp"
+      "image": "assets/cards/wands_02.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "wands_03",
@@ -686,7 +918,13 @@
       ],
       "meaning_upright": "Lá này mang năng lượng của lửa, thúc đẩy bạn hành động, thử nghiệm và khơi dậy động lực bên trong. Năng lượng ba thường liên quan đến mở rộng, phối hợp và thấy kết quả đầu tiên đang hình thành. Trong bộ gậy, lá này thường liên quan đến đam mê, sáng tạo và hành động và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, năng lượng lửa này dễ trở nên nóng vội, mất định hướng hoặc kiệt sức vì phân tán quá nhiều hướng. Bạn có thể đang gặp trở ngại trong phối hợp hoặc dự án mở ra nhưng chưa đi đến đâu. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/wands_03.webp"
+      "image": "assets/cards/wands_03.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "wands_04",
@@ -713,7 +951,13 @@
       ],
       "meaning_upright": "Lá này mang năng lượng của lửa, thúc đẩy bạn hành động, thử nghiệm và khơi dậy động lực bên trong. Lá bài đưa năng lượng về ổn định, nề nếp và một nền tảng để bạn đứng chân lâu hơn. Trong bộ gậy, lá này thường liên quan đến đam mê, sáng tạo và hành động và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, năng lượng lửa này dễ trở nên nóng vội, mất định hướng hoặc kiệt sức vì phân tán quá nhiều hướng. Khi đảo ngược, sự ổn định này có thể bị lung lay hoặc trở thành quá đóng khiến năng lượng không luân chuyển. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/wands_04.webp"
+      "image": "assets/cards/wands_04.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "wands_05",
@@ -740,7 +984,13 @@
       ],
       "meaning_upright": "Lá này mang năng lượng của lửa, thúc đẩy bạn hành động, thử nghiệm và khơi dậy động lực bên trong. Năm là pha dao động, xung đột nhỏ hoặc sự thay đổi buộc bạn phải điều chỉnh nhanh. Trong bộ gậy, lá này thường liên quan đến đam mê, sáng tạo và hành động và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, năng lượng lửa này dễ trở nên nóng vội, mất định hướng hoặc kiệt sức vì phân tán quá nhiều hướng. Ở chiều ngược, xung đột có thể đang dịu lại, bị né tránh hoặc chuyển thành căng thẳng ngầm. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/wands_05.webp"
+      "image": "assets/cards/wands_05.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "wands_06",
@@ -767,7 +1017,13 @@
       ],
       "meaning_upright": "Lá này mang năng lượng của lửa, thúc đẩy bạn hành động, thử nghiệm và khơi dậy động lực bên trong. Sáu thường đem đến sự hài hòa hơn, một nhịp chuyển tiếp dễ dàng hoặc cảm giác được nâng đỡ. Trong bộ gậy, lá này thường liên quan đến đam mê, sáng tạo và hành động và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, năng lượng lửa này dễ trở nên nóng vội, mất định hướng hoặc kiệt sức vì phân tán quá nhiều hướng. Khi đảo ngược, dòng chảy dễ bị chậm lại, mất cân đối hoặc có sự lệch giữa cho và nhận. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/wands_06.webp"
+      "image": "assets/cards/wands_06.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "wands_07",
@@ -794,7 +1050,13 @@
       ],
       "meaning_upright": "Lá này mang năng lượng của lửa, thúc đẩy bạn hành động, thử nghiệm và khơi dậy động lực bên trong. Bảy gợi đến bài kiểm tra về niềm tin, chiến lược và khả năng giữ hướng khi áp lực tăng lên. Trong bộ gậy, lá này thường liên quan đến đam mê, sáng tạo và hành động và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, năng lượng lửa này dễ trở nên nóng vội, mất định hướng hoặc kiệt sức vì phân tán quá nhiều hướng. Ở thế ngược, bạn có thể mệt mỏi, phân vân hoặc dùng sai cách để bảo vệ điều quan trọng. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/wands_07.webp"
+      "image": "assets/cards/wands_07.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "wands_08",
@@ -821,7 +1083,13 @@
       ],
       "meaning_upright": "Lá này mang năng lượng của lửa, thúc đẩy bạn hành động, thử nghiệm và khơi dậy động lực bên trong. Tám là năng lượng của dòng chảy rõ hơn, tốc độ cao hơn hoặc sự lặp lại giúp tạo thành kỹ năng. Trong bộ gậy, lá này thường liên quan đến đam mê, sáng tạo và hành động và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, năng lượng lửa này dễ trở nên nóng vội, mất định hướng hoặc kiệt sức vì phân tán quá nhiều hướng. Khi đảo ngược, nhịp độ dễ bị đứt, trễ hoặc lặp lại một cách vô thức mà không tạo tiến bộ. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/wands_08.webp"
+      "image": "assets/cards/wands_08.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "wands_09",
@@ -848,7 +1116,13 @@
       ],
       "meaning_upright": "Lá này mang năng lượng của lửa, thúc đẩy bạn hành động, thử nghiệm và khơi dậy động lực bên trong. Chín là mức sát đích, nơi bạn có kinh nghiệm và cần thêm sự bền bỉ để kết chu kỳ hiện tại. Trong bộ gậy, lá này thường liên quan đến đam mê, sáng tạo và hành động và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, năng lượng lửa này dễ trở nên nóng vội, mất định hướng hoặc kiệt sức vì phân tán quá nhiều hướng. Ở chiều ngược, cảm giác gần đích có thể đi kèm cạn sức, lo âu hoặc khó buông sự phòng thủ. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/wands_09.webp"
+      "image": "assets/cards/wands_09.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "wands_10",
@@ -875,7 +1149,13 @@
       ],
       "meaning_upright": "Lá này mang năng lượng của lửa, thúc đẩy bạn hành động, thử nghiệm và khơi dậy động lực bên trong. Mười đánh dấu điểm đầy của chu kỳ, nơi kết quả rõ hơn nhưng cũng cho thấy gánh nặng hoặc hệ quả của nó. Trong bộ gậy, lá này thường liên quan đến đam mê, sáng tạo và hành động và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, năng lượng lửa này dễ trở nên nóng vội, mất định hướng hoặc kiệt sức vì phân tán quá nhiều hướng. Khi đảo ngược, chu kỳ này đang đòi được giải tải, đóng lại hoặc sắp xếp lại cho bền vững hơn. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/wands_10.webp"
+      "image": "assets/cards/wands_10.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "wands_11",
@@ -902,7 +1182,13 @@
       ],
       "meaning_upright": "Lá này mang năng lượng của lửa, thúc đẩy bạn hành động, thử nghiệm và khơi dậy động lực bên trong. Page đem đến tâm thế học hỏi, tín hiệu mới và sự mở của người đang bước vào một lĩnh vực bằng trí tò mò. Trong bộ gậy, lá này thường liên quan đến đam mê, sáng tạo và hành động và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, năng lượng lửa này dễ trở nên nóng vội, mất định hướng hoặc kiệt sức vì phân tán quá nhiều hướng. Ở thế ngược, sự non trẻ hoặc phân tâm có thể khiến thông điệp đẹp trở nên méo hoặc khó giữ định hướng. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/wands_11.webp"
+      "image": "assets/cards/wands_11.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "wands_12",
@@ -929,7 +1215,13 @@
       ],
       "meaning_upright": "Lá này mang năng lượng của lửa, thúc đẩy bạn hành động, thử nghiệm và khơi dậy động lực bên trong. Knight đẩy câu chuyện đi nhanh hơn, nhiều động lực hơn và đòi hỏi bạn đưa năng lượng vào hành động có hướng. Trong bộ gậy, lá này thường liên quan đến đam mê, sáng tạo và hành động và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, năng lượng lửa này dễ trở nên nóng vội, mất định hướng hoặc kiệt sức vì phân tán quá nhiều hướng. Khi đảo ngược, động lực này dễ trở nên hấp tấp, mất kiểm soát hoặc chạy quá đà trong khi mục tiêu chưa rõ. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/wands_12.webp"
+      "image": "assets/cards/wands_12.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "wands_13",
@@ -956,7 +1248,13 @@
       ],
       "meaning_upright": "Lá này mang năng lượng của lửa, thúc đẩy bạn hành động, thử nghiệm và khơi dậy động lực bên trong. Queen là năng lượng trưởng thành, biết quan sát và điều hướng lĩnh vực này bằng sự tinh tế và nội lực ổn định. Trong bộ gậy, lá này thường liên quan đến đam mê, sáng tạo và hành động và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, năng lượng lửa này dễ trở nên nóng vội, mất định hướng hoặc kiệt sức vì phân tán quá nhiều hướng. Ở thế ngược, năng lượng này có thể bị lệch thành nhạy cảm quá mức, kiểm soát ngầm hoặc mất cân đối nội tâm. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/wands_13.webp"
+      "image": "assets/cards/wands_13.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "wands_14",
@@ -983,7 +1281,13 @@
       ],
       "meaning_upright": "Lá này mang năng lượng của lửa, thúc đẩy bạn hành động, thử nghiệm và khơi dậy động lực bên trong. King thể hiện mức độ làm chủ cao nhất của lĩnh vực này, nơi kinh nghiệm và thẩm quyền đi kèm trách nhiệm rõ ràng. Trong bộ gậy, lá này thường liên quan đến đam mê, sáng tạo và hành động và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, năng lượng lửa này dễ trở nên nóng vội, mất định hướng hoặc kiệt sức vì phân tán quá nhiều hướng. Khi đảo ngược, cách làm chủ dễ chuyển thành cứng nhắc, quá ưu thế hoặc mất sự điềm đạm cần thiết. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/wands_14.webp"
+      "image": "assets/cards/wands_14.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "cups_01",
@@ -1010,7 +1314,13 @@
       ],
       "meaning_upright": "Lá này nói về dòng chảy cảm xúc, sự liên kết và cách bạn tiếp nhận thế giới bằng trái tim và trực giác. Mở ra một cơ hội mới và một nguồn năng lượng nguyên sơ để bắt đầu. Trong bộ chén, lá này thường liên quan đến cảm xúc, kết nối và trực giác và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, dòng nước cảm xúc này có thể đang bị ùn tắc, tràn bờ hoặc khó được gọi tên một cách rõ ràng. Cơ hội vẫn có nhưng dễ bị bỏ lỡ, chậm nhịp hoặc chưa được đón nhận đúng lúc. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/cups_01.webp"
+      "image": "assets/cards/cups_01.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "cups_02",
@@ -1037,7 +1347,13 @@
       ],
       "meaning_upright": "Lá này nói về dòng chảy cảm xúc, sự liên kết và cách bạn tiếp nhận thế giới bằng trái tim và trực giác. Tập trung vào cân đối, lựa chọn và cách hai lực kéo đang đối thoại với nhau. Trong bộ chén, lá này thường liên quan đến cảm xúc, kết nối và trực giác và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, dòng nước cảm xúc này có thể đang bị ùn tắc, tràn bờ hoặc khó được gọi tên một cách rõ ràng. Cần cảnh báo sự lúng túng, treo quyết định hoặc lệch mất cân bằng giữa hai hướng. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/cups_02.webp"
+      "image": "assets/cards/cups_02.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "cups_03",
@@ -1064,7 +1380,13 @@
       ],
       "meaning_upright": "Lá này nói về dòng chảy cảm xúc, sự liên kết và cách bạn tiếp nhận thế giới bằng trái tim và trực giác. Năng lượng ba thường liên quan đến mở rộng, phối hợp và thấy kết quả đầu tiên đang hình thành. Trong bộ chén, lá này thường liên quan đến cảm xúc, kết nối và trực giác và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, dòng nước cảm xúc này có thể đang bị ùn tắc, tràn bờ hoặc khó được gọi tên một cách rõ ràng. Bạn có thể đang gặp trở ngại trong phối hợp hoặc dự án mở ra nhưng chưa đi đến đâu. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/cups_03.webp"
+      "image": "assets/cards/cups_03.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "cups_04",
@@ -1091,7 +1413,13 @@
       ],
       "meaning_upright": "Lá này nói về dòng chảy cảm xúc, sự liên kết và cách bạn tiếp nhận thế giới bằng trái tim và trực giác. Lá bài đưa năng lượng về ổn định, nề nếp và một nền tảng để bạn đứng chân lâu hơn. Trong bộ chén, lá này thường liên quan đến cảm xúc, kết nối và trực giác và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, dòng nước cảm xúc này có thể đang bị ùn tắc, tràn bờ hoặc khó được gọi tên một cách rõ ràng. Khi đảo ngược, sự ổn định này có thể bị lung lay hoặc trở thành quá đóng khiến năng lượng không luân chuyển. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/cups_04.webp"
+      "image": "assets/cards/cups_04.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "cups_05",
@@ -1118,7 +1446,13 @@
       ],
       "meaning_upright": "Lá này nói về dòng chảy cảm xúc, sự liên kết và cách bạn tiếp nhận thế giới bằng trái tim và trực giác. Năm là pha dao động, xung đột nhỏ hoặc sự thay đổi buộc bạn phải điều chỉnh nhanh. Trong bộ chén, lá này thường liên quan đến cảm xúc, kết nối và trực giác và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, dòng nước cảm xúc này có thể đang bị ùn tắc, tràn bờ hoặc khó được gọi tên một cách rõ ràng. Ở chiều ngược, xung đột có thể đang dịu lại, bị né tránh hoặc chuyển thành căng thẳng ngầm. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/cups_05.webp"
+      "image": "assets/cards/cups_05.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "cups_06",
@@ -1145,7 +1479,13 @@
       ],
       "meaning_upright": "Lá này nói về dòng chảy cảm xúc, sự liên kết và cách bạn tiếp nhận thế giới bằng trái tim và trực giác. Sáu thường đem đến sự hài hòa hơn, một nhịp chuyển tiếp dễ dàng hoặc cảm giác được nâng đỡ. Trong bộ chén, lá này thường liên quan đến cảm xúc, kết nối và trực giác và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, dòng nước cảm xúc này có thể đang bị ùn tắc, tràn bờ hoặc khó được gọi tên một cách rõ ràng. Khi đảo ngược, dòng chảy dễ bị chậm lại, mất cân đối hoặc có sự lệch giữa cho và nhận. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/cups_06.webp"
+      "image": "assets/cards/cups_06.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "cups_07",
@@ -1172,7 +1512,13 @@
       ],
       "meaning_upright": "Lá này nói về dòng chảy cảm xúc, sự liên kết và cách bạn tiếp nhận thế giới bằng trái tim và trực giác. Bảy gợi đến bài kiểm tra về niềm tin, chiến lược và khả năng giữ hướng khi áp lực tăng lên. Trong bộ chén, lá này thường liên quan đến cảm xúc, kết nối và trực giác và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, dòng nước cảm xúc này có thể đang bị ùn tắc, tràn bờ hoặc khó được gọi tên một cách rõ ràng. Ở thế ngược, bạn có thể mệt mỏi, phân vân hoặc dùng sai cách để bảo vệ điều quan trọng. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/cups_07.webp"
+      "image": "assets/cards/cups_07.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "cups_08",
@@ -1199,7 +1545,13 @@
       ],
       "meaning_upright": "Lá này nói về dòng chảy cảm xúc, sự liên kết và cách bạn tiếp nhận thế giới bằng trái tim và trực giác. Tám là năng lượng của dòng chảy rõ hơn, tốc độ cao hơn hoặc sự lặp lại giúp tạo thành kỹ năng. Trong bộ chén, lá này thường liên quan đến cảm xúc, kết nối và trực giác và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, dòng nước cảm xúc này có thể đang bị ùn tắc, tràn bờ hoặc khó được gọi tên một cách rõ ràng. Khi đảo ngược, nhịp độ dễ bị đứt, trễ hoặc lặp lại một cách vô thức mà không tạo tiến bộ. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/cups_08.webp"
+      "image": "assets/cards/cups_08.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "cups_09",
@@ -1226,7 +1578,13 @@
       ],
       "meaning_upright": "Lá này nói về dòng chảy cảm xúc, sự liên kết và cách bạn tiếp nhận thế giới bằng trái tim và trực giác. Chín là mức sát đích, nơi bạn có kinh nghiệm và cần thêm sự bền bỉ để kết chu kỳ hiện tại. Trong bộ chén, lá này thường liên quan đến cảm xúc, kết nối và trực giác và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, dòng nước cảm xúc này có thể đang bị ùn tắc, tràn bờ hoặc khó được gọi tên một cách rõ ràng. Ở chiều ngược, cảm giác gần đích có thể đi kèm cạn sức, lo âu hoặc khó buông sự phòng thủ. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/cups_09.webp"
+      "image": "assets/cards/cups_09.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "cups_10",
@@ -1253,7 +1611,13 @@
       ],
       "meaning_upright": "Lá này nói về dòng chảy cảm xúc, sự liên kết và cách bạn tiếp nhận thế giới bằng trái tim và trực giác. Mười đánh dấu điểm đầy của chu kỳ, nơi kết quả rõ hơn nhưng cũng cho thấy gánh nặng hoặc hệ quả của nó. Trong bộ chén, lá này thường liên quan đến cảm xúc, kết nối và trực giác và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, dòng nước cảm xúc này có thể đang bị ùn tắc, tràn bờ hoặc khó được gọi tên một cách rõ ràng. Khi đảo ngược, chu kỳ này đang đòi được giải tải, đóng lại hoặc sắp xếp lại cho bền vững hơn. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/cups_10.webp"
+      "image": "assets/cards/cups_10.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "cups_11",
@@ -1280,7 +1644,13 @@
       ],
       "meaning_upright": "Lá này nói về dòng chảy cảm xúc, sự liên kết và cách bạn tiếp nhận thế giới bằng trái tim và trực giác. Page đem đến tâm thế học hỏi, tín hiệu mới và sự mở của người đang bước vào một lĩnh vực bằng trí tò mò. Trong bộ chén, lá này thường liên quan đến cảm xúc, kết nối và trực giác và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, dòng nước cảm xúc này có thể đang bị ùn tắc, tràn bờ hoặc khó được gọi tên một cách rõ ràng. Ở thế ngược, sự non trẻ hoặc phân tâm có thể khiến thông điệp đẹp trở nên méo hoặc khó giữ định hướng. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/cups_11.webp"
+      "image": "assets/cards/cups_11.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "cups_12",
@@ -1307,7 +1677,13 @@
       ],
       "meaning_upright": "Lá này nói về dòng chảy cảm xúc, sự liên kết và cách bạn tiếp nhận thế giới bằng trái tim và trực giác. Knight đẩy câu chuyện đi nhanh hơn, nhiều động lực hơn và đòi hỏi bạn đưa năng lượng vào hành động có hướng. Trong bộ chén, lá này thường liên quan đến cảm xúc, kết nối và trực giác và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, dòng nước cảm xúc này có thể đang bị ùn tắc, tràn bờ hoặc khó được gọi tên một cách rõ ràng. Khi đảo ngược, động lực này dễ trở nên hấp tấp, mất kiểm soát hoặc chạy quá đà trong khi mục tiêu chưa rõ. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/cups_12.webp"
+      "image": "assets/cards/cups_12.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "cups_13",
@@ -1334,7 +1710,13 @@
       ],
       "meaning_upright": "Lá này nói về dòng chảy cảm xúc, sự liên kết và cách bạn tiếp nhận thế giới bằng trái tim và trực giác. Queen là năng lượng trưởng thành, biết quan sát và điều hướng lĩnh vực này bằng sự tinh tế và nội lực ổn định. Trong bộ chén, lá này thường liên quan đến cảm xúc, kết nối và trực giác và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, dòng nước cảm xúc này có thể đang bị ùn tắc, tràn bờ hoặc khó được gọi tên một cách rõ ràng. Ở thế ngược, năng lượng này có thể bị lệch thành nhạy cảm quá mức, kiểm soát ngầm hoặc mất cân đối nội tâm. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/cups_13.webp"
+      "image": "assets/cards/cups_13.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "cups_14",
@@ -1361,7 +1743,13 @@
       ],
       "meaning_upright": "Lá này nói về dòng chảy cảm xúc, sự liên kết và cách bạn tiếp nhận thế giới bằng trái tim và trực giác. King thể hiện mức độ làm chủ cao nhất của lĩnh vực này, nơi kinh nghiệm và thẩm quyền đi kèm trách nhiệm rõ ràng. Trong bộ chén, lá này thường liên quan đến cảm xúc, kết nối và trực giác và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, dòng nước cảm xúc này có thể đang bị ùn tắc, tràn bờ hoặc khó được gọi tên một cách rõ ràng. Khi đảo ngược, cách làm chủ dễ chuyển thành cứng nhắc, quá ưu thế hoặc mất sự điềm đạm cần thiết. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/cups_14.webp"
+      "image": "assets/cards/cups_14.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "swords_01",
@@ -1388,7 +1776,13 @@
       ],
       "meaning_upright": "Lá này mang năng lượng của không khí, liên quan đến cách bạn suy nghĩ, nhìn vấn đề và cắt nghĩa sự thật. Mở ra một cơ hội mới và một nguồn năng lượng nguyên sơ để bắt đầu. Trong bộ kiếm, lá này thường liên quan đến tư duy, sự thật và xung đột và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, năng lượng trí óc này dễ bị rối, căng thẳng, tự bào chữa hoặc kết luận sai lệch. Cơ hội vẫn có nhưng dễ bị bỏ lỡ, chậm nhịp hoặc chưa được đón nhận đúng lúc. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/swords_01.webp"
+      "image": "assets/cards/swords_01.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "swords_02",
@@ -1415,7 +1809,13 @@
       ],
       "meaning_upright": "Lá này mang năng lượng của không khí, liên quan đến cách bạn suy nghĩ, nhìn vấn đề và cắt nghĩa sự thật. Tập trung vào cân đối, lựa chọn và cách hai lực kéo đang đối thoại với nhau. Trong bộ kiếm, lá này thường liên quan đến tư duy, sự thật và xung đột và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, năng lượng trí óc này dễ bị rối, căng thẳng, tự bào chữa hoặc kết luận sai lệch. Cần cảnh báo sự lúng túng, treo quyết định hoặc lệch mất cân bằng giữa hai hướng. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/swords_02.webp"
+      "image": "assets/cards/swords_02.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "swords_03",
@@ -1442,7 +1842,13 @@
       ],
       "meaning_upright": "Lá này mang năng lượng của không khí, liên quan đến cách bạn suy nghĩ, nhìn vấn đề và cắt nghĩa sự thật. Năng lượng ba thường liên quan đến mở rộng, phối hợp và thấy kết quả đầu tiên đang hình thành. Trong bộ kiếm, lá này thường liên quan đến tư duy, sự thật và xung đột và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, năng lượng trí óc này dễ bị rối, căng thẳng, tự bào chữa hoặc kết luận sai lệch. Bạn có thể đang gặp trở ngại trong phối hợp hoặc dự án mở ra nhưng chưa đi đến đâu. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/swords_03.webp"
+      "image": "assets/cards/swords_03.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "swords_04",
@@ -1469,7 +1875,13 @@
       ],
       "meaning_upright": "Lá này mang năng lượng của không khí, liên quan đến cách bạn suy nghĩ, nhìn vấn đề và cắt nghĩa sự thật. Lá bài đưa năng lượng về ổn định, nề nếp và một nền tảng để bạn đứng chân lâu hơn. Trong bộ kiếm, lá này thường liên quan đến tư duy, sự thật và xung đột và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, năng lượng trí óc này dễ bị rối, căng thẳng, tự bào chữa hoặc kết luận sai lệch. Khi đảo ngược, sự ổn định này có thể bị lung lay hoặc trở thành quá đóng khiến năng lượng không luân chuyển. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/swords_04.webp"
+      "image": "assets/cards/swords_04.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "swords_05",
@@ -1496,7 +1908,13 @@
       ],
       "meaning_upright": "Lá này mang năng lượng của không khí, liên quan đến cách bạn suy nghĩ, nhìn vấn đề và cắt nghĩa sự thật. Năm là pha dao động, xung đột nhỏ hoặc sự thay đổi buộc bạn phải điều chỉnh nhanh. Trong bộ kiếm, lá này thường liên quan đến tư duy, sự thật và xung đột và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, năng lượng trí óc này dễ bị rối, căng thẳng, tự bào chữa hoặc kết luận sai lệch. Ở chiều ngược, xung đột có thể đang dịu lại, bị né tránh hoặc chuyển thành căng thẳng ngầm. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/swords_05.webp"
+      "image": "assets/cards/swords_05.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "swords_06",
@@ -1523,7 +1941,13 @@
       ],
       "meaning_upright": "Lá này mang năng lượng của không khí, liên quan đến cách bạn suy nghĩ, nhìn vấn đề và cắt nghĩa sự thật. Sáu thường đem đến sự hài hòa hơn, một nhịp chuyển tiếp dễ dàng hoặc cảm giác được nâng đỡ. Trong bộ kiếm, lá này thường liên quan đến tư duy, sự thật và xung đột và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, năng lượng trí óc này dễ bị rối, căng thẳng, tự bào chữa hoặc kết luận sai lệch. Khi đảo ngược, dòng chảy dễ bị chậm lại, mất cân đối hoặc có sự lệch giữa cho và nhận. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/swords_06.webp"
+      "image": "assets/cards/swords_06.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "swords_07",
@@ -1550,7 +1974,13 @@
       ],
       "meaning_upright": "Lá này mang năng lượng của không khí, liên quan đến cách bạn suy nghĩ, nhìn vấn đề và cắt nghĩa sự thật. Bảy gợi đến bài kiểm tra về niềm tin, chiến lược và khả năng giữ hướng khi áp lực tăng lên. Trong bộ kiếm, lá này thường liên quan đến tư duy, sự thật và xung đột và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, năng lượng trí óc này dễ bị rối, căng thẳng, tự bào chữa hoặc kết luận sai lệch. Ở thế ngược, bạn có thể mệt mỏi, phân vân hoặc dùng sai cách để bảo vệ điều quan trọng. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/swords_07.webp"
+      "image": "assets/cards/swords_07.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "swords_08",
@@ -1577,7 +2007,13 @@
       ],
       "meaning_upright": "Lá này mang năng lượng của không khí, liên quan đến cách bạn suy nghĩ, nhìn vấn đề và cắt nghĩa sự thật. Tám là năng lượng của dòng chảy rõ hơn, tốc độ cao hơn hoặc sự lặp lại giúp tạo thành kỹ năng. Trong bộ kiếm, lá này thường liên quan đến tư duy, sự thật và xung đột và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, năng lượng trí óc này dễ bị rối, căng thẳng, tự bào chữa hoặc kết luận sai lệch. Khi đảo ngược, nhịp độ dễ bị đứt, trễ hoặc lặp lại một cách vô thức mà không tạo tiến bộ. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/swords_08.webp"
+      "image": "assets/cards/swords_08.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "swords_09",
@@ -1604,7 +2040,13 @@
       ],
       "meaning_upright": "Lá này mang năng lượng của không khí, liên quan đến cách bạn suy nghĩ, nhìn vấn đề và cắt nghĩa sự thật. Chín là mức sát đích, nơi bạn có kinh nghiệm và cần thêm sự bền bỉ để kết chu kỳ hiện tại. Trong bộ kiếm, lá này thường liên quan đến tư duy, sự thật và xung đột và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, năng lượng trí óc này dễ bị rối, căng thẳng, tự bào chữa hoặc kết luận sai lệch. Ở chiều ngược, cảm giác gần đích có thể đi kèm cạn sức, lo âu hoặc khó buông sự phòng thủ. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/swords_09.webp"
+      "image": "assets/cards/swords_09.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "swords_10",
@@ -1631,7 +2073,13 @@
       ],
       "meaning_upright": "Lá này mang năng lượng của không khí, liên quan đến cách bạn suy nghĩ, nhìn vấn đề và cắt nghĩa sự thật. Mười đánh dấu điểm đầy của chu kỳ, nơi kết quả rõ hơn nhưng cũng cho thấy gánh nặng hoặc hệ quả của nó. Trong bộ kiếm, lá này thường liên quan đến tư duy, sự thật và xung đột và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, năng lượng trí óc này dễ bị rối, căng thẳng, tự bào chữa hoặc kết luận sai lệch. Khi đảo ngược, chu kỳ này đang đòi được giải tải, đóng lại hoặc sắp xếp lại cho bền vững hơn. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/swords_10.webp"
+      "image": "assets/cards/swords_10.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "swords_11",
@@ -1658,7 +2106,13 @@
       ],
       "meaning_upright": "Lá này mang năng lượng của không khí, liên quan đến cách bạn suy nghĩ, nhìn vấn đề và cắt nghĩa sự thật. Page đem đến tâm thế học hỏi, tín hiệu mới và sự mở của người đang bước vào một lĩnh vực bằng trí tò mò. Trong bộ kiếm, lá này thường liên quan đến tư duy, sự thật và xung đột và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, năng lượng trí óc này dễ bị rối, căng thẳng, tự bào chữa hoặc kết luận sai lệch. Ở thế ngược, sự non trẻ hoặc phân tâm có thể khiến thông điệp đẹp trở nên méo hoặc khó giữ định hướng. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/swords_11.webp"
+      "image": "assets/cards/swords_11.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "swords_12",
@@ -1685,7 +2139,13 @@
       ],
       "meaning_upright": "Lá này mang năng lượng của không khí, liên quan đến cách bạn suy nghĩ, nhìn vấn đề và cắt nghĩa sự thật. Knight đẩy câu chuyện đi nhanh hơn, nhiều động lực hơn và đòi hỏi bạn đưa năng lượng vào hành động có hướng. Trong bộ kiếm, lá này thường liên quan đến tư duy, sự thật và xung đột và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, năng lượng trí óc này dễ bị rối, căng thẳng, tự bào chữa hoặc kết luận sai lệch. Khi đảo ngược, động lực này dễ trở nên hấp tấp, mất kiểm soát hoặc chạy quá đà trong khi mục tiêu chưa rõ. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/swords_12.webp"
+      "image": "assets/cards/swords_12.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "swords_13",
@@ -1712,7 +2172,13 @@
       ],
       "meaning_upright": "Lá này mang năng lượng của không khí, liên quan đến cách bạn suy nghĩ, nhìn vấn đề và cắt nghĩa sự thật. Queen là năng lượng trưởng thành, biết quan sát và điều hướng lĩnh vực này bằng sự tinh tế và nội lực ổn định. Trong bộ kiếm, lá này thường liên quan đến tư duy, sự thật và xung đột và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, năng lượng trí óc này dễ bị rối, căng thẳng, tự bào chữa hoặc kết luận sai lệch. Ở thế ngược, năng lượng này có thể bị lệch thành nhạy cảm quá mức, kiểm soát ngầm hoặc mất cân đối nội tâm. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/swords_13.webp"
+      "image": "assets/cards/swords_13.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "swords_14",
@@ -1739,7 +2205,13 @@
       ],
       "meaning_upright": "Lá này mang năng lượng của không khí, liên quan đến cách bạn suy nghĩ, nhìn vấn đề và cắt nghĩa sự thật. King thể hiện mức độ làm chủ cao nhất của lĩnh vực này, nơi kinh nghiệm và thẩm quyền đi kèm trách nhiệm rõ ràng. Trong bộ kiếm, lá này thường liên quan đến tư duy, sự thật và xung đột và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, năng lượng trí óc này dễ bị rối, căng thẳng, tự bào chữa hoặc kết luận sai lệch. Khi đảo ngược, cách làm chủ dễ chuyển thành cứng nhắc, quá ưu thế hoặc mất sự điềm đạm cần thiết. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/swords_14.webp"
+      "image": "assets/cards/swords_14.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "pentacles_01",
@@ -1766,7 +2238,13 @@
       ],
       "meaning_upright": "Lá này đại diện cho đất, tiến độ cụ thể, những thứ có thể xây dựng, chăm sóc và giữ cho bền vững. Mở ra một cơ hội mới và một nguồn năng lượng nguyên sơ để bắt đầu. Trong bộ tiền, lá này thường liên quan đến công việc, tài nguyên và tính thực tế và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, vấn đề thực tế dễ rơi vào trì trệ, bất cẩn hoặc quá chấp vào sự an toàn bề ngoài. Cơ hội vẫn có nhưng dễ bị bỏ lỡ, chậm nhịp hoặc chưa được đón nhận đúng lúc. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/pentacles_01.webp"
+      "image": "assets/cards/pentacles_01.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "pentacles_02",
@@ -1793,7 +2271,13 @@
       ],
       "meaning_upright": "Lá này đại diện cho đất, tiến độ cụ thể, những thứ có thể xây dựng, chăm sóc và giữ cho bền vững. Tập trung vào cân đối, lựa chọn và cách hai lực kéo đang đối thoại với nhau. Trong bộ tiền, lá này thường liên quan đến công việc, tài nguyên và tính thực tế và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, vấn đề thực tế dễ rơi vào trì trệ, bất cẩn hoặc quá chấp vào sự an toàn bề ngoài. Cần cảnh báo sự lúng túng, treo quyết định hoặc lệch mất cân bằng giữa hai hướng. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/pentacles_02.webp"
+      "image": "assets/cards/pentacles_02.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "pentacles_03",
@@ -1820,7 +2304,13 @@
       ],
       "meaning_upright": "Lá này đại diện cho đất, tiến độ cụ thể, những thứ có thể xây dựng, chăm sóc và giữ cho bền vững. Năng lượng ba thường liên quan đến mở rộng, phối hợp và thấy kết quả đầu tiên đang hình thành. Trong bộ tiền, lá này thường liên quan đến công việc, tài nguyên và tính thực tế và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, vấn đề thực tế dễ rơi vào trì trệ, bất cẩn hoặc quá chấp vào sự an toàn bề ngoài. Bạn có thể đang gặp trở ngại trong phối hợp hoặc dự án mở ra nhưng chưa đi đến đâu. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/pentacles_03.webp"
+      "image": "assets/cards/pentacles_03.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "pentacles_04",
@@ -1847,7 +2337,13 @@
       ],
       "meaning_upright": "Lá này đại diện cho đất, tiến độ cụ thể, những thứ có thể xây dựng, chăm sóc và giữ cho bền vững. Lá bài đưa năng lượng về ổn định, nề nếp và một nền tảng để bạn đứng chân lâu hơn. Trong bộ tiền, lá này thường liên quan đến công việc, tài nguyên và tính thực tế và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, vấn đề thực tế dễ rơi vào trì trệ, bất cẩn hoặc quá chấp vào sự an toàn bề ngoài. Khi đảo ngược, sự ổn định này có thể bị lung lay hoặc trở thành quá đóng khiến năng lượng không luân chuyển. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/pentacles_04.webp"
+      "image": "assets/cards/pentacles_04.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "pentacles_05",
@@ -1874,7 +2370,13 @@
       ],
       "meaning_upright": "Lá này đại diện cho đất, tiến độ cụ thể, những thứ có thể xây dựng, chăm sóc và giữ cho bền vững. Năm là pha dao động, xung đột nhỏ hoặc sự thay đổi buộc bạn phải điều chỉnh nhanh. Trong bộ tiền, lá này thường liên quan đến công việc, tài nguyên và tính thực tế và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, vấn đề thực tế dễ rơi vào trì trệ, bất cẩn hoặc quá chấp vào sự an toàn bề ngoài. Ở chiều ngược, xung đột có thể đang dịu lại, bị né tránh hoặc chuyển thành căng thẳng ngầm. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/pentacles_05.webp"
+      "image": "assets/cards/pentacles_05.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "pentacles_06",
@@ -1901,7 +2403,13 @@
       ],
       "meaning_upright": "Lá này đại diện cho đất, tiến độ cụ thể, những thứ có thể xây dựng, chăm sóc và giữ cho bền vững. Sáu thường đem đến sự hài hòa hơn, một nhịp chuyển tiếp dễ dàng hoặc cảm giác được nâng đỡ. Trong bộ tiền, lá này thường liên quan đến công việc, tài nguyên và tính thực tế và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, vấn đề thực tế dễ rơi vào trì trệ, bất cẩn hoặc quá chấp vào sự an toàn bề ngoài. Khi đảo ngược, dòng chảy dễ bị chậm lại, mất cân đối hoặc có sự lệch giữa cho và nhận. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/pentacles_06.webp"
+      "image": "assets/cards/pentacles_06.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "pentacles_07",
@@ -1928,7 +2436,13 @@
       ],
       "meaning_upright": "Lá này đại diện cho đất, tiến độ cụ thể, những thứ có thể xây dựng, chăm sóc và giữ cho bền vững. Bảy gợi đến bài kiểm tra về niềm tin, chiến lược và khả năng giữ hướng khi áp lực tăng lên. Trong bộ tiền, lá này thường liên quan đến công việc, tài nguyên và tính thực tế và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, vấn đề thực tế dễ rơi vào trì trệ, bất cẩn hoặc quá chấp vào sự an toàn bề ngoài. Ở thế ngược, bạn có thể mệt mỏi, phân vân hoặc dùng sai cách để bảo vệ điều quan trọng. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/pentacles_07.webp"
+      "image": "assets/cards/pentacles_07.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "pentacles_08",
@@ -1955,7 +2469,13 @@
       ],
       "meaning_upright": "Lá này đại diện cho đất, tiến độ cụ thể, những thứ có thể xây dựng, chăm sóc và giữ cho bền vững. Tám là năng lượng của dòng chảy rõ hơn, tốc độ cao hơn hoặc sự lặp lại giúp tạo thành kỹ năng. Trong bộ tiền, lá này thường liên quan đến công việc, tài nguyên và tính thực tế và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, vấn đề thực tế dễ rơi vào trì trệ, bất cẩn hoặc quá chấp vào sự an toàn bề ngoài. Khi đảo ngược, nhịp độ dễ bị đứt, trễ hoặc lặp lại một cách vô thức mà không tạo tiến bộ. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/pentacles_08.webp"
+      "image": "assets/cards/pentacles_08.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "pentacles_09",
@@ -1982,7 +2502,13 @@
       ],
       "meaning_upright": "Lá này đại diện cho đất, tiến độ cụ thể, những thứ có thể xây dựng, chăm sóc và giữ cho bền vững. Chín là mức sát đích, nơi bạn có kinh nghiệm và cần thêm sự bền bỉ để kết chu kỳ hiện tại. Trong bộ tiền, lá này thường liên quan đến công việc, tài nguyên và tính thực tế và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, vấn đề thực tế dễ rơi vào trì trệ, bất cẩn hoặc quá chấp vào sự an toàn bề ngoài. Ở chiều ngược, cảm giác gần đích có thể đi kèm cạn sức, lo âu hoặc khó buông sự phòng thủ. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/pentacles_09.webp"
+      "image": "assets/cards/pentacles_09.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "pentacles_10",
@@ -2009,7 +2535,13 @@
       ],
       "meaning_upright": "Lá này đại diện cho đất, tiến độ cụ thể, những thứ có thể xây dựng, chăm sóc và giữ cho bền vững. Mười đánh dấu điểm đầy của chu kỳ, nơi kết quả rõ hơn nhưng cũng cho thấy gánh nặng hoặc hệ quả của nó. Trong bộ tiền, lá này thường liên quan đến công việc, tài nguyên và tính thực tế và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, vấn đề thực tế dễ rơi vào trì trệ, bất cẩn hoặc quá chấp vào sự an toàn bề ngoài. Khi đảo ngược, chu kỳ này đang đòi được giải tải, đóng lại hoặc sắp xếp lại cho bền vững hơn. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/pentacles_10.webp"
+      "image": "assets/cards/pentacles_10.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "pentacles_11",
@@ -2036,7 +2568,13 @@
       ],
       "meaning_upright": "Lá này đại diện cho đất, tiến độ cụ thể, những thứ có thể xây dựng, chăm sóc và giữ cho bền vững. Page đem đến tâm thế học hỏi, tín hiệu mới và sự mở của người đang bước vào một lĩnh vực bằng trí tò mò. Trong bộ tiền, lá này thường liên quan đến công việc, tài nguyên và tính thực tế và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, vấn đề thực tế dễ rơi vào trì trệ, bất cẩn hoặc quá chấp vào sự an toàn bề ngoài. Ở thế ngược, sự non trẻ hoặc phân tâm có thể khiến thông điệp đẹp trở nên méo hoặc khó giữ định hướng. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/pentacles_11.webp"
+      "image": "assets/cards/pentacles_11.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "pentacles_12",
@@ -2063,7 +2601,13 @@
       ],
       "meaning_upright": "Lá này đại diện cho đất, tiến độ cụ thể, những thứ có thể xây dựng, chăm sóc và giữ cho bền vững. Knight đẩy câu chuyện đi nhanh hơn, nhiều động lực hơn và đòi hỏi bạn đưa năng lượng vào hành động có hướng. Trong bộ tiền, lá này thường liên quan đến công việc, tài nguyên và tính thực tế và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, vấn đề thực tế dễ rơi vào trì trệ, bất cẩn hoặc quá chấp vào sự an toàn bề ngoài. Khi đảo ngược, động lực này dễ trở nên hấp tấp, mất kiểm soát hoặc chạy quá đà trong khi mục tiêu chưa rõ. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/pentacles_12.webp"
+      "image": "assets/cards/pentacles_12.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "pentacles_13",
@@ -2090,7 +2634,13 @@
       ],
       "meaning_upright": "Lá này đại diện cho đất, tiến độ cụ thể, những thứ có thể xây dựng, chăm sóc và giữ cho bền vững. Queen là năng lượng trưởng thành, biết quan sát và điều hướng lĩnh vực này bằng sự tinh tế và nội lực ổn định. Trong bộ tiền, lá này thường liên quan đến công việc, tài nguyên và tính thực tế và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, vấn đề thực tế dễ rơi vào trì trệ, bất cẩn hoặc quá chấp vào sự an toàn bề ngoài. Ở thế ngược, năng lượng này có thể bị lệch thành nhạy cảm quá mức, kiểm soát ngầm hoặc mất cân đối nội tâm. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/pentacles_13.webp"
+      "image": "assets/cards/pentacles_13.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     },
     {
       "id": "pentacles_14",
@@ -2117,7 +2667,13 @@
       ],
       "meaning_upright": "Lá này đại diện cho đất, tiến độ cụ thể, những thứ có thể xây dựng, chăm sóc và giữ cho bền vững. King thể hiện mức độ làm chủ cao nhất của lĩnh vực này, nơi kinh nghiệm và thẩm quyền đi kèm trách nhiệm rõ ràng. Trong bộ tiền, lá này thường liên quan đến công việc, tài nguyên và tính thực tế và cách bạn đưa năng lượng đó vào đời sống.",
       "meaning_reversed": "Khi đảo ngược, vấn đề thực tế dễ rơi vào trì trệ, bất cẩn hoặc quá chấp vào sự an toàn bề ngoài. Khi đảo ngược, cách làm chủ dễ chuyển thành cứng nhắc, quá ưu thế hoặc mất sự điềm đạm cần thiết. Đây là lời nhắc để điều chỉnh nhịp độ, cách ưu tiên và cách bạn đang đẩy hoặc giữ năng lượng này trong mình.",
-      "image": "assets/cards/pentacles_14.webp"
+      "image": "assets/cards/pentacles_14.webp",
+      "love_upright": "Hãy xem xét cảm xúc và kết nối trong tình cảm qua lăng kính của lá bài này.",
+      "love_reversed": "Khi đảo ngược, năng lượng tình cảm cần được xem xét lại và điều chỉnh.",
+      "career_upright": "Áp dụng năng lượng của lá bài này vào công việc và sự nghiệp.",
+      "career_reversed": "Khi đảo ngược, hãy xem xét lại hướng đi và cách tiếp cận trong công việc.",
+      "spiritual": "Lá bài này mang thông điệp tâm linh sâu sắc về sự phát triển bản thân.",
+      "related_cards": []
     }
   ]
 }

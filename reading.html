@@ -75,11 +75,17 @@
 
               <div class="reading-detail__keywords" data-detail-keywords></div>
 
+              <div class="reading-detail__tabs" role="group" aria-label="Chế độ đọc bài">
+                <button class="detail-tab is-active" type="button" data-reading-tab="main" id="rtab-main">Tổng quan</button>
+                <button class="detail-tab" type="button" data-reading-tab="love" id="rtab-love">Tình cảm</button>
+                <button class="detail-tab" type="button" data-reading-tab="career" id="rtab-career">Sự nghiệp</button>
+                <button class="detail-tab" type="button" data-reading-tab="spiritual" id="rtab-spiritual">Tâm linh</button>
+              </div>
+
               <div class="reading-detail__meaning">
-                <h3>Nghia chinh</h3>
+                <h3 data-reading-detail-heading>Nghĩa chính</h3>
                 <p data-detail-meaning>
-                  Chi tiết của lá bài được chọn sẽ hiện tại đây. Phase 4 bổ sung panel này để
-                  reading page có thể đọc bài từng lá một cách rõ ràng.
+                  Nhấn vào từng lá bài để xem tên, từ khóa và nghĩa chi tiết.
                 </p>
               </div>
             </aside>
